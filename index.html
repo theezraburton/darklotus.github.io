@@ -74,6 +74,12 @@
     </head>
     <body>
         <div id="app">
+                <select v-model="selectedskill" v-on:change="loadData">
+                        <!-- inline object literal -->
+                        <option selected v-bind:value="{ name: 'Alchemy' ,url:'https://gist.githubusercontent.com/DarkLotus/eb7232823309de36f26669b5049cd3d9/raw/a49ec850597feb75145ed73e09cb712b2682e76d/gistfile1.txt'  }">Alchemy</option>
+                        <option v-bind:value="{ name: 'Carp', url:'https://gist.githubusercontent.com/DarkLotus/f02dacf470d85b7f3ceae656a23742f7/raw/9cd28971f59bc1c6c5f7984e1e4072c3348936a7/gistfile1.txt'  }">Carpentry</option>
+
+                    </select>
              <demo-grid
             :data="gridData"
             :columns="gridColumns"
@@ -180,8 +186,18 @@ var demo = new Vue({
   el: '#app',
   data: {
     searchQuery: '',
+    selectedskill: {},
     gridColumns: ['Image','Name', 'Group', 'Skill','Resources'],
     gridData: []
+  },
+  methods: {
+      loadData: function(event) {
+        var _this = this;
+        console.log(event);
+        $.getJSON(_this.selectedskill.url, function (json) {
+            _this.gridData = json;
+        });
+      }
   },
   created: function () {
         var _this = this;
