@@ -97,10 +97,14 @@
               </thead>
               <tbody>
                 <tr v-for="entry in filteredData">
-                        <td><img src="http://Services.ServUO.com/uoapi/item/{{entry['Type']}}"> </img></td>
+                        <td><img src="http://Services.ServUO.com/uoapi/item/{{entry['Image']}}"> </img></td>
                   <td>{{entry['Name']}}</td>
                   <td>{{entry['Group']}}</td>
-                  <td>{{entry['Skills'][0].MinSkill}} {{entry['Skills'][0].SkillName}}</td>
+                  <td>{{entry['Skill']}} {{entry['PrimarySkillName']}}
+                        <span v-for="e in entry['SecondarySkills']">
+                                <p>{{e.Amount }} {{e.Name}}</p>
+                            </span>
+                  </td>
                   <td>
                       <span v-for="e in entry['Resources']">
                           <p>{{e.Amount }} {{e.Name}}</p>
@@ -176,12 +180,12 @@ var demo = new Vue({
   el: '#app',
   data: {
     searchQuery: '',
-    gridColumns: ['Type','Name', 'Group', 'Skills','Resources'],
+    gridColumns: ['Image','Name', 'Group', 'Skill','Resources'],
     gridData: []
   },
   created: function () {
         var _this = this;
-        $.getJSON('https://gist.githubusercontent.com/DarkLotus/eb7232823309de36f26669b5049cd3d9/raw/f012486021484153df481e758c6ccf9ccf84387d/gistfile1.txt', function (json) {
+        $.getJSON('https://gist.githubusercontent.com/DarkLotus/eb7232823309de36f26669b5049cd3d9/raw/a49ec850597feb75145ed73e09cb712b2682e76d/gistfile1.txt', function (json) {
             _this.gridData = json;
         });
     }
