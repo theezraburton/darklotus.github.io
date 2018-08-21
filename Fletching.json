@@ -1,0 +1,160 @@
+[
+  {
+    "Name": "kindling",
+    "Group": "Materials",
+    "Image": "3553",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 0.0,
+    "PrimarySkillMax": 0.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "shaft",
+    "Group": "Materials",
+    "Image": "7124",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 0.0,
+    "PrimarySkillMax": 40.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "arrow",
+    "Group": "Ammunition",
+    "Image": "3903",
+    "Resources": [
+      {
+        "Name": "Arrow Shafts",
+        "Amount": 1
+      },
+      {
+        "Name": "Feathers",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 0.0,
+    "PrimarySkillMax": 40.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "crossbow bolt",
+    "Group": "Ammunition",
+    "Image": "7163",
+    "Resources": [
+      {
+        "Name": "Arrow Shafts",
+        "Amount": 1
+      },
+      {
+        "Name": "Feathers",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 0.0,
+    "PrimarySkillMax": 40.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bow",
+    "Group": "Weapons",
+    "Image": "5042",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 7
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 30.0,
+    "PrimarySkillMax": 70.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "crossbow",
+    "Group": "Weapons",
+    "Image": "3920",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 7
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 60.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "heavy crossbow",
+    "Group": "Weapons",
+    "Image": "5117",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 80.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "composite bow",
+    "Group": "Weapons",
+    "Image": "9922",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 7
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 70.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "repeating crossbow",
+    "Group": "Weapons",
+    "Image": "9923",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 90.0,
+    "PrimarySkillMax": 130.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "yumi",
+    "Group": "Weapons",
+    "Image": "10149",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 90.0,
+    "PrimarySkillMax": 130.0,
+    "SecondarySkills": []
+  }
+]

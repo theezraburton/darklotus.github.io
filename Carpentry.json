@@ -1,0 +1,2186 @@
+[
+  {
+    "Name": "board",
+    "Group": "Other",
+    "Image": "7127",
+    "Resources": [
+      {
+        "Name": "Logs",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 0.0,
+    "PrimarySkillMax": 0.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "deed parts",
+    "Group": "Other",
+    "Image": "4084",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 300
+      },
+      {
+        "Name": "stone ingots",
+        "Amount": 300
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 65.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "barrel staves",
+    "Group": "Other",
+    "Image": "7857",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 5
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "barrel lid",
+    "Group": "Other",
+    "Image": "7608",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 11.0,
+    "PrimarySkillMax": 36.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "short music stand (left)",
+    "Group": "Other",
+    "Image": "3766",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 78.9,
+    "PrimarySkillMax": 103.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tall music stand (left)",
+    "Group": "Other",
+    "Image": "3771",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 81.5,
+    "PrimarySkillMax": 106.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "easel (south)",
+    "Group": "Other",
+    "Image": "3941",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 86.8,
+    "PrimarySkillMax": 111.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "red hanging lantern",
+    "Group": "Other",
+    "Image": "9410",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 5
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 65.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "white hanging lantern",
+    "Group": "Other",
+    "Image": "9414",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 5
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 65.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "shoji screen",
+    "Group": "Other",
+    "Image": "9419",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 75
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 60
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 80.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 55.0,
+        "SkillName": "tailoring",
+        "MinSkill": 50.0
+      }
+    ]
+  },
+  {
+    "Name": "bamboo screen",
+    "Group": "Other",
+    "Image": "9424",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 75
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 60
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 80.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 55.0,
+        "SkillName": "tailoring",
+        "MinSkill": 50.0
+      }
+    ]
+  },
+  {
+    "Name": "fishing pole",
+    "Group": "Other",
+    "Image": "3520",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 5
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 5
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 68.4,
+    "PrimarySkillMax": 93.4,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 45.0,
+        "SkillName": "tailoring",
+        "MinSkill": 40.0
+      }
+    ]
+  },
+  {
+    "Name": "foot stool",
+    "Group": "Furniture",
+    "Image": "2910",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 9
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 11.0,
+    "PrimarySkillMax": 36.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "stool",
+    "Group": "Furniture",
+    "Image": "2602",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 9
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 11.0,
+    "PrimarySkillMax": 36.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "straw chair",
+    "Group": "Furniture",
+    "Image": "2907",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 13
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 21.0,
+    "PrimarySkillMax": 46.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "wooden chair",
+    "Group": "Furniture",
+    "Image": "2903",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 13
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 21.0,
+    "PrimarySkillMax": 46.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Vesper-style chair",
+    "Group": "Furniture",
+    "Image": "2895",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 42.1,
+    "PrimarySkillMax": 67.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Trinsic-style chair",
+    "Group": "Furniture",
+    "Image": "2899",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 13
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 42.1,
+    "PrimarySkillMax": 67.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "wooden bench",
+    "Group": "Furniture",
+    "Image": "2861",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 17
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 52.6,
+    "PrimarySkillMax": 77.6,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "wooden throne",
+    "Group": "Furniture",
+    "Image": "2862",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 17
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 52.6,
+    "PrimarySkillMax": 77.6,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Magincia-style throne",
+    "Group": "Furniture",
+    "Image": "2867",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 19
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 73.6,
+    "PrimarySkillMax": 98.6,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "small table",
+    "Group": "Furniture",
+    "Image": "2869",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 17
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 42.1,
+    "PrimarySkillMax": 67.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "writing table",
+    "Group": "Furniture",
+    "Image": "2890",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 17
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 63.1,
+    "PrimarySkillMax": 88.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "large table",
+    "Group": "Furniture",
+    "Image": "2959",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 23
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 63.1,
+    "PrimarySkillMax": 88.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Yew-wood table",
+    "Group": "Furniture",
+    "Image": "2960",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 27
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 84.2,
+    "PrimarySkillMax": 109.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "elegant low table",
+    "Group": "Furniture",
+    "Image": "10265",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 35
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 80.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "plain low table",
+    "Group": "Furniture",
+    "Image": "10266",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 35
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 80.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "ornate elven chair",
+    "Group": "Furniture",
+    "Image": "11747",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 30
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 80.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "wooden box",
+    "Group": "Containers",
+    "Image": "2474",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 21.0,
+    "PrimarySkillMax": 46.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "small crate",
+    "Group": "Containers",
+    "Image": "2473",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 10.0,
+    "PrimarySkillMax": 35.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "medium crate",
+    "Group": "Containers",
+    "Image": "3647",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 31.0,
+    "PrimarySkillMax": 56.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "large crate",
+    "Group": "Containers",
+    "Image": "3645",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 18
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 47.3,
+    "PrimarySkillMax": 72.3,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "wooden chest",
+    "Group": "Containers",
+    "Image": "3651",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 73.6,
+    "PrimarySkillMax": 98.6,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "wooden shelf",
+    "Group": "Containers",
+    "Image": "2717",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 31.5,
+    "PrimarySkillMax": 56.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "armoire (red)",
+    "Group": "Containers",
+    "Image": "2637",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 35
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 84.2,
+    "PrimarySkillMax": 109.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "armoire",
+    "Group": "Containers",
+    "Image": "2639",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 35
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 84.2,
+    "PrimarySkillMax": 109.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "plain wooden chest",
+    "Group": "Containers",
+    "Image": "10251",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 30
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 90.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "ornate wooden chest",
+    "Group": "Containers",
+    "Image": "10253",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 30
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 90.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "gilded wooden chest",
+    "Group": "Containers",
+    "Image": "10255",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 30
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 90.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "wooden footlocker",
+    "Group": "Containers",
+    "Image": "10257",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 30
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 90.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "finished wooden chest",
+    "Group": "Containers",
+    "Image": "10259",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 30
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 90.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tall cabinet",
+    "Group": "Containers",
+    "Image": "10261",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 35
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 90.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "short cabinet",
+    "Group": "Containers",
+    "Image": "10263",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 35
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 90.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "red armoire",
+    "Group": "Containers",
+    "Image": "10327",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 40
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 90.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "elegant armoire",
+    "Group": "Containers",
+    "Image": "10329",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 40
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 90.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "maple armoire",
+    "Group": "Containers",
+    "Image": "10331",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 40
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 90.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cherry armoire",
+    "Group": "Containers",
+    "Image": "10333",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 40
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 90.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "keg",
+    "Group": "Containers",
+    "Image": "3711",
+    "Resources": [
+      {
+        "Name": "Barrel Staves",
+        "Amount": 3
+      },
+      {
+        "Name": "Barrel Hoops",
+        "Amount": 1
+      },
+      {
+        "Name": "Barrel Lids",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 57.8,
+    "PrimarySkillMax": 82.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "arcane bookshelf (south)",
+    "Group": "Containers",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 80
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 94.7,
+    "PrimarySkillMax": 119.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "arcane bookshelf (east)",
+    "Group": "Containers",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 80
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 94.7,
+    "PrimarySkillMax": 119.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "elven dresser (south)",
+    "Group": "Containers",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 45
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 75.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "elven dresser (east)",
+    "Group": "Containers",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 45
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 75.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "shepherd's crook",
+    "Group": "Weapons",
+    "Image": "3713",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 7
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 78.9,
+    "PrimarySkillMax": 103.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "quarter staff",
+    "Group": "Weapons",
+    "Image": "3721",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 73.6,
+    "PrimarySkillMax": 98.6,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "gnarled staff",
+    "Group": "Weapons",
+    "Image": "5112",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 7
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 78.9,
+    "PrimarySkillMax": 103.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "wooden shield",
+    "Group": "Armor",
+    "Image": "7034",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 9
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 52.6,
+    "PrimarySkillMax": 77.6,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bokuto",
+    "Group": "Weapons",
+    "Image": "10152",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 70.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tetsubo",
+    "Group": "Weapons",
+    "Image": "10150",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 80.0,
+    "PrimarySkillMax": 140.3,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "lap harp",
+    "Group": "Instruments",
+    "Image": "3762",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 20
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 63.1,
+    "PrimarySkillMax": 88.1,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 50.0,
+        "SkillName": "musicianship",
+        "MinSkill": 45.0
+      }
+    ]
+  },
+  {
+    "Name": "standing harp",
+    "Group": "Instruments",
+    "Image": "3761",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 35
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 78.9,
+    "PrimarySkillMax": 103.9,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 50.0,
+        "SkillName": "musicianship",
+        "MinSkill": 45.0
+      }
+    ]
+  },
+  {
+    "Name": "drum",
+    "Group": "Instruments",
+    "Image": "3740",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 20
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 57.8,
+    "PrimarySkillMax": 82.8,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 50.0,
+        "SkillName": "musicianship",
+        "MinSkill": 45.0
+      }
+    ]
+  },
+  {
+    "Name": "lute",
+    "Group": "Instruments",
+    "Image": "3763",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 25
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 68.4,
+    "PrimarySkillMax": 93.4,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 50.0,
+        "SkillName": "musicianship",
+        "MinSkill": 45.0
+      }
+    ]
+  },
+  {
+    "Name": "tambourine",
+    "Group": "Instruments",
+    "Image": "3741",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 15
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 57.8,
+    "PrimarySkillMax": 82.8,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 50.0,
+        "SkillName": "musicianship",
+        "MinSkill": 45.0
+      }
+    ]
+  },
+  {
+    "Name": "tambourine (tassel)",
+    "Group": "Instruments",
+    "Image": "3742",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 15
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 57.8,
+    "PrimarySkillMax": 82.8,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 50.0,
+        "SkillName": "musicianship",
+        "MinSkill": 45.0
+      }
+    ]
+  },
+  {
+    "Name": "bamboo flute",
+    "Group": "Instruments",
+    "Image": "10245",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 80.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 50.0,
+        "SkillName": "musicianship",
+        "MinSkill": 45.0
+      }
+    ]
+  },
+  {
+    "Name": "tall elven bed (south)",
+    "Group": "Misc. Add-Ons",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 3
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 100
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 94.7,
+    "PrimarySkillMax": 119.7,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 80.0,
+        "SkillName": "tailoring",
+        "MinSkill": 75.0
+      }
+    ]
+  },
+  {
+    "Name": "tall elven bed (east)",
+    "Group": "Misc. Add-Ons",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 3
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 100
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 94.7,
+    "PrimarySkillMax": 119.7,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 80.0,
+        "SkillName": "tailoring",
+        "MinSkill": 75.0
+      }
+    ]
+  },
+  {
+    "Name": "small bed (south)",
+    "Group": "Misc. Add-Ons",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 1
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 100
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 94.7,
+    "PrimarySkillMax": 119.8,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 80.0,
+        "SkillName": "tailoring",
+        "MinSkill": 75.0
+      }
+    ]
+  },
+  {
+    "Name": "small bed (east)",
+    "Group": "Misc. Add-Ons",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 1
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 100
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 94.7,
+    "PrimarySkillMax": 119.8,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 80.0,
+        "SkillName": "tailoring",
+        "MinSkill": 75.0
+      }
+    ]
+  },
+  {
+    "Name": "large bed (south)",
+    "Group": "Misc. Add-Ons",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 2
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 150
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 94.7,
+    "PrimarySkillMax": 119.8,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 80.0,
+        "SkillName": "tailoring",
+        "MinSkill": 75.0
+      }
+    ]
+  },
+  {
+    "Name": "large bed (east)",
+    "Group": "Misc. Add-Ons",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 2
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 150
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 94.7,
+    "PrimarySkillMax": 119.8,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 80.0,
+        "SkillName": "tailoring",
+        "MinSkill": 75.0
+      }
+    ]
+  },
+  {
+    "Name": "dartboard (south)",
+    "Group": "Misc. Add-Ons",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 15.7,
+    "PrimarySkillMax": 40.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "dartboard (east)",
+    "Group": "Misc. Add-Ons",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 15.7,
+    "PrimarySkillMax": 40.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "ballot box",
+    "Group": "Misc. Add-Ons",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 47.3,
+    "PrimarySkillMax": 72.3,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "pentagram",
+    "Group": "Misc. Add-Ons",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 5
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 40
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 100.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 80.0,
+        "SkillName": "magery",
+        "MinSkill": 75.0
+      }
+    ]
+  },
+  {
+    "Name": "abbatoir",
+    "Group": "Misc. Add-Ons",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 6
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 40
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 100.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 55.0,
+        "SkillName": "magery",
+        "MinSkill": 50.0
+      }
+    ]
+  },
+  {
+    "Name": "bulletin board (east)",
+    "Group": "Misc. Add-Ons",
+    "Image": "8978",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 3
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 85.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bulletin board (south)",
+    "Group": "Misc. Add-Ons",
+    "Image": "8977",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 3
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 85.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "small forge",
+    "Group": "Blacksmithing",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 3
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 75
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 73.6,
+    "PrimarySkillMax": 98.6,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 80.0,
+        "SkillName": "blacksmithing",
+        "MinSkill": 75.0
+      }
+    ]
+  },
+  {
+    "Name": "large forge (east)",
+    "Group": "Blacksmithing",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 6
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 100
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 78.9,
+    "PrimarySkillMax": 103.9,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 85.0,
+        "SkillName": "blacksmithing",
+        "MinSkill": 80.0
+      }
+    ]
+  },
+  {
+    "Name": "large forge (south)",
+    "Group": "Blacksmithing",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 6
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 100
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 78.9,
+    "PrimarySkillMax": 103.9,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 85.0,
+        "SkillName": "blacksmithing",
+        "MinSkill": 80.0
+      }
+    ]
+  },
+  {
+    "Name": "anvil (east)",
+    "Group": "Blacksmithing",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 2
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 150
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 73.6,
+    "PrimarySkillMax": 98.6,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 80.0,
+        "SkillName": "blacksmithing",
+        "MinSkill": 75.0
+      }
+    ]
+  },
+  {
+    "Name": "anvil (south)",
+    "Group": "Blacksmithing",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 2
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 150
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 73.6,
+    "PrimarySkillMax": 98.6,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 80.0,
+        "SkillName": "blacksmithing",
+        "MinSkill": 75.0
+      }
+    ]
+  },
+  {
+    "Name": "training dummy (east)",
+    "Group": "Training",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 3
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 60
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 68.4,
+    "PrimarySkillMax": 93.4,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 55.0,
+        "SkillName": "tailoring",
+        "MinSkill": 50.0
+      }
+    ]
+  },
+  {
+    "Name": "training dummy (south)",
+    "Group": "Training",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 3
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 60
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 68.4,
+    "PrimarySkillMax": 93.4,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 55.0,
+        "SkillName": "tailoring",
+        "MinSkill": 50.0
+      }
+    ]
+  },
+  {
+    "Name": "pickpocket dip (east)",
+    "Group": "Training",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 4
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 60
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 73.6,
+    "PrimarySkillMax": 98.6,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 55.0,
+        "SkillName": "tailoring",
+        "MinSkill": 50.0
+      }
+    ]
+  },
+  {
+    "Name": "pickpocket dip (south)",
+    "Group": "Training",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 4
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 60
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 73.6,
+    "PrimarySkillMax": 98.6,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 55.0,
+        "SkillName": "tailoring",
+        "MinSkill": 50.0
+      }
+    ]
+  },
+  {
+    "Name": "dressform (front)",
+    "Group": "Tailoring and Cooking",
+    "Image": "3782",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 25
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 63.1,
+    "PrimarySkillMax": 88.1,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 70.0,
+        "SkillName": "tailoring",
+        "MinSkill": 65.0
+      }
+    ]
+  },
+  {
+    "Name": "spinning wheel (east)",
+    "Group": "Tailoring and Cooking",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 5
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 73.6,
+    "PrimarySkillMax": 98.6,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 70.0,
+        "SkillName": "tailoring",
+        "MinSkill": 65.0
+      }
+    ]
+  },
+  {
+    "Name": "spinning wheel (south)",
+    "Group": "Tailoring and Cooking",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 5
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 73.6,
+    "PrimarySkillMax": 98.6,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 70.0,
+        "SkillName": "tailoring",
+        "MinSkill": 65.0
+      }
+    ]
+  },
+  {
+    "Name": "loom (east)",
+    "Group": "Tailoring and Cooking",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 8
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 84.2,
+    "PrimarySkillMax": 109.2,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 70.0,
+        "SkillName": "tailoring",
+        "MinSkill": 65.0
+      }
+    ]
+  },
+  {
+    "Name": "loom (south)",
+    "Group": "Tailoring and Cooking",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 8
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 84.2,
+    "PrimarySkillMax": 109.2,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 70.0,
+        "SkillName": "tailoring",
+        "MinSkill": 65.0
+      }
+    ]
+  },
+  {
+    "Name": "stone oven (east)",
+    "Group": "Tailoring and Cooking",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 4
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 125
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 68.4,
+    "PrimarySkillMax": 93.4,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 55.0,
+        "SkillName": "tinkering",
+        "MinSkill": 50.0
+      }
+    ]
+  },
+  {
+    "Name": "stone oven (south)",
+    "Group": "Tailoring and Cooking",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 4
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 125
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 68.4,
+    "PrimarySkillMax": 93.4,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 55.0,
+        "SkillName": "tinkering",
+        "MinSkill": 50.0
+      }
+    ]
+  },
+  {
+    "Name": "flour mill (east)",
+    "Group": "Tailoring and Cooking",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 4
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 50
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 94.7,
+    "PrimarySkillMax": 119.7,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 55.0,
+        "SkillName": "tinkering",
+        "MinSkill": 50.0
+      }
+    ]
+  },
+  {
+    "Name": "flour mill (south)",
+    "Group": "Tailoring and Cooking",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 4
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 50
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 94.7,
+    "PrimarySkillMax": 119.7,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 55.0,
+        "SkillName": "tinkering",
+        "MinSkill": 50.0
+      }
+    ]
+  },
+  {
+    "Name": "water trough (east)",
+    "Group": "Tailoring and Cooking",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 94.7,
+    "PrimarySkillMax": 119.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "water trough (south)",
+    "Group": "Tailoring and Cooking",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Deed Parts",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 94.7,
+    "PrimarySkillMax": 119.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "House Parts",
+    "Group": "Classic Houses",
+    "Image": "4084",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 300
+      },
+      {
+        "Name": "Iron Ingots",
+        "Amount": 300
+      },
+      {
+        "Name": "Stone Ingots",
+        "Amount": 300
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 65.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Stone and plaster house",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 70.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Small brick house",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 70.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Wood and plaster house",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 70.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Wooden house",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 70.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Thatched-roof cottage",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 70.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Field stone house",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 70.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Sandstone house with patio",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 22
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 75.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Small stone workshop",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 24
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 80.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Small marble workshop",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 24
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 80.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Two-story log cabin",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 30
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 85.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Small stone tower",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 32
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 82.0,
+    "PrimarySkillMax": 112.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Brick house",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 35
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 80.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Two-story wood and plaster house",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 45
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 85.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Two-story stone and plaster house",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 45
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 85.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Two-story villa",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 50
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 87.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Large house with patio",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 45
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 85.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Marble house with patio",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 55
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 92.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Tower",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 75
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 95.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Small stone keep",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 100
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 98.0,
+    "PrimarySkillMax": 130.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Castle",
+    "Group": "Classic Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 125
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 100.0,
+    "PrimarySkillMax": 135.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "7x7 2-Story Customizable House",
+    "Group": "2-Story Customizable Houses",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "House Parts",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "carpentry",
+    "Skill": 70.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  }
+]

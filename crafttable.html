@@ -1,0 +1,219 @@
+<html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/vue/1.0.28/vue.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"> </script>
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
+
+    <style type="text/css">
+        .ui.vertical.stripe h3 {
+          font-size: 2em;
+        }
+
+        .secondary.pointing.menu .toc.item {
+          display: none;
+        }
+
+        .vuetable {
+            margin-top: 1em !important;
+        }
+        .vuetable-wrapper.ui.basic.segment {
+            padding: 0em;
+        }
+        .vuetable button.ui.button {
+            padding: .5em .5em;
+            font-weight: 400;
+        }
+        .vuetable button.ui.button i.icon {
+            margin: 0;
+        }
+        .vuetable th.sortable:hover {
+          color: #2185d0;
+          cursor: pointer;
+        }
+        .vuetable-actions, .custom-action {
+          width: 15%;
+          padding: 12px 0px;
+          text-align: center;
+        }
+        .vuetable-pagination {
+          background: #f9fafb !important;
+        }
+        .vuetable-pagination-info {
+          margin-top: auto;
+          margin-bottom: auto;
+        }
+        [v-cloak] {
+            display: none;
+        }
+        .highlight {
+            background-color: yellow;
+        }
+        .vuetable-detail-row {
+            height: 200px;
+        }
+        .detail-row {
+            margin-left: 40px;
+        }
+        .expand-transition {
+            transition: all .5s ease;
+        }
+        .expand-enter, .expand-leave {
+            height: 0;
+            opacity: 0;
+        }
+        tr.odd {
+            background-color: #e6f5ff;
+        }
+        body {
+            overflow-y: scroll;
+        }
+    </style>
+     
+    </head>
+    <body>
+        <div id="app">
+                <select v-model="selectedskill" v-on:change="loadData">
+                        <!-- inline object literal -->
+                        <option selected v-bind:value="{ name: 'Alchemy' ,url:'Alchemy.json'  }">Alchemy</option>
+                        <option v-bind:value="{ name: 'Blacksmith', url:'Blacksmith.json'  }">Blacksmithy</option>
+                        <option v-bind:value="{ name: 'Carp', url:'Carpentry.json'  }">Carpentry</option>
+                        <option v-bind:value="{ name: 'Cartography', url:'Cartography.json'  }">Cartography</option>
+                        <option v-bind:value="{ name: 'Cooking', url:'Cooking.json'  }">Cooking</option>
+                        <option v-bind:value="{ name: 'Fletching', url:'Fletching.json'  }">Fletching</option>
+                        <option v-bind:value="{ name: 'Inscribe', url:'Inscribe.json'  }">Inscription</option>
+                        <option v-bind:value="{ name: 'Tailoring', url:'Tailoring.json'  }">Tailoring</option>
+                        <option v-bind:value="{ name: 'Tinkering', url:'Tinkering.json'  }">Tinkering</option>
+
+                    </select>
+             <demo-grid
+            :data="gridData"
+            :columns="gridColumns"
+            :filter-key="searchQuery">
+          </demo-grid>
+          
+        </div>
+    
+        <script type="text/x-template" id="grid-template">
+            <table class="vuetable ui blue striped selectable celled stackable attached table"> 
+              <thead>
+                <tr>
+                  <th v-for="key in columns"
+                    @click="sortBy(key)"
+                    :class="{ active: sortKey == key } sortable">
+                    {{ key | capitalize }}
+                    <span class="arrow" :class="sortOrders[key] > 0 ? 'asc' : 'dsc'">
+                    </span>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr v-for="entry in filteredData">
+                        <td><img src="http://Services.ServUO.com/uoapi/item/{{entry['Image']}}"> </img></td>
+                  <td>{{entry['Name']}}</td>
+                  <td>{{entry['Group']}}</td>
+                  <td>{{entry['Skill']}} {{entry['PrimarySkillName']}}
+                        <span v-for="e in entry['SecondarySkills']">
+                                <p>{{e.Amount }} {{e.Name}}</p>
+                            </span>
+                  </td>
+                  <td>
+                      <span v-for="e in entry['Resources']">
+                          <p>{{e.Amount }} {{e.Name}}</p>
+                      </span>
+                  </td>
+                  <!--  <td v-for="key in columns">
+                    {{entry[key]}}
+                  </td> -->
+                </tr>
+              </tbody>
+            </table>
+          </script>
+
+
+        <script>
+
+Vue.component('demo-grid', {
+  template: '#grid-template',
+  props: {
+    data: Array,
+    columns: Array,
+    filterKey: String
+  },
+  data: function () {
+    var sortOrders = {}
+    this.columns.forEach(function (key) {
+      sortOrders[key] = 1
+    })
+    return {
+      sortKey: '',
+      sortOrders: sortOrders
+    }
+  },
+  computed: {
+    filteredData: function () {
+      var sortKey = this.sortKey
+      var filterKey = this.filterKey && this.filterKey.toLowerCase()
+      var order = this.sortOrders[sortKey] || 1
+      var data = this.data
+      if (filterKey) {
+        data = data.filter(function (row) {
+          return Object.keys(row).some(function (key) {
+            return String(row[key]).toLowerCase().indexOf(filterKey) > -1
+          })
+        })
+      }
+      if (sortKey) {
+        data = data.slice().sort(function (a, b) {
+          a = a[sortKey]
+          b = b[sortKey]
+          return (a === b ? 0 : a > b ? 1 : -1) * order
+        })
+      }
+      return data
+    }
+  },
+  filters: {
+    capitalize: function (str) {
+      return str.charAt(0).toUpperCase() + str.slice(1)
+    }
+  },
+  methods: {
+    sortBy: function (key) {
+      this.sortKey = key
+      this.sortOrders[key] = this.sortOrders[key] * -1
+    }
+  }
+})
+
+
+// bootstrap the demo
+var demo = new Vue({
+  el: '#app',
+  data: {
+    searchQuery: '',
+    selectedskill: {},
+    gridColumns: ['Image','Name', 'Group', 'Skill','Resources'],
+    gridData: []
+  },
+  methods: {
+      loadData: function(event) {
+        var _this = this;
+        console.log(event);
+        $.getJSON(_this.selectedskill.url, function (json) {
+            _this.gridData = json;
+        });
+      }
+  },
+  created: function () {
+        var _this = this;
+        $.getJSON('https://gist.githubusercontent.com/DarkLotus/eb7232823309de36f26669b5049cd3d9/raw/a49ec850597feb75145ed73e09cb712b2682e76d/gistfile1.txt', function (json) {
+            _this.gridData = json;
+        });
+    }
+})
+        </script>
+    </body>
+</html>
+

@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "local map",
+    "Group": "Maps",
+    "Image": "5356",
+    "Resources": [
+      {
+        "Name": "Blank Maps or Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cartography",
+    "Skill": 10.0,
+    "PrimarySkillMax": 70.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "city map",
+    "Group": "Maps",
+    "Image": "5356",
+    "Resources": [
+      {
+        "Name": "Blank Maps or Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cartography",
+    "Skill": 25.0,
+    "PrimarySkillMax": 85.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sea chart",
+    "Group": "Maps",
+    "Image": "5356",
+    "Resources": [
+      {
+        "Name": "Blank Maps or Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cartography",
+    "Skill": 35.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "world map",
+    "Group": "Maps",
+    "Image": "5356",
+    "Resources": [
+      {
+        "Name": "Blank Maps or Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cartography",
+    "Skill": 39.5,
+    "PrimarySkillMax": 99.5,
+    "SecondarySkills": []
+  }
+]

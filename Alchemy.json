@@ -1,0 +1,485 @@
+[
+  {
+    "Name": "refresh",
+    "Group": "Refresh",
+    "Image": "3851",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "total refreshment",
+    "Group": "Refresh",
+    "Image": "3851",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 5
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 25.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "agility",
+    "Group": "Agility",
+    "Image": "3848",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 15.0,
+    "PrimarySkillMax": 65.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "greater agility",
+    "Group": "Agility",
+    "Image": "3848",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 3
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 35.0,
+    "PrimarySkillMax": 85.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "night sight",
+    "Group": "Night Sight",
+    "Image": "3846",
+    "Resources": [
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "lesser heal",
+    "Group": "Heal",
+    "Image": "3852",
+    "Resources": [
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "heal",
+    "Group": "Heal",
+    "Image": "3852",
+    "Resources": [
+      {
+        "Name": "Ginseng",
+        "Amount": 3
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 15.0,
+    "PrimarySkillMax": 65.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "greater heal",
+    "Group": "Heal",
+    "Image": "3852",
+    "Resources": [
+      {
+        "Name": "Ginseng",
+        "Amount": 7
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 55.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "strength",
+    "Group": "Strength",
+    "Image": "3849",
+    "Resources": [
+      {
+        "Name": "Mandrake Root",
+        "Amount": 2
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 25.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "greater strength",
+    "Group": "Strength",
+    "Image": "3849",
+    "Resources": [
+      {
+        "Name": "Mandrake Root",
+        "Amount": 5
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 45.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "lesser poison",
+    "Group": "Poison",
+    "Image": "3850",
+    "Resources": [
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 0.0,
+    "PrimarySkillMax": 45.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "poison",
+    "Group": "Poison",
+    "Image": "3850",
+    "Resources": [
+      {
+        "Name": "Nightshade",
+        "Amount": 2
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 15.0,
+    "PrimarySkillMax": 65.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "greater poison",
+    "Group": "Poison",
+    "Image": "3850",
+    "Resources": [
+      {
+        "Name": "Nightshade",
+        "Amount": 4
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 55.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "deadly poison",
+    "Group": "Poison",
+    "Image": "3850",
+    "Resources": [
+      {
+        "Name": "Nightshade",
+        "Amount": 8
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 90.0,
+    "PrimarySkillMax": 140.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "lesser cure",
+    "Group": "Cure",
+    "Image": "3847",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 0.0,
+    "PrimarySkillMax": 40.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cure",
+    "Group": "Cure",
+    "Image": "3847",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 3
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 25.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "greater cure",
+    "Group": "Cure",
+    "Image": "3847",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 6
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 65.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "lesser explosion",
+    "Group": "Explosion",
+    "Image": "3853",
+    "Resources": [
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 3
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 5.0,
+    "PrimarySkillMax": 55.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "explosion",
+    "Group": "Explosion",
+    "Image": "3853",
+    "Resources": [
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 5
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 35.0,
+    "PrimarySkillMax": 85.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "greater explosion",
+    "Group": "Explosion",
+    "Image": "3853",
+    "Resources": [
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 10
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 65.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Mana Potion",
+    "Group": "Mana Potions",
+    "Image": "3854",
+    "Resources": [
+      {
+        "Name": "Eye of Newt",
+        "Amount": 5
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 65.1,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Total Mana Potion",
+    "Group": "Mana Potions",
+    "Image": "3854",
+    "Resources": [
+      {
+        "Name": "Eye of Newt",
+        "Amount": 10
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 95.1,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Shrink Potion",
+    "Group": "Misc Potions",
+    "Image": "3854",
+    "Resources": [
+      {
+        "Name": "Batwing",
+        "Amount": 50
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 110.0,
+    "PrimarySkillMax": 140.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Restore Potion",
+    "Group": "Misc Potions",
+    "Image": "3854",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 2
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 50.1,
+    "PrimarySkillMax": 75.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Greater Restore Potion",
+    "Group": "Misc Potions",
+    "Image": "3854",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 4
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 50.1,
+    "PrimarySkillMax": 75.1,
+    "SecondarySkills": []
+  }
+]

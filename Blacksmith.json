@@ -1,0 +1,1407 @@
+[
+  {
+    "Name": "ringmail gloves",
+    "Group": "Ringmail",
+    "Image": "5099",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 12.0,
+    "PrimarySkillMax": 62.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "ringmail leggings",
+    "Group": "Ringmail",
+    "Image": "5104",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 19.4,
+    "PrimarySkillMax": 69.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "ringmail sleeves",
+    "Group": "Ringmail",
+    "Image": "5102",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 16.9,
+    "PrimarySkillMax": 66.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "ringmail tunic",
+    "Group": "Ringmail",
+    "Image": "5100",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 18
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 21.9,
+    "PrimarySkillMax": 71.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "chainmail coif",
+    "Group": "Chainmail",
+    "Image": "5051",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 14.5,
+    "PrimarySkillMax": 64.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "chainmail leggings",
+    "Group": "Chainmail",
+    "Image": "5054",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 18
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 36.7,
+    "PrimarySkillMax": 86.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "chainmail tunic",
+    "Group": "Chainmail",
+    "Image": "5055",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 39.1,
+    "PrimarySkillMax": 89.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "platemail arms",
+    "Group": "Platemail",
+    "Image": "5136",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 18
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 66.3,
+    "PrimarySkillMax": 116.3,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "platemail gloves",
+    "Group": "Platemail",
+    "Image": "5140",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 58.9,
+    "PrimarySkillMax": 108.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "platemail gorget",
+    "Group": "Platemail",
+    "Image": "5139",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 56.4,
+    "PrimarySkillMax": 106.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "platemail legs",
+    "Group": "Platemail",
+    "Image": "5137",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 68.8,
+    "PrimarySkillMax": 118.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "platemail (tunic)",
+    "Group": "Platemail",
+    "Image": "5141",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "platemail (female)",
+    "Group": "Platemail",
+    "Image": "7172",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 44.1,
+    "PrimarySkillMax": 94.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "dragon barding deed",
+    "Group": "Platemail",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 750
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 72.5,
+    "PrimarySkillMax": 122.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "platemail mempo",
+    "Group": "Platemail",
+    "Image": "10105",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 18
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 80.0,
+    "PrimarySkillMax": 130.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "platemail do",
+    "Group": "Platemail",
+    "Image": "10109",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 28
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 80.0,
+    "PrimarySkillMax": 130.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "platemail hiro sode",
+    "Group": "Platemail",
+    "Image": "10112",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 80.0,
+    "PrimarySkillMax": 130.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "platemail suneate",
+    "Group": "Platemail",
+    "Image": "10120",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 65.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "platemail haidate",
+    "Group": "Platemail",
+    "Image": "10125",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 65.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bascinet",
+    "Group": "Helmets",
+    "Image": "5132",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 8.3,
+    "PrimarySkillMax": 58.3,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "close helmet",
+    "Group": "Helmets",
+    "Image": "5128",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 37.9,
+    "PrimarySkillMax": 87.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "helmet",
+    "Group": "Helmets",
+    "Image": "5130",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 37.9,
+    "PrimarySkillMax": 87.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "norse helm",
+    "Group": "Helmets",
+    "Image": "5134",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 37.9,
+    "PrimarySkillMax": 87.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "plate helm",
+    "Group": "Helmets",
+    "Image": "5138",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 62.6,
+    "PrimarySkillMax": 112.6,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "chainmail hatsuburi",
+    "Group": "Helmets",
+    "Image": "10100",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 30.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "platemail hatsuburi",
+    "Group": "Helmets",
+    "Image": "10101",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 45.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "heavy platemail jingasa",
+    "Group": "Helmets",
+    "Image": "10103",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 45.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "light platemail jingasa",
+    "Group": "Helmets",
+    "Image": "10113",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 45.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "small platemail jingasa",
+    "Group": "Helmets",
+    "Image": "10116",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 45.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "decorative platemail kabuto",
+    "Group": "Helmets",
+    "Image": "10104",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 90.0,
+    "PrimarySkillMax": 140.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "platemail battle kabuto",
+    "Group": "Helmets",
+    "Image": "10117",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 90.0,
+    "PrimarySkillMax": 140.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "standard platemail kabuto",
+    "Group": "Helmets",
+    "Image": "10121",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 90.0,
+    "PrimarySkillMax": 140.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "circlet",
+    "Group": "Helmets",
+    "Image": "11118",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 62.1,
+    "PrimarySkillMax": 112.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "royal circlet",
+    "Group": "Helmets",
+    "Image": "11119",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 70.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "buckler ",
+    "Group": "Shields",
+    "Image": "7027",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bronze shield",
+    "Group": "Shields",
+    "Image": "7026",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 0.0,
+    "PrimarySkillMax": 34.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "heater shield",
+    "Group": "Shields",
+    "Image": "7030",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 18
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 24.3,
+    "PrimarySkillMax": 74.3,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "metal shield",
+    "Group": "Shields",
+    "Image": "7035",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 0.0,
+    "PrimarySkillMax": 39.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "metal kite shield",
+    "Group": "Shields",
+    "Image": "7028",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 4.6,
+    "PrimarySkillMax": 54.6,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tear kite shield",
+    "Group": "Shields",
+    "Image": "7033",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 0.0,
+    "PrimarySkillMax": 34.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Chaos shield",
+    "Group": "Shields",
+    "Image": "7107",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 85.0,
+    "PrimarySkillMax": 135.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Order shield",
+    "Group": "Shields",
+    "Image": "7108",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 85.0,
+    "PrimarySkillMax": 135.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bone harvester",
+    "Group": "Bladed",
+    "Image": "9915",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 33.0,
+    "PrimarySkillMax": 83.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "broadsword",
+    "Group": "Bladed",
+    "Image": "3934",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 35.4,
+    "PrimarySkillMax": 85.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "crescent blade",
+    "Group": "Bladed",
+    "Image": "9921",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 45.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cutlass",
+    "Group": "Bladed",
+    "Image": "5185",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 24.3,
+    "PrimarySkillMax": 74.3,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "dagger",
+    "Group": "Bladed",
+    "Image": "3922",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 3
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 0.0,
+    "PrimarySkillMax": 49.6,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "katana",
+    "Group": "Bladed",
+    "Image": "5119",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 44.1,
+    "PrimarySkillMax": 94.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "kryss",
+    "Group": "Bladed",
+    "Image": "5121",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 36.7,
+    "PrimarySkillMax": 86.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "longsword",
+    "Group": "Bladed",
+    "Image": "3937",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 28.0,
+    "PrimarySkillMax": 78.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "scimitar",
+    "Group": "Bladed",
+    "Image": "5046",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 31.7,
+    "PrimarySkillMax": 81.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "viking sword",
+    "Group": "Bladed",
+    "Image": "5049",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 24.3,
+    "PrimarySkillMax": 74.3,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "no-dachi",
+    "Group": "Bladed",
+    "Image": "10146",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 18
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "wakizashi",
+    "Group": "Bladed",
+    "Image": "10148",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 50.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "lajatang",
+    "Group": "Bladed",
+    "Image": "10151",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 80.0,
+    "PrimarySkillMax": 130.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "daisho",
+    "Group": "Bladed",
+    "Image": "10153",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 60.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tekagi",
+    "Group": "Bladed",
+    "Image": "10155",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 55.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "shuriken",
+    "Group": "Bladed",
+    "Image": "10156",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 5
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 45.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "kama",
+    "Group": "Bladed",
+    "Image": "10157",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sai",
+    "Group": "Bladed",
+    "Image": "10159",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 50.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "radiant scimitar",
+    "Group": "Bladed",
+    "Image": "11571",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "war cleaver",
+    "Group": "Bladed",
+    "Image": "11567",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 18
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 70.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "elven spellblade",
+    "Group": "Bladed",
+    "Image": "11552",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 70.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "assassin spike",
+    "Group": "Bladed",
+    "Image": "11553",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 9
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 70.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leafblade",
+    "Group": "Bladed",
+    "Image": "11554",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 70.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "rune blade",
+    "Group": "Bladed",
+    "Image": "11570",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 70.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "elven machete",
+    "Group": "Bladed",
+    "Image": "11573",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 70.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "axe",
+    "Group": "Axes",
+    "Image": "3913",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 34.2,
+    "PrimarySkillMax": 84.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "battle axe",
+    "Group": "Axes",
+    "Image": "3911",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 30.5,
+    "PrimarySkillMax": 80.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "double axe",
+    "Group": "Axes",
+    "Image": "3915",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 29.3,
+    "PrimarySkillMax": 79.3,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "executioner's axe",
+    "Group": "Axes",
+    "Image": "3909",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 34.2,
+    "PrimarySkillMax": 84.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "large battle axe",
+    "Group": "Axes",
+    "Image": "5115",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 28.0,
+    "PrimarySkillMax": 78.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "two handed axe",
+    "Group": "Axes",
+    "Image": "5187",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 33.0,
+    "PrimarySkillMax": 83.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "war axe",
+    "Group": "Axes",
+    "Image": "5040",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 39.1,
+    "PrimarySkillMax": 89.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "ornate axe",
+    "Group": "Axes",
+    "Image": "11560",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 18
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 70.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bardiche",
+    "Group": "Polearms",
+    "Image": "3917",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 18
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 31.7,
+    "PrimarySkillMax": 81.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bladed staff",
+    "Group": "Polearms",
+    "Image": "9917",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "double bladed staff",
+    "Group": "Polearms",
+    "Image": "9919",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 45.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "halberd",
+    "Group": "Polearms",
+    "Image": "5182",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 39.1,
+    "PrimarySkillMax": 89.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "lance",
+    "Group": "Polearms",
+    "Image": "9920",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 48.0,
+    "PrimarySkillMax": 98.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "pike",
+    "Group": "Polearms",
+    "Image": "9918",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 47.0,
+    "PrimarySkillMax": 97.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "short spear",
+    "Group": "Polearms",
+    "Image": "5123",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 45.3,
+    "PrimarySkillMax": 95.3,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "scythe",
+    "Group": "Polearms",
+    "Image": "9914",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 39.0,
+    "PrimarySkillMax": 89.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "spear",
+    "Group": "Polearms",
+    "Image": "3938",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 49.0,
+    "PrimarySkillMax": 99.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "war fork",
+    "Group": "Polearms",
+    "Image": "5125",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 42.9,
+    "PrimarySkillMax": 92.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "hammer pick",
+    "Group": "Bashing",
+    "Image": "5181",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 34.2,
+    "PrimarySkillMax": 84.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "mace",
+    "Group": "Bashing",
+    "Image": "3932",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 14.5,
+    "PrimarySkillMax": 64.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "maul",
+    "Group": "Bashing",
+    "Image": "5179",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 19.4,
+    "PrimarySkillMax": 69.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "scepter",
+    "Group": "Bashing",
+    "Image": "9916",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 21.4,
+    "PrimarySkillMax": 71.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "war mace",
+    "Group": "Bashing",
+    "Image": "5127",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 28.0,
+    "PrimarySkillMax": 78.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "war hammer",
+    "Group": "Bashing",
+    "Image": "5177",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 34.2,
+    "PrimarySkillMax": 84.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tessen",
+    "Group": "Bashing",
+    "Image": "10147",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 16
+      },
+      {
+        "Name": "Cloth",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 85.0,
+    "PrimarySkillMax": 135.0,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 55.0,
+        "SkillName": "tailoring",
+        "MinSkill": 50.0
+      }
+    ]
+  },
+  {
+    "Name": "diamond mace",
+    "Group": "Bashing",
+    "Image": "11556",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 70.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  }
+]

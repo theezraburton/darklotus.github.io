@@ -1,0 +1,1526 @@
+[
+  {
+    "Name": "skullcap",
+    "Group": "Hats",
+    "Image": "5444",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bandana",
+    "Group": "Hats",
+    "Image": "5440",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "floppy hat",
+    "Group": "Hats",
+    "Image": "5907",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 11
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 6.2,
+    "PrimarySkillMax": 31.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cap",
+    "Group": "Hats",
+    "Image": "5909",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 11
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 6.2,
+    "PrimarySkillMax": 31.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "wide-brim hat",
+    "Group": "Hats",
+    "Image": "5908",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 6.2,
+    "PrimarySkillMax": 31.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "straw hat",
+    "Group": "Hats",
+    "Image": "5911",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 6.2,
+    "PrimarySkillMax": 31.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tall straw hat",
+    "Group": "Hats",
+    "Image": "5910",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 13
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 6.7,
+    "PrimarySkillMax": 31.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "wizard's hat",
+    "Group": "Hats",
+    "Image": "5912",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 7.2,
+    "PrimarySkillMax": 32.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bonnet",
+    "Group": "Hats",
+    "Image": "5913",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 11
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 6.2,
+    "PrimarySkillMax": 31.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "feathered hat",
+    "Group": "Hats",
+    "Image": "5914",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 6.2,
+    "PrimarySkillMax": 31.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tricorne hat",
+    "Group": "Hats",
+    "Image": "5915",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 6.2,
+    "PrimarySkillMax": 31.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "jester hat",
+    "Group": "Hats",
+    "Image": "5916",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 7.2,
+    "PrimarySkillMax": 32.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "flower garland",
+    "Group": "Hats",
+    "Image": "8966",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 5
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 10.0,
+    "PrimarySkillMax": 35.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cloth ninja hood",
+    "Group": "Hats",
+    "Image": "10127",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 13
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 80.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "kasa",
+    "Group": "Hats",
+    "Image": "10136",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 60.0,
+    "PrimarySkillMax": 85.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "doublet",
+    "Group": "Shirts",
+    "Image": "8059",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "shirt",
+    "Group": "Shirts",
+    "Image": "5399",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 20.7,
+    "PrimarySkillMax": 45.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "fancy shirt",
+    "Group": "Shirts",
+    "Image": "7933",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 24.8,
+    "PrimarySkillMax": 49.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tunic",
+    "Group": "Shirts",
+    "Image": "8097",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "surcoat",
+    "Group": "Shirts",
+    "Image": "8189",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 8.2,
+    "PrimarySkillMax": 33.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "plain dress",
+    "Group": "Shirts",
+    "Image": "7937",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 12.4,
+    "PrimarySkillMax": 37.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "fancy dress",
+    "Group": "Shirts",
+    "Image": "7936",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 33.1,
+    "PrimarySkillMax": 58.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cloak",
+    "Group": "Shirts",
+    "Image": "5397",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 41.4,
+    "PrimarySkillMax": 66.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "robe",
+    "Group": "Shirts",
+    "Image": "7939",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 53.9,
+    "PrimarySkillMax": 78.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "jester suit",
+    "Group": "Shirts",
+    "Image": "8095",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 24
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 8.2,
+    "PrimarySkillMax": 33.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "fur cape",
+    "Group": "Shirts",
+    "Image": "8970",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 13
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 35.0,
+    "PrimarySkillMax": 60.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "gilded dress",
+    "Group": "Shirts",
+    "Image": "8974",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 37.5,
+    "PrimarySkillMax": 62.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "formal shirt",
+    "Group": "Shirts",
+    "Image": "8976",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 26.0,
+    "PrimarySkillMax": 51.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cloth ninja jacket",
+    "Group": "Shirts",
+    "Image": "10132",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 75.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "kamishimo",
+    "Group": "Shirts",
+    "Image": "10137",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 75.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "hakama-shita",
+    "Group": "Shirts",
+    "Image": "10140",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 40.0,
+    "PrimarySkillMax": 65.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "male kimono",
+    "Group": "Shirts",
+    "Image": "10114",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 50.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "female kimono",
+    "Group": "Shirts",
+    "Image": "10115",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 50.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "jin-baori",
+    "Group": "Shirts",
+    "Image": "10145",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 30.0,
+    "PrimarySkillMax": 55.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "short pants",
+    "Group": "Pants",
+    "Image": "5422",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 24.8,
+    "PrimarySkillMax": 49.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "long pants",
+    "Group": "Pants",
+    "Image": "5433",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 24.8,
+    "PrimarySkillMax": 49.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "kilt",
+    "Group": "Pants",
+    "Image": "5431",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 20.7,
+    "PrimarySkillMax": 45.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "skirt",
+    "Group": "Pants",
+    "Image": "5398",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 29.0,
+    "PrimarySkillMax": 54.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "fur sarong",
+    "Group": "Pants",
+    "Image": "8972",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 35.0,
+    "PrimarySkillMax": 60.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "hakama",
+    "Group": "Pants",
+    "Image": "10138",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 50.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tattsuke-hakama",
+    "Group": "Pants",
+    "Image": "10139",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 50.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "body sash",
+    "Group": "Miscellaneous",
+    "Image": "5441",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 4.1,
+    "PrimarySkillMax": 29.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "half apron",
+    "Group": "Miscellaneous",
+    "Image": "5435",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 20.7,
+    "PrimarySkillMax": 45.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "full apron",
+    "Group": "Miscellaneous",
+    "Image": "5437",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 29.0,
+    "PrimarySkillMax": 54.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "obi",
+    "Group": "Miscellaneous",
+    "Image": "10144",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 20.0,
+    "PrimarySkillMax": 45.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "oil cloth",
+    "Group": "Miscellaneous",
+    "Image": "5981",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 74.6,
+    "PrimarySkillMax": 99.6,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "goza (east)",
+    "Group": "Miscellaneous",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 55.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "goza (south)",
+    "Group": "Miscellaneous",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 55.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "square goza (east)",
+    "Group": "Miscellaneous",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 55.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "square goza (south)",
+    "Group": "Miscellaneous",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 55.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "brocade goza (east)",
+    "Group": "Miscellaneous",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 55.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "brocade goza (south)",
+    "Group": "Miscellaneous",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 55.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "square brocade goza (east)",
+    "Group": "Miscellaneous",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 55.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "square brocade goza (south)",
+    "Group": "Miscellaneous",
+    "Image": "5360",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 55.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "fur boots",
+    "Group": "Footwear",
+    "Image": "8967",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 50.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "ninja tabi",
+    "Group": "Footwear",
+    "Image": "10135",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 70.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "waraji and tabi",
+    "Group": "Footwear",
+    "Image": "10134",
+    "Resources": [
+      {
+        "Name": "Cloth",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 20.0,
+    "PrimarySkillMax": 45.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sandals",
+    "Group": "Footwear",
+    "Image": "5901",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 12.4,
+    "PrimarySkillMax": 37.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "shoes",
+    "Group": "Footwear",
+    "Image": "5903",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 16.5,
+    "PrimarySkillMax": 41.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "boots",
+    "Group": "Footwear",
+    "Image": "5899",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 33.1,
+    "PrimarySkillMax": 58.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "thigh boots",
+    "Group": "Footwear",
+    "Image": "5905",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 41.4,
+    "PrimarySkillMax": 66.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather gorget",
+    "Group": "Leather Armor",
+    "Image": "5063",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 53.9,
+    "PrimarySkillMax": 78.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather cap",
+    "Group": "Leather Armor",
+    "Image": "7609",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 6.2,
+    "PrimarySkillMax": 31.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather gloves",
+    "Group": "Leather Armor",
+    "Image": "5062",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 3
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 51.8,
+    "PrimarySkillMax": 76.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather sleeves",
+    "Group": "Leather Armor",
+    "Image": "5069",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 53.9,
+    "PrimarySkillMax": 78.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather leggings",
+    "Group": "Leather Armor",
+    "Image": "5067",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 66.3,
+    "PrimarySkillMax": 91.3,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather tunic",
+    "Group": "Leather Armor",
+    "Image": "5068",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 70.5,
+    "PrimarySkillMax": 95.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather jingasa",
+    "Group": "Leather Armor",
+    "Image": "10102",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 45.0,
+    "PrimarySkillMax": 70.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather mempo",
+    "Group": "Leather Armor",
+    "Image": "10106",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 80.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather do",
+    "Group": "Leather Armor",
+    "Image": "10182",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 75.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather hiro sode",
+    "Group": "Leather Armor",
+    "Image": "10110",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 5
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 55.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather suneate",
+    "Group": "Leather Armor",
+    "Image": "10118",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 68.0,
+    "PrimarySkillMax": 93.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather haidate",
+    "Group": "Leather Armor",
+    "Image": "10122",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 68.0,
+    "PrimarySkillMax": 93.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather ninja pants",
+    "Group": "Leather Armor",
+    "Image": "10129",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 13
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 80.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather ninja jacket",
+    "Group": "Leather Armor",
+    "Image": "10131",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 13
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 85.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather ninja belt",
+    "Group": "Leather Armor",
+    "Image": "10128",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 5
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 50.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather ninja mitts",
+    "Group": "Leather Armor",
+    "Image": "10130",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 65.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather ninja hood",
+    "Group": "Leather Armor",
+    "Image": "10126",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 90.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "studded gorget",
+    "Group": "Studded Armor",
+    "Image": "5078",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 78.8,
+    "PrimarySkillMax": 103.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "studded gloves",
+    "Group": "Studded Armor",
+    "Image": "5077",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 82.9,
+    "PrimarySkillMax": 107.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "studded sleeves",
+    "Group": "Studded Armor",
+    "Image": "5084",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 87.1,
+    "PrimarySkillMax": 112.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "studded leggings",
+    "Group": "Studded Armor",
+    "Image": "5082",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 12
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 91.2,
+    "PrimarySkillMax": 116.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "studded tunic",
+    "Group": "Studded Armor",
+    "Image": "5083",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 94.0,
+    "PrimarySkillMax": 119.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "studded mempo",
+    "Group": "Studded Armor",
+    "Image": "10141",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 80.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "studded do",
+    "Group": "Studded Armor",
+    "Image": "10183",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 95.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "studded hiro sode",
+    "Group": "Studded Armor",
+    "Image": "10111",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 85.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "studded suneate",
+    "Group": "Studded Armor",
+    "Image": "10194",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 92.0,
+    "PrimarySkillMax": 117.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "studded haidate",
+    "Group": "Studded Armor",
+    "Image": "10123",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 14
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 92.0,
+    "PrimarySkillMax": 117.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather shorts",
+    "Group": "Female Armor",
+    "Image": "7168",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 62.2,
+    "PrimarySkillMax": 87.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather skirt",
+    "Group": "Female Armor",
+    "Image": "7176",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 58.0,
+    "PrimarySkillMax": 83.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leather bustier",
+    "Group": "Female Armor",
+    "Image": "7178",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 58.0,
+    "PrimarySkillMax": 83.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "studded bustier",
+    "Group": "Female Armor",
+    "Image": "7180",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 82.9,
+    "PrimarySkillMax": 107.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "female leather armor",
+    "Group": "Female Armor",
+    "Image": "7174",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 62.2,
+    "PrimarySkillMax": 87.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "studded armor",
+    "Group": "Female Armor",
+    "Image": "7170",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 87.1,
+    "PrimarySkillMax": 112.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bone helmet",
+    "Group": "Bone Armor",
+    "Image": "5201",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 4
+      },
+      {
+        "Name": "Bones",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 85.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bone gloves",
+    "Group": "Bone Armor",
+    "Image": "5200",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 6
+      },
+      {
+        "Name": "Bones",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 89.0,
+    "PrimarySkillMax": 114.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bone arms",
+    "Group": "Bone Armor",
+    "Image": "5198",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 8
+      },
+      {
+        "Name": "Bones",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 92.0,
+    "PrimarySkillMax": 117.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bone leggings",
+    "Group": "Bone Armor",
+    "Image": "5202",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 10
+      },
+      {
+        "Name": "Bones",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 95.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bone armor",
+    "Group": "Bone Armor",
+    "Image": "5199",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 12
+      },
+      {
+        "Name": "Bones",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 96.0,
+    "PrimarySkillMax": 121.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "orc helm",
+    "Group": "Bone Armor",
+    "Image": "7947",
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 6
+      },
+      {
+        "Name": "Bones",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 90.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  }
+]

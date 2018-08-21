@@ -1,0 +1,2336 @@
+[
+  {
+    "Name": "jointing plane",
+    "Group": "Wooden Items",
+    "Image": "4144",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 50.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "moulding planes",
+    "Group": "Wooden Items",
+    "Image": "4140",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 50.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "smoothing plane",
+    "Group": "Wooden Items",
+    "Image": "4146",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 50.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "clock frame",
+    "Group": "Wooden Items",
+    "Image": "4173",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 50.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "axle",
+    "Group": "Wooden Items",
+    "Image": "4187",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "rolling pin",
+    "Group": "Wooden Items",
+    "Image": "4163",
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 5
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 50.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "nunchaku",
+    "Group": "Wooden Items",
+    "Image": "10158",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 3
+      },
+      {
+        "Name": "Boards or Logs",
+        "Amount": 8
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 70.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "scissors",
+    "Group": "Tools",
+    "Image": "3999",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 5.0,
+    "PrimarySkillMax": 55.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "mortar and pestle",
+    "Group": "Tools",
+    "Image": "3739",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 3
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 20.0,
+    "PrimarySkillMax": 70.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "scorp",
+    "Group": "Tools",
+    "Image": "4327",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 30.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tinker's tools",
+    "Group": "Tools",
+    "Image": "7864",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 10.0,
+    "PrimarySkillMax": 60.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "hatchet",
+    "Group": "Tools",
+    "Image": "3907",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 30.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "draw knife",
+    "Group": "Tools",
+    "Image": "4324",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 30.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sewing kit",
+    "Group": "Tools",
+    "Image": "3997",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 10.0,
+    "PrimarySkillMax": 70.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "saw",
+    "Group": "Tools",
+    "Image": "4148",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 30.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "dovetail saw",
+    "Group": "Tools",
+    "Image": "4136",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 30.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "froe",
+    "Group": "Tools",
+    "Image": "4325",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 30.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "shovel",
+    "Group": "Tools",
+    "Image": "3897",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "hammer",
+    "Group": "Tools",
+    "Image": "4138",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 30.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tongs",
+    "Group": "Tools",
+    "Image": "4027",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 35.0,
+    "PrimarySkillMax": 85.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "smith's hammer",
+    "Group": "Tools",
+    "Image": "5091",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sledge hammer",
+    "Group": "Tools",
+    "Image": "4021",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "inshave",
+    "Group": "Tools",
+    "Image": "4326",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 30.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "pickaxe",
+    "Group": "Tools",
+    "Image": "3718",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "lockpick",
+    "Group": "Tools",
+    "Image": "5372",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 45.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "skillet",
+    "Group": "Tools",
+    "Image": "2431",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 30.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "flour sifter",
+    "Group": "Tools",
+    "Image": "4158",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 3
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 50.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "fletcher's tools",
+    "Group": "Tools",
+    "Image": "4130",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 3
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 35.0,
+    "PrimarySkillMax": 85.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "mapmaker's pen",
+    "Group": "Tools",
+    "Image": "4031",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 25.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "scribe's pen",
+    "Group": "Tools",
+    "Image": "4031",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 25.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "gears",
+    "Group": "Parts",
+    "Image": "4179",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 5.0,
+    "PrimarySkillMax": 55.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "clock parts",
+    "Group": "Parts",
+    "Image": "4175",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 25.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "barrel tap",
+    "Group": "Parts",
+    "Image": "4100",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 35.0,
+    "PrimarySkillMax": 85.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "springs",
+    "Group": "Parts",
+    "Image": "4189",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 5.0,
+    "PrimarySkillMax": 55.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sextant parts",
+    "Group": "Parts",
+    "Image": "4185",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 30.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "barrel hoops",
+    "Group": "Parts",
+    "Image": "7607",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 5
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 35.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "hinge",
+    "Group": "Parts",
+    "Image": "4181",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 5.0,
+    "PrimarySkillMax": 55.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bola balls",
+    "Group": "Parts",
+    "Image": "3699",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 45.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "jeweled filigree",
+    "Group": "Parts",
+    "Image": "12126",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Star Sapphires",
+        "Amount": 1
+      },
+      {
+        "Name": "Rubies",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 70.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "butcher knife",
+    "Group": "Utensils",
+    "Image": "5110",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 25.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "spoon (left)",
+    "Group": "Utensils",
+    "Image": "2552",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 50.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "spoon (right)",
+    "Group": "Utensils",
+    "Image": "2553",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 50.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "plate",
+    "Group": "Utensils",
+    "Image": "2519",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 50.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "fork (left)",
+    "Group": "Utensils",
+    "Image": "2548",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 50.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "fork (right)",
+    "Group": "Utensils",
+    "Image": "2549",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 50.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cleaver",
+    "Group": "Utensils",
+    "Image": "3779",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 3
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 20.0,
+    "PrimarySkillMax": 70.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "knife (left)",
+    "Group": "Utensils",
+    "Image": "2550",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 50.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "knife (right)",
+    "Group": "Utensils",
+    "Image": "2551",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 50.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "goblet",
+    "Group": "Utensils",
+    "Image": "2458",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 10.0,
+    "PrimarySkillMax": 60.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "pewter mug",
+    "Group": "Utensils",
+    "Image": "4095",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 10.0,
+    "PrimarySkillMax": 60.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "skinning knife",
+    "Group": "Utensils",
+    "Image": "3780",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 25.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "key ring",
+    "Group": "Miscellaneous",
+    "Image": "4113",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 10.0,
+    "PrimarySkillMax": 60.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "candelabra",
+    "Group": "Miscellaneous",
+    "Image": "2599",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 55.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "scales",
+    "Group": "Miscellaneous",
+    "Image": "6226",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 60.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "iron key",
+    "Group": "Miscellaneous",
+    "Image": "4112",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 3
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 20.0,
+    "PrimarySkillMax": 70.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "globe",
+    "Group": "Miscellaneous",
+    "Image": "4167",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 55.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "spyglass",
+    "Group": "Miscellaneous",
+    "Image": "5365",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 60.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "lantern",
+    "Group": "Miscellaneous",
+    "Image": "2597",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 30.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "heating stand",
+    "Group": "Miscellaneous",
+    "Image": "6217",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 60.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "shoji lantern",
+    "Group": "Miscellaneous",
+    "Image": "9404",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      },
+      {
+        "Name": "Boards or Logs",
+        "Amount": 5
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 65.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "paper lantern",
+    "Group": "Miscellaneous",
+    "Image": "9406",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      },
+      {
+        "Name": "Boards or Logs",
+        "Amount": 5
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 65.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "round paper lantern",
+    "Group": "Miscellaneous",
+    "Image": "9418",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      },
+      {
+        "Name": "Boards or Logs",
+        "Amount": 5
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 65.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "wind chimes",
+    "Group": "Miscellaneous",
+    "Image": "10290",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 80.0,
+    "PrimarySkillMax": 130.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "fancy wind chimes",
+    "Group": "Miscellaneous",
+    "Image": "10291",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 15
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 80.0,
+    "PrimarySkillMax": 130.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "star sapphire ring",
+    "Group": "Jewelry",
+    "Image": "4234",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Star Sapphires",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "star sapphire necklace (silver)",
+    "Group": "Jewelry",
+    "Image": "7941",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Star Sapphires",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "star sapphire necklace (jewelled)",
+    "Group": "Jewelry",
+    "Image": "4232",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Star Sapphires",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "star sapphire earrings",
+    "Group": "Jewelry",
+    "Image": "4231",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Star Sapphires",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "star sapphire necklace (golden)",
+    "Group": "Jewelry",
+    "Image": "4233",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Star Sapphires",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "star sapphire bracelet",
+    "Group": "Jewelry",
+    "Image": "4230",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Star Sapphires",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "emerald ring",
+    "Group": "Jewelry",
+    "Image": "4234",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Emeralds",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "emerald necklace (silver)",
+    "Group": "Jewelry",
+    "Image": "7941",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Emeralds",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "emerald necklace (jewelled)",
+    "Group": "Jewelry",
+    "Image": "4232",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Emeralds",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "emerald earrings",
+    "Group": "Jewelry",
+    "Image": "4231",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Emeralds",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "emerald necklace (golden)",
+    "Group": "Jewelry",
+    "Image": "4233",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Emeralds",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "emerald bracelet",
+    "Group": "Jewelry",
+    "Image": "4230",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Emeralds",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sapphire ring",
+    "Group": "Jewelry",
+    "Image": "4234",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Sapphires",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sapphire necklace (silver)",
+    "Group": "Jewelry",
+    "Image": "7941",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Sapphires",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sapphire necklace (jewelled)",
+    "Group": "Jewelry",
+    "Image": "4232",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Sapphires",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sapphire earrings",
+    "Group": "Jewelry",
+    "Image": "4231",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Sapphires",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sapphire necklace (golden)",
+    "Group": "Jewelry",
+    "Image": "4233",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Sapphires",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sapphire bracelet",
+    "Group": "Jewelry",
+    "Image": "4230",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Sapphires",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "ruby ring",
+    "Group": "Jewelry",
+    "Image": "4234",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Rubies",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "ruby necklace (silver)",
+    "Group": "Jewelry",
+    "Image": "7941",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Rubies",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "ruby necklace (jewelled)",
+    "Group": "Jewelry",
+    "Image": "4232",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Rubies",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "ruby earrings",
+    "Group": "Jewelry",
+    "Image": "4231",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Rubies",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "ruby necklace (golden)",
+    "Group": "Jewelry",
+    "Image": "4233",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Rubies",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "ruby bracelet",
+    "Group": "Jewelry",
+    "Image": "4230",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Rubies",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "citrine ring",
+    "Group": "Jewelry",
+    "Image": "4234",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Citrines",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "citrine necklace (silver)",
+    "Group": "Jewelry",
+    "Image": "7941",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Citrines",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "citrine necklace (jewelled)",
+    "Group": "Jewelry",
+    "Image": "4232",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Citrines",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "citrine earrings",
+    "Group": "Jewelry",
+    "Image": "4231",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Citrines",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "citrine necklace (golden)",
+    "Group": "Jewelry",
+    "Image": "4233",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Citrines",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "citrine bracelet",
+    "Group": "Jewelry",
+    "Image": "4230",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Citrines",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "amethyst ring",
+    "Group": "Jewelry",
+    "Image": "4234",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Amethysts",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "amethyst necklace (silver)",
+    "Group": "Jewelry",
+    "Image": "7941",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Amethysts",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "amethyst necklace (jewelled)",
+    "Group": "Jewelry",
+    "Image": "4232",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Amethysts",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "amethyst earrings",
+    "Group": "Jewelry",
+    "Image": "4231",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Amethysts",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "amethyst necklace (golden)",
+    "Group": "Jewelry",
+    "Image": "4233",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Amethysts",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "amethyst bracelet",
+    "Group": "Jewelry",
+    "Image": "4230",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Amethysts",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tourmaline ring",
+    "Group": "Jewelry",
+    "Image": "4234",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Tourmalines",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tourmaline necklace (silver)",
+    "Group": "Jewelry",
+    "Image": "7941",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Tourmalines",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tourmaline necklace (jewelled)",
+    "Group": "Jewelry",
+    "Image": "4232",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Tourmalines",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tourmaline earrings",
+    "Group": "Jewelry",
+    "Image": "4231",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Tourmalines",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tourmaline necklace (golden)",
+    "Group": "Jewelry",
+    "Image": "4233",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Tourmalines",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "tourmaline bracelet",
+    "Group": "Jewelry",
+    "Image": "4230",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Tourmalines",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "amber ring",
+    "Group": "Jewelry",
+    "Image": "4234",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Amber",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "amber necklace (silver)",
+    "Group": "Jewelry",
+    "Image": "7941",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Amber",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "amber necklace (jewelled)",
+    "Group": "Jewelry",
+    "Image": "4232",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Amber",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "amber earrings",
+    "Group": "Jewelry",
+    "Image": "4231",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Amber",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "amber necklace (golden)",
+    "Group": "Jewelry",
+    "Image": "4233",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Amber",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "amber bracelet",
+    "Group": "Jewelry",
+    "Image": "4230",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Amber",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "diamond ring",
+    "Group": "Jewelry",
+    "Image": "4234",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Diamonds",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "diamond necklace (silver)",
+    "Group": "Jewelry",
+    "Image": "7941",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Diamonds",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "diamond necklace (jewelled)",
+    "Group": "Jewelry",
+    "Image": "4232",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Diamonds",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "diamond earrings",
+    "Group": "Jewelry",
+    "Image": "4231",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Diamonds",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "diamond necklace (golden)",
+    "Group": "Jewelry",
+    "Image": "4233",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Diamonds",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "diamond bracelet",
+    "Group": "Jewelry",
+    "Image": "4230",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 2
+      },
+      {
+        "Name": "Diamonds",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 40.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "axle with gears",
+    "Group": "Assemblies",
+    "Image": "4177",
+    "Resources": [
+      {
+        "Name": "Axles",
+        "Amount": 1
+      },
+      {
+        "Name": "Gears",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 0.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "clock parts",
+    "Group": "Assemblies",
+    "Image": "4175",
+    "Resources": [
+      {
+        "Name": "Axles with Gears",
+        "Amount": 1
+      },
+      {
+        "Name": "Springs",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 0.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sextant parts",
+    "Group": "Assemblies",
+    "Image": "4185",
+    "Resources": [
+      {
+        "Name": "Axles with Gears",
+        "Amount": 1
+      },
+      {
+        "Name": "Hinges",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 0.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "clock (right)",
+    "Group": "Assemblies",
+    "Image": "4171",
+    "Resources": [
+      {
+        "Name": "Clock Frames",
+        "Amount": 1
+      },
+      {
+        "Name": "Clock Parts",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 0.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "clock (left)",
+    "Group": "Assemblies",
+    "Image": "4172",
+    "Resources": [
+      {
+        "Name": "Clock Frames",
+        "Amount": 1
+      },
+      {
+        "Name": "Clock Parts",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 0.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sextant",
+    "Group": "Assemblies",
+    "Image": "4184",
+    "Resources": [
+      {
+        "Name": "Sextant Parts",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 0.0,
+    "PrimarySkillMax": 0.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bola",
+    "Group": "Assemblies",
+    "Image": "9900",
+    "Resources": [
+      {
+        "Name": "Bola Balls",
+        "Amount": 4
+      },
+      {
+        "Name": "Leather or Hides",
+        "Amount": 3
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 60.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "potion keg",
+    "Group": "Assemblies",
+    "Image": "6464",
+    "Resources": [
+      {
+        "Name": "Empty Kegs",
+        "Amount": 1
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 10
+      },
+      {
+        "Name": "Barrel Lids",
+        "Amount": 1
+      },
+      {
+        "Name": "Keg Taps",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 75.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "dart trap",
+    "Group": "Traps",
+    "Image": "7164",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 1
+      },
+      {
+        "Name": "Crossbow Bolts",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 30.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "poison trap",
+    "Group": "Traps",
+    "Image": "4414",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 1
+      },
+      {
+        "Name": "Green Potions",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 30.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "explosion trap",
+    "Group": "Traps",
+    "Image": "14092",
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 1
+      },
+      {
+        "Name": "Purple Potions",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 55.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "faction gas trap",
+    "Group": "Traps",
+    "Image": "4523",
+    "Resources": [
+      {
+        "Name": "Faction Silver",
+        "Amount": 250
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      },
+      {
+        "Name": "Green Potions",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 65.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "faction explosion trap",
+    "Group": "Traps",
+    "Image": "14034",
+    "Resources": [
+      {
+        "Name": "Faction Silver",
+        "Amount": 250
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      },
+      {
+        "Name": "Purple Potions",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 65.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "faction saw trap",
+    "Group": "Traps",
+    "Image": "4359",
+    "Resources": [
+      {
+        "Name": "Faction Silver",
+        "Amount": 250
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      },
+      {
+        "Name": "Gears",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 65.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "faction spike trap",
+    "Group": "Traps",
+    "Image": "4517",
+    "Resources": [
+      {
+        "Name": "Faction Silver",
+        "Amount": 250
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      },
+      {
+        "Name": "Springs",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 65.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "faction trap removal kit",
+    "Group": "Traps",
+    "Image": "7867",
+    "Resources": [
+      {
+        "Name": "Faction Silver",
+        "Amount": 500
+      },
+      {
+        "Name": "Ingots",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "tinkering",
+    "Skill": 90.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  }
+]

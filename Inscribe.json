@@ -1,0 +1,1731 @@
+[
+  {
+    "Name": "Reactive Armor",
+    "Group": "First Circle",
+    "Image": "7981",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Clumsy",
+    "Group": "First Circle",
+    "Image": "7982",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Create Food",
+    "Group": "First Circle",
+    "Image": "7983",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Feeblemind",
+    "Group": "First Circle",
+    "Image": "7984",
+    "Resources": [
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Heal",
+    "Group": "First Circle",
+    "Image": "7985",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Magic Arrow",
+    "Group": "First Circle",
+    "Image": "7986",
+    "Resources": [
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Night Sight",
+    "Group": "First Circle",
+    "Image": "7987",
+    "Resources": [
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Weaken",
+    "Group": "First Circle",
+    "Image": "7988",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 25.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Agility",
+    "Group": "Second Circle",
+    "Image": "7989",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 39.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Cunning",
+    "Group": "Second Circle",
+    "Image": "7990",
+    "Resources": [
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 39.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Cure",
+    "Group": "Second Circle",
+    "Image": "7991",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 39.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Harm",
+    "Group": "Second Circle",
+    "Image": "7992",
+    "Resources": [
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 39.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Magic Trap",
+    "Group": "Second Circle",
+    "Image": "7993",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 39.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Magic Untrap",
+    "Group": "Second Circle",
+    "Image": "7994",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 39.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Protection",
+    "Group": "Second Circle",
+    "Image": "7995",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 39.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Strength",
+    "Group": "Second Circle",
+    "Image": "7996",
+    "Resources": [
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 0.0,
+    "PrimarySkillMax": 39.2,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Bless",
+    "Group": "Third Circle",
+    "Image": "7997",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 3.5,
+    "PrimarySkillMax": 53.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Fireball",
+    "Group": "Third Circle",
+    "Image": "7998",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 3.5,
+    "PrimarySkillMax": 53.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Magic Lock",
+    "Group": "Third Circle",
+    "Image": "7999",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 3.5,
+    "PrimarySkillMax": 53.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Poison",
+    "Group": "Third Circle",
+    "Image": "8000",
+    "Resources": [
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 3.5,
+    "PrimarySkillMax": 53.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Telekinesis",
+    "Group": "Third Circle",
+    "Image": "8001",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 3.5,
+    "PrimarySkillMax": 53.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Teleport",
+    "Group": "Third Circle",
+    "Image": "8002",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 3.5,
+    "PrimarySkillMax": 53.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Unlock",
+    "Group": "Third Circle",
+    "Image": "8003",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 3.5,
+    "PrimarySkillMax": 53.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Wall of Stone",
+    "Group": "Third Circle",
+    "Image": "8004",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 3.5,
+    "PrimarySkillMax": 53.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Arch Cure",
+    "Group": "Fourth Circle",
+    "Image": "8005",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 17.8,
+    "PrimarySkillMax": 67.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Arch Protection",
+    "Group": "Fourth Circle",
+    "Image": "8006",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 17.8,
+    "PrimarySkillMax": 67.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Curse",
+    "Group": "Fourth Circle",
+    "Image": "8007",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 17.8,
+    "PrimarySkillMax": 67.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Fire Field",
+    "Group": "Fourth Circle",
+    "Image": "8008",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 17.8,
+    "PrimarySkillMax": 67.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Greater Heal",
+    "Group": "Fourth Circle",
+    "Image": "8009",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 17.8,
+    "PrimarySkillMax": 67.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Lightning",
+    "Group": "Fourth Circle",
+    "Image": "8010",
+    "Resources": [
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 17.8,
+    "PrimarySkillMax": 67.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Mana Drain",
+    "Group": "Fourth Circle",
+    "Image": "8011",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 17.8,
+    "PrimarySkillMax": 67.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Recall",
+    "Group": "Fourth Circle",
+    "Image": "8012",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 17.8,
+    "PrimarySkillMax": 67.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Blade Spirits",
+    "Group": "Fifth Circle",
+    "Image": "8013",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 32.1,
+    "PrimarySkillMax": 82.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Dispel Field",
+    "Group": "Fifth Circle",
+    "Image": "8014",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 32.1,
+    "PrimarySkillMax": 82.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Incognito",
+    "Group": "Fifth Circle",
+    "Image": "8015",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 32.1,
+    "PrimarySkillMax": 82.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Magic Reflection",
+    "Group": "Fifth Circle",
+    "Image": "8016",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 32.1,
+    "PrimarySkillMax": 82.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Mind Blast",
+    "Group": "Fifth Circle",
+    "Image": "8017",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 32.1,
+    "PrimarySkillMax": 82.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Paralyze",
+    "Group": "Fifth Circle",
+    "Image": "8018",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 32.1,
+    "PrimarySkillMax": 82.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Poison Field",
+    "Group": "Fifth Circle",
+    "Image": "8019",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 32.1,
+    "PrimarySkillMax": 82.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Summon Creature",
+    "Group": "Fifth Circle",
+    "Image": "8020",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 32.1,
+    "PrimarySkillMax": 82.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Dispel",
+    "Group": "Sixth Circle",
+    "Image": "8021",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 46.4,
+    "PrimarySkillMax": 96.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Energy Bolt",
+    "Group": "Sixth Circle",
+    "Image": "8022",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 46.4,
+    "PrimarySkillMax": 96.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Explosion",
+    "Group": "Sixth Circle",
+    "Image": "8023",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 46.4,
+    "PrimarySkillMax": 96.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Invisibility",
+    "Group": "Sixth Circle",
+    "Image": "8024",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 46.4,
+    "PrimarySkillMax": 96.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Mark",
+    "Group": "Sixth Circle",
+    "Image": "8025",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 46.4,
+    "PrimarySkillMax": 96.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Mass Curse",
+    "Group": "Sixth Circle",
+    "Image": "8026",
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 46.4,
+    "PrimarySkillMax": 96.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Paralyze Field",
+    "Group": "Sixth Circle",
+    "Image": "8027",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 46.4,
+    "PrimarySkillMax": 96.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Reveal",
+    "Group": "Sixth Circle",
+    "Image": "8028",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 46.4,
+    "PrimarySkillMax": 96.4,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Chain Lightning",
+    "Group": "Seventh Circle",
+    "Image": "8029",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 60.7,
+    "PrimarySkillMax": 110.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Energy Field",
+    "Group": "Seventh Circle",
+    "Image": "8030",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 60.7,
+    "PrimarySkillMax": 110.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Flamestrike",
+    "Group": "Seventh Circle",
+    "Image": "8031",
+    "Resources": [
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 60.7,
+    "PrimarySkillMax": 110.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Gate Travel",
+    "Group": "Seventh Circle",
+    "Image": "8032",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 60.7,
+    "PrimarySkillMax": 110.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Mana Vampire",
+    "Group": "Seventh Circle",
+    "Image": "8033",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 60.7,
+    "PrimarySkillMax": 110.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Mass Dispel",
+    "Group": "Seventh Circle",
+    "Image": "8034",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 60.7,
+    "PrimarySkillMax": 110.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Meteor Swarm",
+    "Group": "Seventh Circle",
+    "Image": "8035",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 60.7,
+    "PrimarySkillMax": 110.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Polymorph",
+    "Group": "Seventh Circle",
+    "Image": "8036",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 60.7,
+    "PrimarySkillMax": 110.7,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Earthquake",
+    "Group": "Eighth Circle",
+    "Image": "8037",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Energy Vortex",
+    "Group": "Eighth Circle",
+    "Image": "8038",
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Resurrection",
+    "Group": "Eighth Circle",
+    "Image": "8039",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Summon Air Elemental",
+    "Group": "Eighth Circle",
+    "Image": "8040",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Summon Daemon",
+    "Group": "Eighth Circle",
+    "Image": "8041",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Summon Earth Elemental",
+    "Group": "Eighth Circle",
+    "Image": "8042",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Summon Fire Elemental",
+    "Group": "Eighth Circle",
+    "Image": "8043",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Summon Water Elemental",
+    "Group": "Eighth Circle",
+    "Image": "8044",
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Runebook",
+    "Group": "Other",
+    "Image": "8901",
+    "Resources": [
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 8
+      },
+      {
+        "Name": "Recall Scrolls",
+        "Amount": 10
+      },
+      {
+        "Name": "Gate Scrolls",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 45.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Bulk Order Book",
+    "Group": "Other",
+    "Image": "8793",
+    "Resources": [
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 65.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Spellbook",
+    "Group": "Other",
+    "Image": "3834",
+    "Resources": [
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 50.0,
+    "PrimarySkillMax": 126.0,
+    "SecondarySkills": []
+  }
+]

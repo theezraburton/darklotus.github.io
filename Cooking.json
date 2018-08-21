@@ -1,0 +1,816 @@
+[
+  {
+    "Name": "sack of flour",
+    "Group": "Ingredients",
+    "Image": "4153",
+    "Resources": [
+      {
+        "Name": "Wheat",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "dough",
+    "Group": "Ingredients",
+    "Image": "4157",
+    "Resources": [
+      {
+        "Name": "Flour",
+        "Amount": 1
+      },
+      {
+        "Name": "Water",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sweet dough",
+    "Group": "Ingredients",
+    "Image": "4157",
+    "Resources": [
+      {
+        "Name": "Dough",
+        "Amount": 1
+      },
+      {
+        "Name": "Honey",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cake mix",
+    "Group": "Ingredients",
+    "Image": "4159",
+    "Resources": [
+      {
+        "Name": "Flour",
+        "Amount": 1
+      },
+      {
+        "Name": "Sweet Dough",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cookie mix",
+    "Group": "Ingredients",
+    "Image": "4159",
+    "Resources": [
+      {
+        "Name": "Honey",
+        "Amount": 1
+      },
+      {
+        "Name": "Sweet Dough",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cocoa butter",
+    "Group": "Ingredients",
+    "Image": "4164",
+    "Resources": [
+      {
+        "Name": "cocoa pulp",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cocoa liquor",
+    "Group": "Ingredients",
+    "Image": "4159",
+    "Resources": [
+      {
+        "Name": "cocoa pulp",
+        "Amount": 1
+      },
+      {
+        "Name": "pewter bowl",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "unbaked quiche",
+    "Group": "Preparations",
+    "Image": "4162",
+    "Resources": [
+      {
+        "Name": "Dough",
+        "Amount": 1
+      },
+      {
+        "Name": "Eggs",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "unbaked meat pie",
+    "Group": "Preparations",
+    "Image": "4162",
+    "Resources": [
+      {
+        "Name": "Dough",
+        "Amount": 1
+      },
+      {
+        "Name": "Raw Meat",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "uncooked sausage pizza",
+    "Group": "Preparations",
+    "Image": "4227",
+    "Resources": [
+      {
+        "Name": "Dough",
+        "Amount": 1
+      },
+      {
+        "Name": "Sausage",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "uncooked cheese pizza",
+    "Group": "Preparations",
+    "Image": "4227",
+    "Resources": [
+      {
+        "Name": "Dough",
+        "Amount": 1
+      },
+      {
+        "Name": "Cheese",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "unbaked fruit pie",
+    "Group": "Preparations",
+    "Image": "4162",
+    "Resources": [
+      {
+        "Name": "Dough",
+        "Amount": 1
+      },
+      {
+        "Name": "Pears",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "unbaked peach cobbler",
+    "Group": "Preparations",
+    "Image": "4162",
+    "Resources": [
+      {
+        "Name": "Dough",
+        "Amount": 1
+      },
+      {
+        "Name": "Peaches",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "unbaked apple pie",
+    "Group": "Preparations",
+    "Image": "4162",
+    "Resources": [
+      {
+        "Name": "Dough",
+        "Amount": 1
+      },
+      {
+        "Name": "Apples",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "unbaked pumpkin pie",
+    "Group": "Preparations",
+    "Image": "4162",
+    "Resources": [
+      {
+        "Name": "Dough",
+        "Amount": 1
+      },
+      {
+        "Name": "Pumpkin",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "green tea",
+    "Group": "Preparations",
+    "Image": "10316",
+    "Resources": [
+      {
+        "Name": "green tea",
+        "Amount": 1
+      },
+      {
+        "Name": "Water",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 80.0,
+    "PrimarySkillMax": 130.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "wasabi clumps",
+    "Group": "Preparations",
+    "Image": "9451",
+    "Resources": [
+      {
+        "Name": "Water",
+        "Amount": 1
+      },
+      {
+        "Name": "bowl of peas",
+        "Amount": 3
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 70.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sushi rolls",
+    "Group": "Preparations",
+    "Image": "10302",
+    "Resources": [
+      {
+        "Name": "Water",
+        "Amount": 1
+      },
+      {
+        "Name": "Raw Fish Steaks",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 90.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sushi platter",
+    "Group": "Preparations",
+    "Image": "10304",
+    "Resources": [
+      {
+        "Name": "Water",
+        "Amount": 1
+      },
+      {
+        "Name": "Raw Fish Steaks",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 90.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "savage kin paint",
+    "Group": "Preparations",
+    "Image": "2540",
+    "Resources": [
+      {
+        "Name": "Flour",
+        "Amount": 1
+      },
+      {
+        "Name": "Tribal Berries",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 55.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "egg bomb",
+    "Group": "Preparations",
+    "Image": "10248",
+    "Resources": [
+      {
+        "Name": "Eggs",
+        "Amount": 1
+      },
+      {
+        "Name": "Flour",
+        "Amount": 3
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 90.0,
+    "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bread loaf",
+    "Group": "Baking",
+    "Image": "4155",
+    "Resources": [
+      {
+        "Name": "Dough",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "pan of cookies",
+    "Group": "Baking",
+    "Image": "5643",
+    "Resources": [
+      {
+        "Name": "Cookie Mix",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cake",
+    "Group": "Baking",
+    "Image": "2537",
+    "Resources": [
+      {
+        "Name": "Cake Mix",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "muffins",
+    "Group": "Baking",
+    "Image": "2539",
+    "Resources": [
+      {
+        "Name": "Sweet Dough",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "baked quiche",
+    "Group": "Baking",
+    "Image": "4161",
+    "Resources": [
+      {
+        "Name": "Uncooked Quiches",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "baked meat pie",
+    "Group": "Baking",
+    "Image": "4161",
+    "Resources": [
+      {
+        "Name": "Uncooked Meat Pies",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "sausage pizza",
+    "Group": "Baking",
+    "Image": "4160",
+    "Resources": [
+      {
+        "Name": "Uncooked Sausage Pizzas",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cheese pizza",
+    "Group": "Baking",
+    "Image": "4160",
+    "Resources": [
+      {
+        "Name": "Uncooked Cheese Pizzas",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "baked fruit pie",
+    "Group": "Baking",
+    "Image": "4161",
+    "Resources": [
+      {
+        "Name": "Uncooked Fruit Pies",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "baked peach cobbler",
+    "Group": "Baking",
+    "Image": "4161",
+    "Resources": [
+      {
+        "Name": "Uncooked Peach Cobblers",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "baked apple pie",
+    "Group": "Baking",
+    "Image": "4161",
+    "Resources": [
+      {
+        "Name": "Uncooked Apple Pies",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "baked pumpkin pie",
+    "Group": "Baking",
+    "Image": "4161",
+    "Resources": [
+      {
+        "Name": "Unbaked Pumpkin Pies",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "miso soup",
+    "Group": "Baking",
+    "Image": "10317",
+    "Resources": [
+      {
+        "Name": "Raw Fish Steaks",
+        "Amount": 1
+      },
+      {
+        "Name": "Water",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 60.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "white miso soup",
+    "Group": "Baking",
+    "Image": "10318",
+    "Resources": [
+      {
+        "Name": "Raw Fish Steaks",
+        "Amount": 1
+      },
+      {
+        "Name": "Water",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 60.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "red miso soup",
+    "Group": "Baking",
+    "Image": "10319",
+    "Resources": [
+      {
+        "Name": "Raw Fish Steaks",
+        "Amount": 1
+      },
+      {
+        "Name": "Water",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 60.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "awase miso soup",
+    "Group": "Baking",
+    "Image": "10320",
+    "Resources": [
+      {
+        "Name": "Raw Fish Steaks",
+        "Amount": 1
+      },
+      {
+        "Name": "Water",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 60.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cooked bird",
+    "Group": "Barbecue",
+    "Image": "2487",
+    "Resources": [
+      {
+        "Name": "Raw Birds",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "chicken leg",
+    "Group": "Barbecue",
+    "Image": "5640",
+    "Resources": [
+      {
+        "Name": "Raw Chicken Legs",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "fish steak",
+    "Group": "Barbecue",
+    "Image": "2427",
+    "Resources": [
+      {
+        "Name": "Raw Fish Steaks",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "fried eggs",
+    "Group": "Barbecue",
+    "Image": "2486",
+    "Resources": [
+      {
+        "Name": "Eggs",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "leg of lamb",
+    "Group": "Barbecue",
+    "Image": "5642",
+    "Resources": [
+      {
+        "Name": "Raw Legs of Lamb",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "cut of ribs",
+    "Group": "Barbecue",
+    "Image": "2546",
+    "Resources": [
+      {
+        "Name": "Raw Ribs",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 0.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Dark chocolate",
+    "Group": "Chocolatiering",
+    "Image": "3856",
+    "Resources": [
+      {
+        "Name": "sack of sugar",
+        "Amount": 1
+      },
+      {
+        "Name": "cocoa butter",
+        "Amount": 1
+      },
+      {
+        "Name": "cocoa liquor",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 15.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Milk chocolate",
+    "Group": "Chocolatiering",
+    "Image": "3864",
+    "Resources": [
+      {
+        "Name": "sack of sugar",
+        "Amount": 1
+      },
+      {
+        "Name": "cocoa butter",
+        "Amount": 1
+      },
+      {
+        "Name": "cocoa liquor",
+        "Amount": 1
+      },
+      {
+        "Name": "milk",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 32.5,
+    "PrimarySkillMax": 107.5,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "White chocolate",
+    "Group": "Chocolatiering",
+    "Image": "3857",
+    "Resources": [
+      {
+        "Name": "sack of sugar",
+        "Amount": 1
+      },
+      {
+        "Name": "cocoa butter",
+        "Amount": 1
+      },
+      {
+        "Name": "vanilla",
+        "Amount": 1
+      },
+      {
+        "Name": "milk",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "cooking",
+    "Skill": 52.5,
+    "PrimarySkillMax": 127.5,
+    "SecondarySkills": []
+  }
+]
