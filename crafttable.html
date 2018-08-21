@@ -76,15 +76,15 @@
         <div id="app">
                 <select v-model="selectedskill" v-on:change="loadData">
                         <!-- inline object literal -->
-                        <option selected v-bind:value="{ name: 'Alchemy' ,url:'Alchemy.json'  }">Alchemy</option>
-                        <option v-bind:value="{ name: 'Blacksmith', url:'Blacksmith.json'  }">Blacksmithy</option>
-                        <option v-bind:value="{ name: 'Carp', url:'Carpentry.json'  }">Carpentry</option>
-                        <option v-bind:value="{ name: 'Cartography', url:'Cartography.json'  }">Cartography</option>
-                        <option v-bind:value="{ name: 'Cooking', url:'Cooking.json'  }">Cooking</option>
-                        <option v-bind:value="{ name: 'Fletching', url:'Fletching.json'  }">Fletching</option>
-                        <option v-bind:value="{ name: 'Inscribe', url:'Inscribe.json'  }">Inscription</option>
-                        <option v-bind:value="{ name: 'Tailoring', url:'Tailoring.json'  }">Tailoring</option>
-                        <option v-bind:value="{ name: 'Tinkering', url:'Tinkering.json'  }">Tinkering</option>
+                        <option selected v-bind:value="{ name: 'Alchemy' ,url:'https://darklotus.github.io/Alchemy.json'  }">Alchemy</option>
+                        <option v-bind:value="{ name: 'Blacksmith', url:'https://darklotus.github.io/Blacksmith.json'  }">Blacksmithy</option>
+                        <option v-bind:value="{ name: 'Carp', url:'https://darklotus.github.io/Carpentry.json'  }">Carpentry</option>
+                        <option v-bind:value="{ name: 'Cartography', url:'https://darklotus.github.io/Cartography.json'  }">Cartography</option>
+                        <option v-bind:value="{ name: 'Cooking', url:'https://darklotus.github.io/Cooking.json'  }">Cooking</option>
+                        <option v-bind:value="{ name: 'Fletching', url:'https://darklotus.github.io/Fletching.json'  }">Fletching</option>
+                        <option v-bind:value="{ name: 'Inscribe', url:'https://darklotus.github.io/Inscribe.json'  }">Inscription</option>
+                        <option v-bind:value="{ name: 'Tailoring', url:'https://darklotus.github.io/Tailoring.json'  }">Tailoring</option>
+                        <option v-bind:value="{ name: 'Tinkering', url:'https://darklotus.github.io/Tinkering.json'  }">Tinkering</option>
 
                     </select>
              <demo-grid
@@ -110,7 +110,7 @@
               </thead>
               <tbody>
                 <tr v-for="entry in filteredData">
-                        <td><img src="http://Services.ServUO.com/uoapi/item/{{entry['Image']}}"> </img></td>
+                        <td><img :src=" 'http://Services.ServUO.com/uoapi/item/' + entry['Image']"> </img></td>
                   <td>{{entry['Name']}}</td>
                   <td>{{entry['Group']}}</td>
                   <td>{{entry['Skill']}} {{entry['PrimarySkillName']}}
@@ -200,7 +200,6 @@ var demo = new Vue({
   methods: {
       loadData: function(event) {
         var _this = this;
-        console.log(event);
         $.getJSON(_this.selectedskill.url, function (json) {
             _this.gridData = json;
         });
@@ -208,7 +207,7 @@ var demo = new Vue({
   },
   created: function () {
         var _this = this;
-        $.getJSON('https://gist.githubusercontent.com/DarkLotus/eb7232823309de36f26669b5049cd3d9/raw/a49ec850597feb75145ed73e09cb712b2682e76d/gistfile1.txt', function (json) {
+        $.getJSON('https://darklotus.github.io/Alchemy.json', function (json) {
             _this.gridData = json;
         });
     }
