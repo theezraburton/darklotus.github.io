@@ -1,0 +1,13 @@
+[
+  {
+    "Chance": 100,
+    "Resource": {
+      "Name": "fish",
+      "Image": "fish.png",
+      "ReqSkill": 0.0,
+      "MinSkill": 0.0,
+      "MaxSkill": 100.0,
+      "Tier": 0
+    }
+  }
+]

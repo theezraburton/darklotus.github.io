@@ -1,0 +1,222 @@
+[
+  {
+    "Chance": 6000,
+    "Resource": {
+      "Name": "iron ore",
+      "Image": "iron ore.png",
+      "ReqSkill": 0.0,
+      "MinSkill": 0.0,
+      "MaxSkill": 75.0,
+      "Tier": 0
+    }
+  },
+  {
+    "Chance": 6000,
+    "Resource": {
+      "Name": "ragnarok ore",
+      "Image": "ragnarok ore.png",
+      "ReqSkill": 124.9,
+      "MinSkill": 99.0,
+      "MaxSkill": 159.0,
+      "Tier": 6
+    }
+  },
+  {
+    "Chance": 1000,
+    "Resource": {
+      "Name": "stone ore",
+      "Image": "stone ore.png",
+      "ReqSkill": 0.0,
+      "MinSkill": 0.0,
+      "MaxSkill": 75.0,
+      "Tier": 0
+    }
+  },
+  {
+    "Chance": 925,
+    "Resource": {
+      "Name": "aluminium ore",
+      "Image": "aluminium ore.png",
+      "ReqSkill": 49.9,
+      "MinSkill": 24.0,
+      "MaxSkill": 84.0,
+      "Tier": 1
+    }
+  },
+  {
+    "Chance": 850,
+    "Resource": {
+      "Name": "cobalt ore",
+      "Image": "cobalt ore.png",
+      "ReqSkill": 64.9,
+      "MinSkill": 39.0,
+      "MaxSkill": 99.0,
+      "Tier": 1
+    }
+  },
+  {
+    "Chance": 775,
+    "Resource": {
+      "Name": "nickel ore",
+      "Image": "nickel ore.png",
+      "ReqSkill": 64.9,
+      "MinSkill": 39.0,
+      "MaxSkill": 99.0,
+      "Tier": 1
+    }
+  },
+  {
+    "Chance": 600,
+    "Resource": {
+      "Name": "copper ore",
+      "Image": "copper ore.png",
+      "ReqSkill": 69.9,
+      "MinSkill": 44.0,
+      "MaxSkill": 104.0,
+      "Tier": 1
+    }
+  },
+  {
+    "Chance": 550,
+    "Resource": {
+      "Name": "zinc ore",
+      "Image": "zinc ore.png",
+      "ReqSkill": 74.9,
+      "MinSkill": 49.0,
+      "MaxSkill": 109.0,
+      "Tier": 2
+    }
+  },
+  {
+    "Chance": 500,
+    "Resource": {
+      "Name": "silver ore",
+      "Image": "silver ore.png",
+      "ReqSkill": 79.9,
+      "MinSkill": 54.0,
+      "MaxSkill": 114.0,
+      "Tier": 2
+    }
+  },
+  {
+    "Chance": 475,
+    "Resource": {
+      "Name": "tin ore",
+      "Image": "tin ore.png",
+      "ReqSkill": 79.9,
+      "MinSkill": 54.0,
+      "MaxSkill": 114.0,
+      "Tier": 3
+    }
+  },
+  {
+    "Chance": 450,
+    "Resource": {
+      "Name": "zirconium ore",
+      "Image": "zirconium ore.png",
+      "ReqSkill": 84.9,
+      "MinSkill": 59.0,
+      "MaxSkill": 119.0,
+      "Tier": 3
+    }
+  },
+  {
+    "Chance": 400,
+    "Resource": {
+      "Name": "gold ore",
+      "Image": "gold ore.png",
+      "ReqSkill": 87.9,
+      "MinSkill": 62.0,
+      "MaxSkill": 122.0,
+      "Tier": 3
+    }
+  },
+  {
+    "Chance": 300,
+    "Resource": {
+      "Name": "carbon ore",
+      "Image": "carbon ore.png",
+      "ReqSkill": 89.9,
+      "MinSkill": 64.0,
+      "MaxSkill": 124.0,
+      "Tier": 3
+    }
+  },
+  {
+    "Chance": 250,
+    "Resource": {
+      "Name": "lead ore",
+      "Image": "lead ore.png",
+      "ReqSkill": 95.9,
+      "MinSkill": 70.0,
+      "MaxSkill": 130.0,
+      "Tier": 4
+    }
+  },
+  {
+    "Chance": 200,
+    "Resource": {
+      "Name": "beryllium ore",
+      "Image": "beryllium ore.png",
+      "ReqSkill": 97.9,
+      "MinSkill": 72.0,
+      "MaxSkill": 132.0,
+      "Tier": 4
+    }
+  },
+  {
+    "Chance": 150,
+    "Resource": {
+      "Name": "platinum ore",
+      "Image": "platinum ore.png",
+      "ReqSkill": 101.9,
+      "MinSkill": 76.0,
+      "MaxSkill": 136.0,
+      "Tier": 4
+    }
+  },
+  {
+    "Chance": 50,
+    "Resource": {
+      "Name": "chromium ore",
+      "Image": "chromium ore.png",
+      "ReqSkill": 104.9,
+      "MinSkill": 79.0,
+      "MaxSkill": 139.0,
+      "Tier": 4
+    }
+  },
+  {
+    "Chance": 25,
+    "Resource": {
+      "Name": "icestorm ore",
+      "Image": "icestorm ore.png",
+      "ReqSkill": 109.9,
+      "MinSkill": 84.0,
+      "MaxSkill": 144.0,
+      "Tier": 5
+    }
+  },
+  {
+    "Chance": 10,
+    "Resource": {
+      "Name": "titanium ore",
+      "Image": "titanium ore.png",
+      "ReqSkill": 114.9,
+      "MinSkill": 89.0,
+      "MaxSkill": 149.0,
+      "Tier": 5
+    }
+  },
+  {
+    "Chance": 5,
+    "Resource": {
+      "Name": "tungsten ore",
+      "Image": "tungsten ore.png",
+      "ReqSkill": 119.9,
+      "MinSkill": 94.0,
+      "MaxSkill": 154.0,
+      "Tier": 5
+    }
+  }
+]

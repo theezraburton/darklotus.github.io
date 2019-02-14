@@ -2,7 +2,8 @@
   {
     "Name": "skullcap",
     "Group": "Hats",
-    "Image": "5444",
+    "Image": "5444.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -17,7 +18,8 @@
   {
     "Name": "bandana",
     "Group": "Hats",
-    "Image": "5440",
+    "Image": "5440.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -32,7 +34,8 @@
   {
     "Name": "floppy hat",
     "Group": "Hats",
-    "Image": "5907",
+    "Image": "5907.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -47,7 +50,8 @@
   {
     "Name": "cap",
     "Group": "Hats",
-    "Image": "5909",
+    "Image": "5909.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -62,7 +66,8 @@
   {
     "Name": "wide-brim hat",
     "Group": "Hats",
-    "Image": "5908",
+    "Image": "5908.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -77,7 +82,8 @@
   {
     "Name": "straw hat",
     "Group": "Hats",
-    "Image": "5911",
+    "Image": "5911.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -92,7 +98,8 @@
   {
     "Name": "tall straw hat",
     "Group": "Hats",
-    "Image": "5910",
+    "Image": "5910.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -107,7 +114,8 @@
   {
     "Name": "wizard's hat",
     "Group": "Hats",
-    "Image": "5912",
+    "Image": "5912.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -122,7 +130,8 @@
   {
     "Name": "bonnet",
     "Group": "Hats",
-    "Image": "5913",
+    "Image": "5913.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -137,7 +146,8 @@
   {
     "Name": "feathered hat",
     "Group": "Hats",
-    "Image": "5914",
+    "Image": "5914.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -152,7 +162,8 @@
   {
     "Name": "tricorne hat",
     "Group": "Hats",
-    "Image": "5915",
+    "Image": "5915.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -167,7 +178,8 @@
   {
     "Name": "jester hat",
     "Group": "Hats",
-    "Image": "5916",
+    "Image": "5916.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -182,7 +194,8 @@
   {
     "Name": "flower garland",
     "Group": "Hats",
-    "Image": "8966",
+    "Image": "8966.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -197,7 +210,8 @@
   {
     "Name": "cloth ninja hood",
     "Group": "Hats",
-    "Image": "10127",
+    "Image": "10127.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -212,7 +226,8 @@
   {
     "Name": "kasa",
     "Group": "Hats",
-    "Image": "10136",
+    "Image": "10136.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -227,7 +242,8 @@
   {
     "Name": "doublet",
     "Group": "Shirts",
-    "Image": "8059",
+    "Image": "8059.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -242,7 +258,8 @@
   {
     "Name": "shirt",
     "Group": "Shirts",
-    "Image": "5399",
+    "Image": "5399.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -257,7 +274,8 @@
   {
     "Name": "fancy shirt",
     "Group": "Shirts",
-    "Image": "7933",
+    "Image": "7933.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -272,7 +290,8 @@
   {
     "Name": "tunic",
     "Group": "Shirts",
-    "Image": "8097",
+    "Image": "8097.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -287,7 +306,8 @@
   {
     "Name": "surcoat",
     "Group": "Shirts",
-    "Image": "8189",
+    "Image": "8189.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -302,7 +322,8 @@
   {
     "Name": "plain dress",
     "Group": "Shirts",
-    "Image": "7937",
+    "Image": "7937.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -317,7 +338,8 @@
   {
     "Name": "fancy dress",
     "Group": "Shirts",
-    "Image": "7936",
+    "Image": "7936.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -332,7 +354,8 @@
   {
     "Name": "cloak",
     "Group": "Shirts",
-    "Image": "5397",
+    "Image": "5397.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -347,7 +370,8 @@
   {
     "Name": "robe",
     "Group": "Shirts",
-    "Image": "7939",
+    "Image": "7939.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -362,7 +386,8 @@
   {
     "Name": "jester suit",
     "Group": "Shirts",
-    "Image": "8095",
+    "Image": "8095.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -377,7 +402,8 @@
   {
     "Name": "fur cape",
     "Group": "Shirts",
-    "Image": "8970",
+    "Image": "8970.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -392,7 +418,8 @@
   {
     "Name": "gilded dress",
     "Group": "Shirts",
-    "Image": "8974",
+    "Image": "8974.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -407,7 +434,8 @@
   {
     "Name": "formal shirt",
     "Group": "Shirts",
-    "Image": "8976",
+    "Image": "8976.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -422,7 +450,8 @@
   {
     "Name": "cloth ninja jacket",
     "Group": "Shirts",
-    "Image": "10132",
+    "Image": "10132.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -437,7 +466,8 @@
   {
     "Name": "kamishimo",
     "Group": "Shirts",
-    "Image": "10137",
+    "Image": "10137.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -452,7 +482,8 @@
   {
     "Name": "hakama-shita",
     "Group": "Shirts",
-    "Image": "10140",
+    "Image": "10140.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -467,7 +498,8 @@
   {
     "Name": "male kimono",
     "Group": "Shirts",
-    "Image": "10114",
+    "Image": "10114.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -482,7 +514,8 @@
   {
     "Name": "female kimono",
     "Group": "Shirts",
-    "Image": "10115",
+    "Image": "10115.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -497,7 +530,8 @@
   {
     "Name": "jin-baori",
     "Group": "Shirts",
-    "Image": "10145",
+    "Image": "10145.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -512,7 +546,8 @@
   {
     "Name": "short pants",
     "Group": "Pants",
-    "Image": "5422",
+    "Image": "5422.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -527,7 +562,8 @@
   {
     "Name": "long pants",
     "Group": "Pants",
-    "Image": "5433",
+    "Image": "5433.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -542,7 +578,8 @@
   {
     "Name": "kilt",
     "Group": "Pants",
-    "Image": "5431",
+    "Image": "5431.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -557,7 +594,8 @@
   {
     "Name": "skirt",
     "Group": "Pants",
-    "Image": "5398",
+    "Image": "5398.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -572,7 +610,8 @@
   {
     "Name": "fur sarong",
     "Group": "Pants",
-    "Image": "8972",
+    "Image": "8972.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -587,7 +626,8 @@
   {
     "Name": "hakama",
     "Group": "Pants",
-    "Image": "10138",
+    "Image": "10138.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -602,7 +642,8 @@
   {
     "Name": "tattsuke-hakama",
     "Group": "Pants",
-    "Image": "10139",
+    "Image": "10139.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -617,7 +658,8 @@
   {
     "Name": "body sash",
     "Group": "Miscellaneous",
-    "Image": "5441",
+    "Image": "5441.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -632,7 +674,8 @@
   {
     "Name": "half apron",
     "Group": "Miscellaneous",
-    "Image": "5435",
+    "Image": "5435.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -647,7 +690,8 @@
   {
     "Name": "full apron",
     "Group": "Miscellaneous",
-    "Image": "5437",
+    "Image": "5437.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -662,7 +706,8 @@
   {
     "Name": "obi",
     "Group": "Miscellaneous",
-    "Image": "10144",
+    "Image": "10144.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -677,7 +722,8 @@
   {
     "Name": "oil cloth",
     "Group": "Miscellaneous",
-    "Image": "5981",
+    "Image": "5981.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cloth",
@@ -692,7 +738,8 @@
   {
     "Name": "goza (east)",
     "Group": "Miscellaneous",
-    "Image": "5360",
+    "Image": "5360.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -707,7 +754,8 @@
   {
     "Name": "goza (south)",
     "Group": "Miscellaneous",
-    "Image": "5360",
+    "Image": "5360.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -722,7 +770,8 @@
   {
     "Name": "square goza (east)",
     "Group": "Miscellaneous",
-    "Image": "5360",
+    "Image": "5360.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -737,7 +786,8 @@
   {
     "Name": "square goza (south)",
     "Group": "Miscellaneous",
-    "Image": "5360",
+    "Image": "5360.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -752,7 +802,8 @@
   {
     "Name": "brocade goza (east)",
     "Group": "Miscellaneous",
-    "Image": "5360",
+    "Image": "5360.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -767,7 +818,8 @@
   {
     "Name": "brocade goza (south)",
     "Group": "Miscellaneous",
-    "Image": "5360",
+    "Image": "5360.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -782,7 +834,8 @@
   {
     "Name": "square brocade goza (east)",
     "Group": "Miscellaneous",
-    "Image": "5360",
+    "Image": "5360.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -797,7 +850,8 @@
   {
     "Name": "square brocade goza (south)",
     "Group": "Miscellaneous",
-    "Image": "5360",
+    "Image": "5360.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -812,7 +866,8 @@
   {
     "Name": "fur boots",
     "Group": "Footwear",
-    "Image": "8967",
+    "Image": "8967.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -827,7 +882,8 @@
   {
     "Name": "ninja tabi",
     "Group": "Footwear",
-    "Image": "10135",
+    "Image": "10135.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -842,7 +898,8 @@
   {
     "Name": "waraji and tabi",
     "Group": "Footwear",
-    "Image": "10134",
+    "Image": "10134.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Cloth",
@@ -857,7 +914,8 @@
   {
     "Name": "sandals",
     "Group": "Footwear",
-    "Image": "5901",
+    "Image": "5901.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -872,7 +930,8 @@
   {
     "Name": "shoes",
     "Group": "Footwear",
-    "Image": "5903",
+    "Image": "5903.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -887,7 +946,8 @@
   {
     "Name": "boots",
     "Group": "Footwear",
-    "Image": "5899",
+    "Image": "5899.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -902,7 +962,8 @@
   {
     "Name": "thigh boots",
     "Group": "Footwear",
-    "Image": "5905",
+    "Image": "5905.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -917,7 +978,8 @@
   {
     "Name": "leather gorget",
     "Group": "Leather Armor",
-    "Image": "5063",
+    "Image": "5063.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -932,7 +994,8 @@
   {
     "Name": "leather cap",
     "Group": "Leather Armor",
-    "Image": "7609",
+    "Image": "7609.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -947,7 +1010,8 @@
   {
     "Name": "leather gloves",
     "Group": "Leather Armor",
-    "Image": "5062",
+    "Image": "5062.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -962,7 +1026,8 @@
   {
     "Name": "leather sleeves",
     "Group": "Leather Armor",
-    "Image": "5069",
+    "Image": "5069.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -977,7 +1042,8 @@
   {
     "Name": "leather leggings",
     "Group": "Leather Armor",
-    "Image": "5067",
+    "Image": "5067.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -992,7 +1058,8 @@
   {
     "Name": "leather tunic",
     "Group": "Leather Armor",
-    "Image": "5068",
+    "Image": "5068.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1007,7 +1074,8 @@
   {
     "Name": "leather jingasa",
     "Group": "Leather Armor",
-    "Image": "10102",
+    "Image": "10102.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1022,7 +1090,8 @@
   {
     "Name": "leather mempo",
     "Group": "Leather Armor",
-    "Image": "10106",
+    "Image": "10106.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1037,7 +1106,8 @@
   {
     "Name": "leather do",
     "Group": "Leather Armor",
-    "Image": "10182",
+    "Image": "10182.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1052,7 +1122,8 @@
   {
     "Name": "leather hiro sode",
     "Group": "Leather Armor",
-    "Image": "10110",
+    "Image": "10110.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1067,7 +1138,8 @@
   {
     "Name": "leather suneate",
     "Group": "Leather Armor",
-    "Image": "10118",
+    "Image": "10118.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1082,7 +1154,8 @@
   {
     "Name": "leather haidate",
     "Group": "Leather Armor",
-    "Image": "10122",
+    "Image": "10122.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1097,7 +1170,8 @@
   {
     "Name": "leather ninja pants",
     "Group": "Leather Armor",
-    "Image": "10129",
+    "Image": "10129.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1112,7 +1186,8 @@
   {
     "Name": "leather ninja jacket",
     "Group": "Leather Armor",
-    "Image": "10131",
+    "Image": "10131.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1127,7 +1202,8 @@
   {
     "Name": "leather ninja belt",
     "Group": "Leather Armor",
-    "Image": "10128",
+    "Image": "10128.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1142,7 +1218,8 @@
   {
     "Name": "leather ninja mitts",
     "Group": "Leather Armor",
-    "Image": "10130",
+    "Image": "10130.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1157,7 +1234,8 @@
   {
     "Name": "leather ninja hood",
     "Group": "Leather Armor",
-    "Image": "10126",
+    "Image": "10126.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1172,7 +1250,8 @@
   {
     "Name": "studded gorget",
     "Group": "Studded Armor",
-    "Image": "5078",
+    "Image": "5078.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1187,7 +1266,8 @@
   {
     "Name": "studded gloves",
     "Group": "Studded Armor",
-    "Image": "5077",
+    "Image": "5077.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1202,7 +1282,8 @@
   {
     "Name": "studded sleeves",
     "Group": "Studded Armor",
-    "Image": "5084",
+    "Image": "5084.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1217,7 +1298,8 @@
   {
     "Name": "studded leggings",
     "Group": "Studded Armor",
-    "Image": "5082",
+    "Image": "5082.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1232,7 +1314,8 @@
   {
     "Name": "studded tunic",
     "Group": "Studded Armor",
-    "Image": "5083",
+    "Image": "5083.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1247,7 +1330,8 @@
   {
     "Name": "studded mempo",
     "Group": "Studded Armor",
-    "Image": "10141",
+    "Image": "10141.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1262,7 +1346,8 @@
   {
     "Name": "studded do",
     "Group": "Studded Armor",
-    "Image": "10183",
+    "Image": "10183.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1277,7 +1362,8 @@
   {
     "Name": "studded hiro sode",
     "Group": "Studded Armor",
-    "Image": "10111",
+    "Image": "10111.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1292,7 +1378,8 @@
   {
     "Name": "studded suneate",
     "Group": "Studded Armor",
-    "Image": "10194",
+    "Image": "10194.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1307,7 +1394,8 @@
   {
     "Name": "studded haidate",
     "Group": "Studded Armor",
-    "Image": "10123",
+    "Image": "10123.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1322,7 +1410,8 @@
   {
     "Name": "leather shorts",
     "Group": "Female Armor",
-    "Image": "7168",
+    "Image": "7168.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1337,7 +1426,8 @@
   {
     "Name": "leather skirt",
     "Group": "Female Armor",
-    "Image": "7176",
+    "Image": "7176.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1352,7 +1442,8 @@
   {
     "Name": "leather bustier",
     "Group": "Female Armor",
-    "Image": "7178",
+    "Image": "7178.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1367,7 +1458,8 @@
   {
     "Name": "studded bustier",
     "Group": "Female Armor",
-    "Image": "7180",
+    "Image": "7180.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1382,7 +1474,8 @@
   {
     "Name": "female leather armor",
     "Group": "Female Armor",
-    "Image": "7174",
+    "Image": "7174.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1397,7 +1490,8 @@
   {
     "Name": "studded armor",
     "Group": "Female Armor",
-    "Image": "7170",
+    "Image": "7170.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1412,7 +1506,8 @@
   {
     "Name": "bone helmet",
     "Group": "Bone Armor",
-    "Image": "5201",
+    "Image": "5201.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1431,7 +1526,8 @@
   {
     "Name": "bone gloves",
     "Group": "Bone Armor",
-    "Image": "5200",
+    "Image": "5200.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1450,7 +1546,8 @@
   {
     "Name": "bone arms",
     "Group": "Bone Armor",
-    "Image": "5198",
+    "Image": "5198.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1469,7 +1566,8 @@
   {
     "Name": "bone leggings",
     "Group": "Bone Armor",
-    "Image": "5202",
+    "Image": "5202.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1488,7 +1586,8 @@
   {
     "Name": "bone armor",
     "Group": "Bone Armor",
-    "Image": "5199",
+    "Image": "5199.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1507,7 +1606,8 @@
   {
     "Name": "orc helm",
     "Group": "Bone Armor",
-    "Image": "7947",
+    "Image": "7947.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Leather or Hides",
@@ -1521,6 +1621,54 @@
     "PrimarySkillName": "tailoring",
     "Skill": 90.0,
     "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "pouch",
+    "Group": "Containers",
+    "Image": "3705.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 10.0,
+    "PrimarySkillMax": 30.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "bag",
+    "Group": "Containers",
+    "Image": "3702.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 4
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 10.0,
+    "PrimarySkillMax": 30.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "backpack",
+    "Group": "Containers",
+    "Image": "3701.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Leather or Hides",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "tailoring",
+    "Skill": 15.0,
+    "PrimarySkillMax": 35.0,
     "SecondarySkills": []
   }
 ]

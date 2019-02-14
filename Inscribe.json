@@ -2,7 +2,8 @@
   {
     "Name": "Reactive Armor",
     "Group": "First Circle",
-    "Image": "7981",
+    "Image": "7981.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -29,7 +30,8 @@
   {
     "Name": "Clumsy",
     "Group": "First Circle",
-    "Image": "7982",
+    "Image": "7982.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -52,7 +54,8 @@
   {
     "Name": "Create Food",
     "Group": "First Circle",
-    "Image": "7983",
+    "Image": "7983.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -79,7 +82,8 @@
   {
     "Name": "Feeblemind",
     "Group": "First Circle",
-    "Image": "7984",
+    "Image": "7984.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Nightshade",
@@ -102,7 +106,8 @@
   {
     "Name": "Heal",
     "Group": "First Circle",
-    "Image": "7985",
+    "Image": "7985.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -129,7 +134,8 @@
   {
     "Name": "Magic Arrow",
     "Group": "First Circle",
-    "Image": "7986",
+    "Image": "7986.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Sulfurous Ash",
@@ -148,7 +154,8 @@
   {
     "Name": "Night Sight",
     "Group": "First Circle",
-    "Image": "7987",
+    "Image": "7987.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Spiders' Silk",
@@ -171,7 +178,8 @@
   {
     "Name": "Weaken",
     "Group": "First Circle",
-    "Image": "7988",
+    "Image": "7988.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -194,7 +202,8 @@
   {
     "Name": "Agility",
     "Group": "Second Circle",
-    "Image": "7989",
+    "Image": "7989.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -217,7 +226,8 @@
   {
     "Name": "Cunning",
     "Group": "Second Circle",
-    "Image": "7990",
+    "Image": "7990.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Nightshade",
@@ -240,7 +250,8 @@
   {
     "Name": "Cure",
     "Group": "Second Circle",
-    "Image": "7991",
+    "Image": "7991.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -263,7 +274,8 @@
   {
     "Name": "Harm",
     "Group": "Second Circle",
-    "Image": "7992",
+    "Image": "7992.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Nightshade",
@@ -286,7 +298,8 @@
   {
     "Name": "Magic Trap",
     "Group": "Second Circle",
-    "Image": "7993",
+    "Image": "7993.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -313,7 +326,8 @@
   {
     "Name": "Magic Untrap",
     "Group": "Second Circle",
-    "Image": "7994",
+    "Image": "7994.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -336,7 +350,8 @@
   {
     "Name": "Protection",
     "Group": "Second Circle",
-    "Image": "7995",
+    "Image": "7995.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -363,7 +378,8 @@
   {
     "Name": "Strength",
     "Group": "Second Circle",
-    "Image": "7996",
+    "Image": "7996.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Nightshade",
@@ -386,7 +402,8 @@
   {
     "Name": "Bless",
     "Group": "Third Circle",
-    "Image": "7997",
+    "Image": "7997.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -409,7 +426,8 @@
   {
     "Name": "Fireball",
     "Group": "Third Circle",
-    "Image": "7998",
+    "Image": "7998.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -428,7 +446,8 @@
   {
     "Name": "Magic Lock",
     "Group": "Third Circle",
-    "Image": "7999",
+    "Image": "7999.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -455,7 +474,8 @@
   {
     "Name": "Poison",
     "Group": "Third Circle",
-    "Image": "8000",
+    "Image": "8000.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Nightshade",
@@ -474,7 +494,8 @@
   {
     "Name": "Telekinesis",
     "Group": "Third Circle",
-    "Image": "8001",
+    "Image": "8001.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -497,7 +518,8 @@
   {
     "Name": "Teleport",
     "Group": "Third Circle",
-    "Image": "8002",
+    "Image": "8002.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -520,7 +542,8 @@
   {
     "Name": "Unlock",
     "Group": "Third Circle",
-    "Image": "8003",
+    "Image": "8003.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -543,7 +566,8 @@
   {
     "Name": "Wall of Stone",
     "Group": "Third Circle",
-    "Image": "8004",
+    "Image": "8004.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -564,9 +588,10 @@
     "SecondarySkills": []
   },
   {
-    "Name": "Arch Cure",
+    "Name": "Frost Nova",
     "Group": "Fourth Circle",
-    "Image": "8005",
+    "Image": "8005.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -591,9 +616,10 @@
     "SecondarySkills": []
   },
   {
-    "Name": "Arch Protection",
+    "Name": "Poison Nova",
     "Group": "Fourth Circle",
-    "Image": "8006",
+    "Image": "8006.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -624,7 +650,8 @@
   {
     "Name": "Curse",
     "Group": "Fourth Circle",
-    "Image": "8007",
+    "Image": "8007.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -651,7 +678,8 @@
   {
     "Name": "Fire Field",
     "Group": "Fourth Circle",
-    "Image": "8008",
+    "Image": "8008.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -678,7 +706,8 @@
   {
     "Name": "Greater Heal",
     "Group": "Fourth Circle",
-    "Image": "8009",
+    "Image": "8009.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -709,7 +738,8 @@
   {
     "Name": "Lightning",
     "Group": "Fourth Circle",
-    "Image": "8010",
+    "Image": "8010.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Mandrake Root",
@@ -730,9 +760,10 @@
     "SecondarySkills": []
   },
   {
-    "Name": "Mana Drain",
+    "Name": "Ice Strike",
     "Group": "Fourth Circle",
-    "Image": "8011",
+    "Image": "8011.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -759,7 +790,8 @@
   {
     "Name": "Recall",
     "Group": "Fourth Circle",
-    "Image": "8012",
+    "Image": "8012.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -786,7 +818,8 @@
   {
     "Name": "Blade Spirits",
     "Group": "Fifth Circle",
-    "Image": "8013",
+    "Image": "8013.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -813,7 +846,8 @@
   {
     "Name": "Dispel Field",
     "Group": "Fifth Circle",
-    "Image": "8014",
+    "Image": "8014.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -844,7 +878,8 @@
   {
     "Name": "Incognito",
     "Group": "Fifth Circle",
-    "Image": "8015",
+    "Image": "8015.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -871,7 +906,8 @@
   {
     "Name": "Magic Reflection",
     "Group": "Fifth Circle",
-    "Image": "8016",
+    "Image": "8016.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -896,9 +932,10 @@
     "SecondarySkills": []
   },
   {
-    "Name": "Mind Blast",
+    "Name": "Ice Quake",
     "Group": "Fifth Circle",
-    "Image": "8017",
+    "Image": "8017.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -929,7 +966,8 @@
   {
     "Name": "Paralyze",
     "Group": "Fifth Circle",
-    "Image": "8018",
+    "Image": "8018.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -956,7 +994,8 @@
   {
     "Name": "Poison Field",
     "Group": "Fifth Circle",
-    "Image": "8019",
+    "Image": "8019.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -983,7 +1022,8 @@
   {
     "Name": "Summon Creature",
     "Group": "Fifth Circle",
-    "Image": "8020",
+    "Image": "8020.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -1010,7 +1050,8 @@
   {
     "Name": "Dispel",
     "Group": "Sixth Circle",
-    "Image": "8021",
+    "Image": "8021.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -1037,7 +1078,8 @@
   {
     "Name": "Energy Bolt",
     "Group": "Sixth Circle",
-    "Image": "8022",
+    "Image": "8022.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -1060,7 +1102,8 @@
   {
     "Name": "Explosion",
     "Group": "Sixth Circle",
-    "Image": "8023",
+    "Image": "8023.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -1083,7 +1126,8 @@
   {
     "Name": "Invisibility",
     "Group": "Sixth Circle",
-    "Image": "8024",
+    "Image": "8024.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -1106,7 +1150,8 @@
   {
     "Name": "Mark",
     "Group": "Sixth Circle",
-    "Image": "8025",
+    "Image": "8025.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -1131,9 +1176,10 @@
     "SecondarySkills": []
   },
   {
-    "Name": "Mass Curse",
+    "Name": "Mana Tornado",
     "Group": "Sixth Circle",
-    "Image": "8026",
+    "Image": "8026.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -1164,7 +1210,8 @@
   {
     "Name": "Paralyze Field",
     "Group": "Sixth Circle",
-    "Image": "8027",
+    "Image": "8027.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -1191,7 +1238,8 @@
   {
     "Name": "Reveal",
     "Group": "Sixth Circle",
-    "Image": "8028",
+    "Image": "8028.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -1214,7 +1262,8 @@
   {
     "Name": "Chain Lightning",
     "Group": "Seventh Circle",
-    "Image": "8029",
+    "Image": "8029.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -1245,7 +1294,8 @@
   {
     "Name": "Energy Field",
     "Group": "Seventh Circle",
-    "Image": "8030",
+    "Image": "8030.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -1276,7 +1326,8 @@
   {
     "Name": "Flamestrike",
     "Group": "Seventh Circle",
-    "Image": "8031",
+    "Image": "8031.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Spiders' Silk",
@@ -1299,7 +1350,8 @@
   {
     "Name": "Gate Travel",
     "Group": "Seventh Circle",
-    "Image": "8032",
+    "Image": "8032.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -1324,9 +1376,10 @@
     "SecondarySkills": []
   },
   {
-    "Name": "Mana Vampire",
+    "Name": "Spark",
     "Group": "Seventh Circle",
-    "Image": "8033",
+    "Image": "8033.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -1357,7 +1410,8 @@
   {
     "Name": "Mass Dispel",
     "Group": "Seventh Circle",
-    "Image": "8034",
+    "Image": "8034.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -1388,7 +1442,8 @@
   {
     "Name": "Meteor Swarm",
     "Group": "Seventh Circle",
-    "Image": "8035",
+    "Image": "8035.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -1419,7 +1474,8 @@
   {
     "Name": "Polymorph",
     "Group": "Seventh Circle",
-    "Image": "8036",
+    "Image": "8036.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -1446,7 +1502,8 @@
   {
     "Name": "Earthquake",
     "Group": "Eighth Circle",
-    "Image": "8037",
+    "Image": "8037.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -1477,7 +1534,8 @@
   {
     "Name": "Energy Vortex",
     "Group": "Eighth Circle",
-    "Image": "8038",
+    "Image": "8038.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -1508,7 +1566,8 @@
   {
     "Name": "Resurrection",
     "Group": "Eighth Circle",
-    "Image": "8039",
+    "Image": "8039.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -1535,7 +1594,8 @@
   {
     "Name": "Summon Air Elemental",
     "Group": "Eighth Circle",
-    "Image": "8040",
+    "Image": "8040.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -1562,7 +1622,8 @@
   {
     "Name": "Summon Daemon",
     "Group": "Eighth Circle",
-    "Image": "8041",
+    "Image": "8041.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -1593,7 +1654,8 @@
   {
     "Name": "Summon Earth Elemental",
     "Group": "Eighth Circle",
-    "Image": "8042",
+    "Image": "8042.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -1620,7 +1682,8 @@
   {
     "Name": "Summon Fire Elemental",
     "Group": "Eighth Circle",
-    "Image": "8043",
+    "Image": "8043.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -1651,7 +1714,8 @@
   {
     "Name": "Summon Water Elemental",
     "Group": "Eighth Circle",
-    "Image": "8044",
+    "Image": "8044.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -1678,11 +1742,12 @@
   {
     "Name": "Runebook",
     "Group": "Other",
-    "Image": "8901",
+    "Image": "8901.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blank Scrolls",
-        "Amount": 8
+        "Amount": 10
       },
       {
         "Name": "Recall Scrolls",
@@ -1694,29 +1759,15 @@
       }
     ],
     "PrimarySkillName": "inscription",
-    "Skill": 45.0,
+    "Skill": 90.0,
     "PrimarySkillMax": 95.0,
-    "SecondarySkills": []
-  },
-  {
-    "Name": "Bulk Order Book",
-    "Group": "Other",
-    "Image": "8793",
-    "Resources": [
-      {
-        "Name": "Blank Scrolls",
-        "Amount": 10
-      }
-    ],
-    "PrimarySkillName": "inscription",
-    "Skill": 65.0,
-    "PrimarySkillMax": 115.0,
     "SecondarySkills": []
   },
   {
     "Name": "Spellbook",
     "Group": "Other",
-    "Image": "3834",
+    "Image": "3834.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blank Scrolls",
@@ -1726,6 +1777,54 @@
     "PrimarySkillName": "inscription",
     "Skill": 50.0,
     "PrimarySkillMax": 126.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Reagent Storage Book",
+    "Group": "Other",
+    "Image": "9100.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 150
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 105.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Ingot Storage Book",
+    "Group": "Other",
+    "Image": "9100.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 150
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 105.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Wood Storage Book",
+    "Group": "Other",
+    "Image": "9100.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 150
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 105.0,
+    "PrimarySkillMax": 115.0,
     "SecondarySkills": []
   }
 ]

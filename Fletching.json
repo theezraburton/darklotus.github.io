@@ -2,7 +2,8 @@
   {
     "Name": "kindling",
     "Group": "Materials",
-    "Image": "3553",
+    "Image": "3553.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Boards or Logs",
@@ -17,7 +18,8 @@
   {
     "Name": "shaft",
     "Group": "Materials",
-    "Image": "7124",
+    "Image": "7124.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Boards or Logs",
@@ -32,7 +34,8 @@
   {
     "Name": "arrow",
     "Group": "Ammunition",
-    "Image": "3903",
+    "Image": "3903.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Arrow Shafts",
@@ -51,7 +54,8 @@
   {
     "Name": "crossbow bolt",
     "Group": "Ammunition",
-    "Image": "7163",
+    "Image": "7163.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Arrow Shafts",
@@ -70,7 +74,8 @@
   {
     "Name": "bow",
     "Group": "Weapons",
-    "Image": "5042",
+    "Image": "5042.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Boards or Logs",
@@ -85,7 +90,8 @@
   {
     "Name": "crossbow",
     "Group": "Weapons",
-    "Image": "3920",
+    "Image": "3920.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Boards or Logs",
@@ -100,7 +106,8 @@
   {
     "Name": "heavy crossbow",
     "Group": "Weapons",
-    "Image": "5117",
+    "Image": "5117.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Boards or Logs",
@@ -115,7 +122,8 @@
   {
     "Name": "composite bow",
     "Group": "Weapons",
-    "Image": "9922",
+    "Image": "9922.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Boards or Logs",
@@ -130,7 +138,8 @@
   {
     "Name": "repeating crossbow",
     "Group": "Weapons",
-    "Image": "9923",
+    "Image": "9923.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Boards or Logs",
@@ -145,7 +154,8 @@
   {
     "Name": "yumi",
     "Group": "Weapons",
-    "Image": "10149",
+    "Image": "10149.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Boards or Logs",

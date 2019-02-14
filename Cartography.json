@@ -2,7 +2,8 @@
   {
     "Name": "local map",
     "Group": "Maps",
-    "Image": "5356",
+    "Image": "5356.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blank Maps or Scrolls",
@@ -17,7 +18,8 @@
   {
     "Name": "city map",
     "Group": "Maps",
-    "Image": "5356",
+    "Image": "5356.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blank Maps or Scrolls",
@@ -32,7 +34,8 @@
   {
     "Name": "sea chart",
     "Group": "Maps",
-    "Image": "5356",
+    "Image": "5356.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blank Maps or Scrolls",
@@ -47,7 +50,8 @@
   {
     "Name": "world map",
     "Group": "Maps",
-    "Image": "5356",
+    "Image": "5356.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blank Maps or Scrolls",

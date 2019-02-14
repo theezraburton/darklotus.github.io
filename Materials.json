@@ -1,0 +1,1023 @@
+[
+  null,
+  {
+    "Name": "iron",
+    "MaterialType": "Metal",
+    "Image": "Iron.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": 0.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": 0.0,
+      "Energy Resist": 0.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "aluminium",
+    "MaterialType": "Metal",
+    "Image": "Aluminium.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 65.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 30.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 5.0,
+      "Physical Resist": 0.5,
+      "Fire Resist": -0.8,
+      "Cold Resist": 0.8,
+      "Poison Resist": 0.4,
+      "Energy Resist": 0.8,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "cobalt",
+    "MaterialType": "Metal",
+    "Image": "Cobalt.png",
+    "AttributeInfo": {
+      "Fire Damage": 47.5,
+      "Cold Damage": 0.0,
+      "Poison Damage": 47.5,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 5.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": 1.2,
+      "Cold Resist": -0.8,
+      "Poison Resist": 0.7,
+      "Energy Resist": 1.2,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "nickel",
+    "MaterialType": "Metal",
+    "Image": "Nickel.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 30.0,
+      "Energy Damage": 65.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 5.0,
+      "Physical Resist": 0.8,
+      "Fire Resist": 1.2,
+      "Cold Resist": -1.2,
+      "Poison Resist": 1.1,
+      "Energy Resist": 1.2,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "copper",
+    "MaterialType": "Metal",
+    "Image": "Copper.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 95.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 5.0,
+      "Physical Resist": 0.6,
+      "Fire Resist": 2.2,
+      "Cold Resist": 2.2,
+      "Poison Resist": -0.7,
+      "Energy Resist": -2.2,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "zinc",
+    "MaterialType": "Metal",
+    "Image": "Zinc.png",
+    "AttributeInfo": {
+      "Fire Damage": 25.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 65.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 10.0,
+      "Physical Resist": 2.3,
+      "Fire Resist": 2.9,
+      "Cold Resist": -2.2,
+      "Poison Resist": 0.0,
+      "Energy Resist": 2.9,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "silver",
+    "MaterialType": "Metal",
+    "Image": "Silver.png",
+    "AttributeInfo": {
+      "Fire Damage": 30.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 30.0,
+      "Energy Damage": 30.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 10.0,
+      "Physical Resist": 3.6,
+      "Fire Resist": 2.9,
+      "Cold Resist": 2.9,
+      "Poison Resist": 1.5,
+      "Energy Resist": -2.9,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "tin",
+    "MaterialType": "Metal",
+    "Image": "Tin.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 15.0,
+      "Physical Resist": 2.9,
+      "Fire Resist": 2.9,
+      "Cold Resist": 2.9,
+      "Poison Resist": 1.5,
+      "Energy Resist": -1.5,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "zirconium",
+    "MaterialType": "Metal",
+    "Image": "Zirconium.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 28.0,
+      "Poison Damage": 28.0,
+      "Energy Damage": 28.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 15.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": 5.3,
+      "Cold Resist": -2.8,
+      "Poison Resist": 2.2,
+      "Energy Resist": 2.9,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "golden",
+    "MaterialType": "Metal",
+    "Image": "Gold.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 25.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 60.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 15.0,
+      "Physical Resist": 2.3,
+      "Fire Resist": 2.9,
+      "Cold Resist": -2.2,
+      "Poison Resist": 2.9,
+      "Energy Resist": 2.9,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "carbon",
+    "MaterialType": "Metal",
+    "Image": "Carbon.png",
+    "AttributeInfo": {
+      "Fire Damage": 21.5,
+      "Cold Damage": 21.5,
+      "Poison Damage": 21.5,
+      "Energy Damage": 21.5,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 15.0,
+      "Physical Resist": 4.3,
+      "Fire Resist": 1.5,
+      "Cold Resist": 1.5,
+      "Poison Resist": 1.5,
+      "Energy Resist": 1.5,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "lead",
+    "MaterialType": "Metal",
+    "Image": "Lead.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 20.0,
+      "Physical Resist": 2.9,
+      "Fire Resist": 4.3,
+      "Cold Resist": -2.2,
+      "Poison Resist": -0.7,
+      "Energy Resist": 4.3,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "beryllium",
+    "MaterialType": "Metal",
+    "Image": "Beryllium.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 80.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 20.0,
+      "Physical Resist": 3.6,
+      "Fire Resist": -3.6,
+      "Cold Resist": 5.3,
+      "Poison Resist": 2.6,
+      "Energy Resist": 5.3,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "platinum",
+    "MaterialType": "Metal",
+    "Image": "Platinum.png",
+    "AttributeInfo": {
+      "Fire Damage": 40.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 40.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 20.0,
+      "Physical Resist": 3.9,
+      "Fire Resist": 1.5,
+      "Cold Resist": 5.5,
+      "Poison Resist": 1.5,
+      "Energy Resist": 0.0,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "chromium",
+    "MaterialType": "Metal",
+    "Image": "Chromium.png",
+    "AttributeInfo": {
+      "Fire Damage": 60.0,
+      "Cold Damage": 20.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 20.0,
+      "Physical Resist": 4.3,
+      "Fire Resist": 4.3,
+      "Cold Resist": 0.0,
+      "Poison Resist": 2.2,
+      "Energy Resist": 2.2,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "icestorm",
+    "MaterialType": "Metal",
+    "Image": "Icestorm.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 75.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 25.0,
+      "Physical Resist": 0.8,
+      "Fire Resist": 0.0,
+      "Cold Resist": 8.6,
+      "Poison Resist": -2.9,
+      "Energy Resist": 8.6,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "titanium",
+    "MaterialType": "Metal",
+    "Image": "Titanium.png",
+    "AttributeInfo": {
+      "Fire Damage": 50.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 25.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 25.0,
+      "Physical Resist": 7.9,
+      "Fire Resist": -2.2,
+      "Cold Resist": -2.2,
+      "Poison Resist": 11.5,
+      "Energy Resist": -2.2,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "tungsten",
+    "MaterialType": "Metal",
+    "Image": "Tungsten.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 25.0,
+      "Physical Resist": 5.0,
+      "Fire Resist": 5.8,
+      "Cold Resist": 5.8,
+      "Poison Resist": 2.9,
+      "Energy Resist": 2.9,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "ragnarok",
+    "MaterialType": "Metal",
+    "Image": "Ragnarok.png",
+    "AttributeInfo": {
+      "Fire Damage": 70.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 30.0,
+      "Physical Resist": 6.5,
+      "Fire Resist": 10.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": 7.9,
+      "Energy Resist": 10.0,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "bronze",
+    "MaterialType": "Metal",
+    "Image": "Bronze.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 47.5,
+      "Poison Damage": 0.0,
+      "Energy Damage": 47.5,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 5.0,
+      "Physical Resist": 1.0,
+      "Fire Resist": -1.5,
+      "Cold Resist": 1.5,
+      "Poison Resist": -0.4,
+      "Energy Resist": 1.5,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "steel",
+    "MaterialType": "Metal",
+    "Image": "Steel.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 5.0,
+      "Physical Resist": 1.5,
+      "Fire Resist": 1.5,
+      "Cold Resist": 1.5,
+      "Poison Resist": -0.7,
+      "Energy Resist": -1.5,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "brass",
+    "MaterialType": "Metal",
+    "Image": "Brass.png",
+    "AttributeInfo": {
+      "Fire Damage": 60.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 30.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 10.0,
+      "Physical Resist": 1.9,
+      "Fire Resist": -1.5,
+      "Cold Resist": 2.2,
+      "Poison Resist": 1.5,
+      "Energy Resist": 2.2,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "moonstone",
+    "MaterialType": "Metal",
+    "Image": "Moonstone.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 10.0,
+      "Physical Resist": 1.8,
+      "Fire Resist": 2.6,
+      "Cold Resist": 2.6,
+      "Poison Resist": 1.1,
+      "Energy Resist": -0.9,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "aquamarine",
+    "MaterialType": "Metal",
+    "Image": "Aquamarine.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 60.0,
+      "Poison Damage": 30.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 10.0,
+      "Physical Resist": 2.9,
+      "Fire Resist": -1.8,
+      "Cold Resist": 2.6,
+      "Poison Resist": 1.5,
+      "Energy Resist": 2.6,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "starshard",
+    "MaterialType": "Metal",
+    "Image": "Starshard.png",
+    "AttributeInfo": {
+      "Fire Damage": 30.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 60.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 10.0,
+      "Physical Resist": 2.2,
+      "Fire Resist": 3.6,
+      "Cold Resist": -2.2,
+      "Poison Resist": 1.1,
+      "Energy Resist": 3.6,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "brimstone",
+    "MaterialType": "Metal",
+    "Image": "Brimstone.png",
+    "AttributeInfo": {
+      "Fire Damage": 28.0,
+      "Cold Damage": 28.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 28.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 16.0,
+      "Physical Resist": 2.9,
+      "Fire Resist": 3.6,
+      "Cold Resist": -2.2,
+      "Poison Resist": -1.1,
+      "Energy Resist": 3.6,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "shakudo",
+    "MaterialType": "Metal",
+    "Image": "Shakudo.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 25.0,
+      "Poison Damage": 60.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 15.0,
+      "Physical Resist": 1.0,
+      "Fire Resist": 6.9,
+      "Cold Resist": -4.8,
+      "Poison Resist": 0.0,
+      "Energy Resist": 6.9,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "frostburn",
+    "MaterialType": "Metal",
+    "Image": "Frostburn.png",
+    "AttributeInfo": {
+      "Fire Damage": 20.0,
+      "Cold Damage": 60.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 20.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": 7.9,
+      "Cold Resist": 7.9,
+      "Poison Resist": 3.6,
+      "Energy Resist": -5.8,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "mithril",
+    "MaterialType": "Metal",
+    "Image": "Mithril.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 37.5,
+      "Poison Damage": 37.5,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 25.0,
+      "Physical Resist": 5.0,
+      "Fire Resist": 2.2,
+      "Cold Resist": 2.2,
+      "Poison Resist": 2.2,
+      "Energy Resist": 2.2,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "sunshard",
+    "MaterialType": "Metal",
+    "Image": "Sunshard.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 37.5,
+      "Energy Damage": 37.5,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 25.0,
+      "Physical Resist": 5.8,
+      "Fire Resist": 5.3,
+      "Cold Resist": -2.2,
+      "Poison Resist": -1.5,
+      "Energy Resist": 5.3,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "netherlight",
+    "MaterialType": "Metal",
+    "Image": "Netherlight.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 30.0,
+      "Physical Resist": 3.6,
+      "Fire Resist": 9.3,
+      "Cold Resist": -2.9,
+      "Poison Resist": 5.7,
+      "Energy Resist": 9.3,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "windsong",
+    "MaterialType": "Metal",
+    "Image": "Windsong.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 50.0,
+      "Energy Damage": 20.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 30.0,
+      "Physical Resist": 5.8,
+      "Fire Resist": -2.9,
+      "Cold Resist": 8.6,
+      "Poison Resist": 6.5,
+      "Energy Resist": 8.6,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "coldfire",
+    "MaterialType": "Metal",
+    "Image": "Coldfire.png",
+    "AttributeInfo": {
+      "Fire Damage": 35.0,
+      "Cold Damage": 35.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 30.0,
+      "Physical Resist": 4.3,
+      "Fire Resist": 9.3,
+      "Cold Resist": 9.3,
+      "Poison Resist": 5.7,
+      "Energy Resist": 0.0,
+      "Armor Durability": 50,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "stone",
+    "MaterialType": "Metal",
+    "Image": "Stone.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": 0.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": 0.0,
+      "Energy Resist": 0.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "normal leather",
+    "MaterialType": "Leather",
+    "Image": "RegularLeather.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": 0.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": 0.0,
+      "Energy Resist": 0.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "spined leather",
+    "MaterialType": "Leather",
+    "Image": "SpinedLeather.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 5.0,
+      "Fire Resist": 0.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": 0.0,
+      "Energy Resist": 0.0,
+      "Armor Durability": 0,
+      "Armor Luck": 40
+    }
+  },
+  {
+    "Name": "horned leather",
+    "MaterialType": "Leather",
+    "Image": "HornedLeather.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 2.0,
+      "Fire Resist": 3.0,
+      "Cold Resist": 2.0,
+      "Poison Resist": 2.0,
+      "Energy Resist": 2.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "barbed leather",
+    "MaterialType": "Leather",
+    "Image": "BarbedLeather.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 2.0,
+      "Fire Resist": 1.0,
+      "Cold Resist": 2.0,
+      "Poison Resist": 3.0,
+      "Energy Resist": 4.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "Red Scales",
+    "MaterialType": "Scales",
+    "Image": "RedScales.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": 10.0,
+      "Cold Resist": -3.0,
+      "Poison Resist": 0.0,
+      "Energy Resist": 0.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "Yellow Scales",
+    "MaterialType": "Scales",
+    "Image": "YellowScales.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": -3.0,
+      "Fire Resist": 0.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": 0.0,
+      "Energy Resist": 0.0,
+      "Armor Durability": 0,
+      "Armor Luck": 20
+    }
+  },
+  {
+    "Name": "Black Scales",
+    "MaterialType": "Scales",
+    "Image": "BlackScales.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 10.0,
+      "Fire Resist": 0.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": 0.0,
+      "Energy Resist": -3.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "Green Scales",
+    "MaterialType": "Scales",
+    "Image": "GreenScales.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": -3.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": 10.0,
+      "Energy Resist": 0.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "White Scales",
+    "MaterialType": "Scales",
+    "Image": "WhiteScales.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": -3.0,
+      "Fire Resist": 0.0,
+      "Cold Resist": 10.0,
+      "Poison Resist": 0.0,
+      "Energy Resist": 0.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "Blue Scales",
+    "MaterialType": "Scales",
+    "Image": "BlueScales.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": 0.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": -3.0,
+      "Energy Resist": 10.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "normal",
+    "MaterialType": "Wood",
+    "Image": "RegularWood.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": 0.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": 0.0,
+      "Energy Resist": 0.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "oak",
+    "MaterialType": "Wood",
+    "Image": "OakWood.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": 0.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": 0.0,
+      "Energy Resist": 0.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "ash",
+    "MaterialType": "Wood",
+    "Image": "AshWood.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": 0.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": 0.0,
+      "Energy Resist": 0.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "yew",
+    "MaterialType": "Wood",
+    "Image": "YewWood.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": 0.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": 0.0,
+      "Energy Resist": 0.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "heartwood",
+    "MaterialType": "Wood",
+    "Image": "Heartwood.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": 0.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": 0.0,
+      "Energy Resist": 0.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "bloodwood",
+    "MaterialType": "Wood",
+    "Image": "Bloodwood.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": 0.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": 0.0,
+      "Energy Resist": 0.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  },
+  {
+    "Name": "frostwood",
+    "MaterialType": "Wood",
+    "Image": "Frostwood.png",
+    "AttributeInfo": {
+      "Fire Damage": 0.0,
+      "Cold Damage": 0.0,
+      "Poison Damage": 0.0,
+      "Energy Damage": 0.0,
+      "Chaos Damage": 0.0,
+      "Physical Damage": 0.0,
+      "Physical Resist": 0.0,
+      "Fire Resist": 0.0,
+      "Cold Resist": 0.0,
+      "Poison Resist": 0.0,
+      "Energy Resist": 0.0,
+      "Armor Durability": 0,
+      "Armor Luck": 0
+    }
+  }
+]

@@ -2,7 +2,8 @@
   {
     "Name": "sack of flour",
     "Group": "Ingredients",
-    "Image": "4153",
+    "Image": "4153.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Wheat",
@@ -17,7 +18,8 @@
   {
     "Name": "dough",
     "Group": "Ingredients",
-    "Image": "4157",
+    "Image": "4157.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Flour",
@@ -36,7 +38,8 @@
   {
     "Name": "sweet dough",
     "Group": "Ingredients",
-    "Image": "4157",
+    "Image": "4157.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Dough",
@@ -55,7 +58,8 @@
   {
     "Name": "cake mix",
     "Group": "Ingredients",
-    "Image": "4159",
+    "Image": "4159.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Flour",
@@ -74,7 +78,8 @@
   {
     "Name": "cookie mix",
     "Group": "Ingredients",
-    "Image": "4159",
+    "Image": "4159.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Honey",
@@ -93,7 +98,8 @@
   {
     "Name": "cocoa butter",
     "Group": "Ingredients",
-    "Image": "4164",
+    "Image": "4164.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "cocoa pulp",
@@ -108,7 +114,8 @@
   {
     "Name": "cocoa liquor",
     "Group": "Ingredients",
-    "Image": "4159",
+    "Image": "4159.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "cocoa pulp",
@@ -127,7 +134,8 @@
   {
     "Name": "unbaked quiche",
     "Group": "Preparations",
-    "Image": "4162",
+    "Image": "4162.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Dough",
@@ -146,7 +154,8 @@
   {
     "Name": "unbaked meat pie",
     "Group": "Preparations",
-    "Image": "4162",
+    "Image": "4162.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Dough",
@@ -165,7 +174,8 @@
   {
     "Name": "uncooked sausage pizza",
     "Group": "Preparations",
-    "Image": "4227",
+    "Image": "4227.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Dough",
@@ -184,7 +194,8 @@
   {
     "Name": "uncooked cheese pizza",
     "Group": "Preparations",
-    "Image": "4227",
+    "Image": "4227.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Dough",
@@ -203,7 +214,8 @@
   {
     "Name": "unbaked fruit pie",
     "Group": "Preparations",
-    "Image": "4162",
+    "Image": "4162.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Dough",
@@ -222,7 +234,8 @@
   {
     "Name": "unbaked peach cobbler",
     "Group": "Preparations",
-    "Image": "4162",
+    "Image": "4162.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Dough",
@@ -241,7 +254,8 @@
   {
     "Name": "unbaked apple pie",
     "Group": "Preparations",
-    "Image": "4162",
+    "Image": "4162.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Dough",
@@ -260,7 +274,8 @@
   {
     "Name": "unbaked pumpkin pie",
     "Group": "Preparations",
-    "Image": "4162",
+    "Image": "4162.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Dough",
@@ -279,7 +294,8 @@
   {
     "Name": "green tea",
     "Group": "Preparations",
-    "Image": "10316",
+    "Image": "10316.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "green tea",
@@ -298,7 +314,8 @@
   {
     "Name": "wasabi clumps",
     "Group": "Preparations",
-    "Image": "9451",
+    "Image": "9451.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Water",
@@ -317,7 +334,8 @@
   {
     "Name": "sushi rolls",
     "Group": "Preparations",
-    "Image": "10302",
+    "Image": "10302.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Water",
@@ -336,7 +354,8 @@
   {
     "Name": "sushi platter",
     "Group": "Preparations",
-    "Image": "10304",
+    "Image": "10304.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Water",
@@ -353,47 +372,10 @@
     "SecondarySkills": []
   },
   {
-    "Name": "savage kin paint",
-    "Group": "Preparations",
-    "Image": "2540",
-    "Resources": [
-      {
-        "Name": "Flour",
-        "Amount": 1
-      },
-      {
-        "Name": "Tribal Berries",
-        "Amount": 1
-      }
-    ],
-    "PrimarySkillName": "cooking",
-    "Skill": 55.0,
-    "PrimarySkillMax": 105.0,
-    "SecondarySkills": []
-  },
-  {
-    "Name": "egg bomb",
-    "Group": "Preparations",
-    "Image": "10248",
-    "Resources": [
-      {
-        "Name": "Eggs",
-        "Amount": 1
-      },
-      {
-        "Name": "Flour",
-        "Amount": 3
-      }
-    ],
-    "PrimarySkillName": "cooking",
-    "Skill": 90.0,
-    "PrimarySkillMax": 120.0,
-    "SecondarySkills": []
-  },
-  {
     "Name": "bread loaf",
     "Group": "Baking",
-    "Image": "4155",
+    "Image": "4155.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Dough",
@@ -408,7 +390,8 @@
   {
     "Name": "pan of cookies",
     "Group": "Baking",
-    "Image": "5643",
+    "Image": "5643.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cookie Mix",
@@ -423,7 +406,8 @@
   {
     "Name": "cake",
     "Group": "Baking",
-    "Image": "2537",
+    "Image": "2537.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Cake Mix",
@@ -438,7 +422,8 @@
   {
     "Name": "muffins",
     "Group": "Baking",
-    "Image": "2539",
+    "Image": "2539.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Sweet Dough",
@@ -453,7 +438,8 @@
   {
     "Name": "baked quiche",
     "Group": "Baking",
-    "Image": "4161",
+    "Image": "4161.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Uncooked Quiches",
@@ -468,7 +454,8 @@
   {
     "Name": "baked meat pie",
     "Group": "Baking",
-    "Image": "4161",
+    "Image": "4161.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Uncooked Meat Pies",
@@ -483,7 +470,8 @@
   {
     "Name": "sausage pizza",
     "Group": "Baking",
-    "Image": "4160",
+    "Image": "4160.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Uncooked Sausage Pizzas",
@@ -498,7 +486,8 @@
   {
     "Name": "cheese pizza",
     "Group": "Baking",
-    "Image": "4160",
+    "Image": "4160.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Uncooked Cheese Pizzas",
@@ -513,7 +502,8 @@
   {
     "Name": "baked fruit pie",
     "Group": "Baking",
-    "Image": "4161",
+    "Image": "4161.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Uncooked Fruit Pies",
@@ -528,7 +518,8 @@
   {
     "Name": "baked peach cobbler",
     "Group": "Baking",
-    "Image": "4161",
+    "Image": "4161.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Uncooked Peach Cobblers",
@@ -543,7 +534,8 @@
   {
     "Name": "baked apple pie",
     "Group": "Baking",
-    "Image": "4161",
+    "Image": "4161.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Uncooked Apple Pies",
@@ -558,7 +550,8 @@
   {
     "Name": "baked pumpkin pie",
     "Group": "Baking",
-    "Image": "4161",
+    "Image": "4161.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Unbaked Pumpkin Pies",
@@ -573,7 +566,8 @@
   {
     "Name": "miso soup",
     "Group": "Baking",
-    "Image": "10317",
+    "Image": "10317.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Raw Fish Steaks",
@@ -592,7 +586,8 @@
   {
     "Name": "white miso soup",
     "Group": "Baking",
-    "Image": "10318",
+    "Image": "10318.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Raw Fish Steaks",
@@ -611,7 +606,8 @@
   {
     "Name": "red miso soup",
     "Group": "Baking",
-    "Image": "10319",
+    "Image": "10319.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Raw Fish Steaks",
@@ -630,7 +626,8 @@
   {
     "Name": "awase miso soup",
     "Group": "Baking",
-    "Image": "10320",
+    "Image": "10320.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Raw Fish Steaks",
@@ -649,7 +646,8 @@
   {
     "Name": "cooked bird",
     "Group": "Barbecue",
-    "Image": "2487",
+    "Image": "2487.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Raw Birds",
@@ -664,7 +662,8 @@
   {
     "Name": "chicken leg",
     "Group": "Barbecue",
-    "Image": "5640",
+    "Image": "5640.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Raw Chicken Legs",
@@ -679,7 +678,8 @@
   {
     "Name": "fish steak",
     "Group": "Barbecue",
-    "Image": "2427",
+    "Image": "2427.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Raw Fish Steaks",
@@ -694,7 +694,8 @@
   {
     "Name": "fried eggs",
     "Group": "Barbecue",
-    "Image": "2486",
+    "Image": "2486.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Eggs",
@@ -709,7 +710,8 @@
   {
     "Name": "leg of lamb",
     "Group": "Barbecue",
-    "Image": "5642",
+    "Image": "5642.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Raw Legs of Lamb",
@@ -724,7 +726,8 @@
   {
     "Name": "cut of ribs",
     "Group": "Barbecue",
-    "Image": "2546",
+    "Image": "2546.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Raw Ribs",
@@ -739,7 +742,8 @@
   {
     "Name": "Dark chocolate",
     "Group": "Chocolatiering",
-    "Image": "3856",
+    "Image": "3856.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "sack of sugar",
@@ -762,7 +766,8 @@
   {
     "Name": "Milk chocolate",
     "Group": "Chocolatiering",
-    "Image": "3864",
+    "Image": "3864.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "sack of sugar",
@@ -789,7 +794,8 @@
   {
     "Name": "White chocolate",
     "Group": "Chocolatiering",
-    "Image": "3857",
+    "Image": "3857.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "sack of sugar",

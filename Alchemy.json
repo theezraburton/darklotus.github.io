@@ -2,7 +2,8 @@
   {
     "Name": "refresh",
     "Group": "Refresh",
-    "Image": "3851",
+    "Image": "3851.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -21,7 +22,8 @@
   {
     "Name": "total refreshment",
     "Group": "Refresh",
-    "Image": "3851",
+    "Image": "3851.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -40,7 +42,8 @@
   {
     "Name": "agility",
     "Group": "Agility",
-    "Image": "3848",
+    "Image": "3848.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -59,7 +62,8 @@
   {
     "Name": "greater agility",
     "Group": "Agility",
-    "Image": "3848",
+    "Image": "3848.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Blood Moss",
@@ -78,7 +82,8 @@
   {
     "Name": "night sight",
     "Group": "Night Sight",
-    "Image": "3846",
+    "Image": "3846.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Spiders' Silk",
@@ -97,7 +102,8 @@
   {
     "Name": "lesser heal",
     "Group": "Heal",
-    "Image": "3852",
+    "Image": "3852.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ginseng",
@@ -116,7 +122,8 @@
   {
     "Name": "heal",
     "Group": "Heal",
-    "Image": "3852",
+    "Image": "3852.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ginseng",
@@ -135,7 +142,8 @@
   {
     "Name": "greater heal",
     "Group": "Heal",
-    "Image": "3852",
+    "Image": "3852.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ginseng",
@@ -154,7 +162,8 @@
   {
     "Name": "strength",
     "Group": "Strength",
-    "Image": "3849",
+    "Image": "3849.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Mandrake Root",
@@ -173,7 +182,8 @@
   {
     "Name": "greater strength",
     "Group": "Strength",
-    "Image": "3849",
+    "Image": "3849.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Mandrake Root",
@@ -192,7 +202,8 @@
   {
     "Name": "lesser poison",
     "Group": "Poison",
-    "Image": "3850",
+    "Image": "3850.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Nightshade",
@@ -211,7 +222,8 @@
   {
     "Name": "poison",
     "Group": "Poison",
-    "Image": "3850",
+    "Image": "3850.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Nightshade",
@@ -230,7 +242,8 @@
   {
     "Name": "greater poison",
     "Group": "Poison",
-    "Image": "3850",
+    "Image": "3850.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Nightshade",
@@ -249,7 +262,8 @@
   {
     "Name": "deadly poison",
     "Group": "Poison",
-    "Image": "3850",
+    "Image": "3850.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Nightshade",
@@ -268,7 +282,8 @@
   {
     "Name": "lesser cure",
     "Group": "Cure",
-    "Image": "3847",
+    "Image": "3847.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -287,7 +302,8 @@
   {
     "Name": "cure",
     "Group": "Cure",
-    "Image": "3847",
+    "Image": "3847.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -306,7 +322,8 @@
   {
     "Name": "greater cure",
     "Group": "Cure",
-    "Image": "3847",
+    "Image": "3847.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Garlic",
@@ -325,7 +342,8 @@
   {
     "Name": "lesser explosion",
     "Group": "Explosion",
-    "Image": "3853",
+    "Image": "3853.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Sulfurous Ash",
@@ -344,7 +362,8 @@
   {
     "Name": "explosion",
     "Group": "Explosion",
-    "Image": "3853",
+    "Image": "3853.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Sulfurous Ash",
@@ -363,7 +382,8 @@
   {
     "Name": "greater explosion",
     "Group": "Explosion",
-    "Image": "3853",
+    "Image": "3853.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Sulfurous Ash",
@@ -382,7 +402,8 @@
   {
     "Name": "Mana Potion",
     "Group": "Mana Potions",
-    "Image": "3854",
+    "Image": "3854.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Eye of Newt",
@@ -401,7 +422,8 @@
   {
     "Name": "Total Mana Potion",
     "Group": "Mana Potions",
-    "Image": "3854",
+    "Image": "3854.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Eye of Newt",
@@ -420,7 +442,8 @@
   {
     "Name": "Shrink Potion",
     "Group": "Misc Potions",
-    "Image": "3854",
+    "Image": "3854.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Batwing",
@@ -439,7 +462,8 @@
   {
     "Name": "Restore Potion",
     "Group": "Misc Potions",
-    "Image": "3854",
+    "Image": "3854.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -462,7 +486,8 @@
   {
     "Name": "Greater Restore Potion",
     "Group": "Misc Potions",
-    "Image": "3854",
+    "Image": "3854.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Black Pearl",
@@ -480,6 +505,34 @@
     "PrimarySkillName": "alchemy",
     "Skill": 50.1,
     "PrimarySkillMax": 75.1,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Invisibility Potion",
+    "Group": "Misc Potions",
+    "Image": "3850.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 2
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 2
+      },
+      {
+        "Name": "Eye of Newt",
+        "Amount": 2
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 65.1,
+    "PrimarySkillMax": 85.1,
     "SecondarySkills": []
   }
 ]

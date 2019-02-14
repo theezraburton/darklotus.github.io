@@ -2,7 +2,8 @@
   {
     "Name": "ringmail gloves",
     "Group": "Ringmail",
-    "Image": "5099",
+    "Image": "5099.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -17,7 +18,8 @@
   {
     "Name": "ringmail leggings",
     "Group": "Ringmail",
-    "Image": "5104",
+    "Image": "5104.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -32,7 +34,8 @@
   {
     "Name": "ringmail sleeves",
     "Group": "Ringmail",
-    "Image": "5102",
+    "Image": "5102.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -47,7 +50,8 @@
   {
     "Name": "ringmail tunic",
     "Group": "Ringmail",
-    "Image": "5100",
+    "Image": "5100.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -62,7 +66,8 @@
   {
     "Name": "chainmail coif",
     "Group": "Chainmail",
-    "Image": "5051",
+    "Image": "5051.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -77,7 +82,8 @@
   {
     "Name": "chainmail leggings",
     "Group": "Chainmail",
-    "Image": "5054",
+    "Image": "5054.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -92,7 +98,8 @@
   {
     "Name": "chainmail tunic",
     "Group": "Chainmail",
-    "Image": "5055",
+    "Image": "5055.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -107,7 +114,8 @@
   {
     "Name": "platemail arms",
     "Group": "Platemail",
-    "Image": "5136",
+    "Image": "5136.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -122,7 +130,8 @@
   {
     "Name": "platemail gloves",
     "Group": "Platemail",
-    "Image": "5140",
+    "Image": "5140.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -137,7 +146,8 @@
   {
     "Name": "platemail gorget",
     "Group": "Platemail",
-    "Image": "5139",
+    "Image": "5139.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -152,7 +162,8 @@
   {
     "Name": "platemail legs",
     "Group": "Platemail",
-    "Image": "5137",
+    "Image": "5137.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -167,7 +178,8 @@
   {
     "Name": "platemail (tunic)",
     "Group": "Platemail",
-    "Image": "5141",
+    "Image": "5141.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -182,7 +194,8 @@
   {
     "Name": "platemail (female)",
     "Group": "Platemail",
-    "Image": "7172",
+    "Image": "7172.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -195,24 +208,10 @@
     "SecondarySkills": []
   },
   {
-    "Name": "dragon barding deed",
-    "Group": "Platemail",
-    "Image": "5360",
-    "Resources": [
-      {
-        "Name": "Ingots",
-        "Amount": 750
-      }
-    ],
-    "PrimarySkillName": "blacksmithing",
-    "Skill": 72.5,
-    "PrimarySkillMax": 122.5,
-    "SecondarySkills": []
-  },
-  {
     "Name": "platemail mempo",
     "Group": "Platemail",
-    "Image": "10105",
+    "Image": "10105.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -227,7 +226,8 @@
   {
     "Name": "platemail do",
     "Group": "Platemail",
-    "Image": "10109",
+    "Image": "10109.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -242,7 +242,8 @@
   {
     "Name": "platemail hiro sode",
     "Group": "Platemail",
-    "Image": "10112",
+    "Image": "10112.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -257,7 +258,8 @@
   {
     "Name": "platemail suneate",
     "Group": "Platemail",
-    "Image": "10120",
+    "Image": "10120.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -272,7 +274,8 @@
   {
     "Name": "platemail haidate",
     "Group": "Platemail",
-    "Image": "10125",
+    "Image": "10125.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -287,7 +290,8 @@
   {
     "Name": "bascinet",
     "Group": "Helmets",
-    "Image": "5132",
+    "Image": "5132.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -302,7 +306,8 @@
   {
     "Name": "close helmet",
     "Group": "Helmets",
-    "Image": "5128",
+    "Image": "5128.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -317,7 +322,8 @@
   {
     "Name": "helmet",
     "Group": "Helmets",
-    "Image": "5130",
+    "Image": "5130.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -332,7 +338,8 @@
   {
     "Name": "norse helm",
     "Group": "Helmets",
-    "Image": "5134",
+    "Image": "5134.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -347,7 +354,8 @@
   {
     "Name": "plate helm",
     "Group": "Helmets",
-    "Image": "5138",
+    "Image": "5138.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -362,7 +370,8 @@
   {
     "Name": "chainmail hatsuburi",
     "Group": "Helmets",
-    "Image": "10100",
+    "Image": "10100.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -377,7 +386,8 @@
   {
     "Name": "platemail hatsuburi",
     "Group": "Helmets",
-    "Image": "10101",
+    "Image": "10101.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -392,7 +402,8 @@
   {
     "Name": "heavy platemail jingasa",
     "Group": "Helmets",
-    "Image": "10103",
+    "Image": "10103.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -407,7 +418,8 @@
   {
     "Name": "light platemail jingasa",
     "Group": "Helmets",
-    "Image": "10113",
+    "Image": "10113.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -422,7 +434,8 @@
   {
     "Name": "small platemail jingasa",
     "Group": "Helmets",
-    "Image": "10116",
+    "Image": "10116.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -437,7 +450,8 @@
   {
     "Name": "decorative platemail kabuto",
     "Group": "Helmets",
-    "Image": "10104",
+    "Image": "10104.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -452,7 +466,8 @@
   {
     "Name": "platemail battle kabuto",
     "Group": "Helmets",
-    "Image": "10117",
+    "Image": "10117.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -467,7 +482,8 @@
   {
     "Name": "standard platemail kabuto",
     "Group": "Helmets",
-    "Image": "10121",
+    "Image": "10121.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -482,7 +498,8 @@
   {
     "Name": "circlet",
     "Group": "Helmets",
-    "Image": "11118",
+    "Image": "11118.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -497,7 +514,8 @@
   {
     "Name": "royal circlet",
     "Group": "Helmets",
-    "Image": "11119",
+    "Image": "11119.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -512,7 +530,8 @@
   {
     "Name": "buckler ",
     "Group": "Shields",
-    "Image": "7027",
+    "Image": "7027.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -527,7 +546,8 @@
   {
     "Name": "bronze shield",
     "Group": "Shields",
-    "Image": "7026",
+    "Image": "7026.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -542,7 +562,8 @@
   {
     "Name": "heater shield",
     "Group": "Shields",
-    "Image": "7030",
+    "Image": "7030.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -557,7 +578,8 @@
   {
     "Name": "metal shield",
     "Group": "Shields",
-    "Image": "7035",
+    "Image": "7035.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -572,7 +594,8 @@
   {
     "Name": "metal kite shield",
     "Group": "Shields",
-    "Image": "7028",
+    "Image": "7028.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -587,7 +610,8 @@
   {
     "Name": "tear kite shield",
     "Group": "Shields",
-    "Image": "7033",
+    "Image": "7033.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -602,7 +626,8 @@
   {
     "Name": "Chaos shield",
     "Group": "Shields",
-    "Image": "7107",
+    "Image": "7107.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -617,7 +642,8 @@
   {
     "Name": "Order shield",
     "Group": "Shields",
-    "Image": "7108",
+    "Image": "7108.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -632,7 +658,8 @@
   {
     "Name": "bone harvester",
     "Group": "Bladed",
-    "Image": "9915",
+    "Image": "9915.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -647,7 +674,8 @@
   {
     "Name": "broadsword",
     "Group": "Bladed",
-    "Image": "3934",
+    "Image": "3934.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -662,7 +690,8 @@
   {
     "Name": "crescent blade",
     "Group": "Bladed",
-    "Image": "9921",
+    "Image": "9921.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -677,7 +706,8 @@
   {
     "Name": "cutlass",
     "Group": "Bladed",
-    "Image": "5185",
+    "Image": "5185.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -692,7 +722,8 @@
   {
     "Name": "dagger",
     "Group": "Bladed",
-    "Image": "3922",
+    "Image": "3922.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -707,7 +738,8 @@
   {
     "Name": "katana",
     "Group": "Bladed",
-    "Image": "5119",
+    "Image": "5119.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -722,7 +754,8 @@
   {
     "Name": "kryss",
     "Group": "Bladed",
-    "Image": "5121",
+    "Image": "5121.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -737,7 +770,8 @@
   {
     "Name": "longsword",
     "Group": "Bladed",
-    "Image": "3937",
+    "Image": "3937.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -752,7 +786,8 @@
   {
     "Name": "scimitar",
     "Group": "Bladed",
-    "Image": "5046",
+    "Image": "5046.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -767,7 +802,8 @@
   {
     "Name": "viking sword",
     "Group": "Bladed",
-    "Image": "5049",
+    "Image": "5049.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -782,7 +818,8 @@
   {
     "Name": "no-dachi",
     "Group": "Bladed",
-    "Image": "10146",
+    "Image": "10146.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -797,7 +834,8 @@
   {
     "Name": "wakizashi",
     "Group": "Bladed",
-    "Image": "10148",
+    "Image": "10148.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -812,7 +850,8 @@
   {
     "Name": "lajatang",
     "Group": "Bladed",
-    "Image": "10151",
+    "Image": "10151.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -827,7 +866,8 @@
   {
     "Name": "daisho",
     "Group": "Bladed",
-    "Image": "10153",
+    "Image": "10153.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -842,7 +882,8 @@
   {
     "Name": "tekagi",
     "Group": "Bladed",
-    "Image": "10155",
+    "Image": "10155.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -855,24 +896,10 @@
     "SecondarySkills": []
   },
   {
-    "Name": "shuriken",
-    "Group": "Bladed",
-    "Image": "10156",
-    "Resources": [
-      {
-        "Name": "Ingots",
-        "Amount": 5
-      }
-    ],
-    "PrimarySkillName": "blacksmithing",
-    "Skill": 45.0,
-    "PrimarySkillMax": 95.0,
-    "SecondarySkills": []
-  },
-  {
     "Name": "kama",
     "Group": "Bladed",
-    "Image": "10157",
+    "Image": "10157.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -887,7 +914,8 @@
   {
     "Name": "sai",
     "Group": "Bladed",
-    "Image": "10159",
+    "Image": "10159.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -902,7 +930,8 @@
   {
     "Name": "radiant scimitar",
     "Group": "Bladed",
-    "Image": "11571",
+    "Image": "11571.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -917,7 +946,8 @@
   {
     "Name": "war cleaver",
     "Group": "Bladed",
-    "Image": "11567",
+    "Image": "11567.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -932,7 +962,8 @@
   {
     "Name": "elven spellblade",
     "Group": "Bladed",
-    "Image": "11552",
+    "Image": "11552.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -947,7 +978,8 @@
   {
     "Name": "assassin spike",
     "Group": "Bladed",
-    "Image": "11553",
+    "Image": "11553.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -962,7 +994,8 @@
   {
     "Name": "leafblade",
     "Group": "Bladed",
-    "Image": "11554",
+    "Image": "11554.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -977,7 +1010,8 @@
   {
     "Name": "rune blade",
     "Group": "Bladed",
-    "Image": "11570",
+    "Image": "11570.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -992,7 +1026,8 @@
   {
     "Name": "elven machete",
     "Group": "Bladed",
-    "Image": "11573",
+    "Image": "11573.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1005,9 +1040,30 @@
     "SecondarySkills": []
   },
   {
+    "Name": "bone machete",
+    "Group": "Bladed",
+    "Image": "526.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Ingots",
+        "Amount": 20
+      },
+      {
+        "Name": "Bones",
+        "Amount": 6
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 45.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
     "Name": "axe",
     "Group": "Axes",
-    "Image": "3913",
+    "Image": "3913.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1022,7 +1078,8 @@
   {
     "Name": "battle axe",
     "Group": "Axes",
-    "Image": "3911",
+    "Image": "3911.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1037,7 +1094,8 @@
   {
     "Name": "double axe",
     "Group": "Axes",
-    "Image": "3915",
+    "Image": "3915.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1052,7 +1110,8 @@
   {
     "Name": "executioner's axe",
     "Group": "Axes",
-    "Image": "3909",
+    "Image": "3909.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1067,7 +1126,8 @@
   {
     "Name": "large battle axe",
     "Group": "Axes",
-    "Image": "5115",
+    "Image": "5115.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1082,7 +1142,8 @@
   {
     "Name": "two handed axe",
     "Group": "Axes",
-    "Image": "5187",
+    "Image": "5187.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1097,7 +1158,8 @@
   {
     "Name": "war axe",
     "Group": "Axes",
-    "Image": "5040",
+    "Image": "5040.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1112,7 +1174,8 @@
   {
     "Name": "ornate axe",
     "Group": "Axes",
-    "Image": "11560",
+    "Image": "11560.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1127,7 +1190,8 @@
   {
     "Name": "bardiche",
     "Group": "Polearms",
-    "Image": "3917",
+    "Image": "3917.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1142,7 +1206,8 @@
   {
     "Name": "bladed staff",
     "Group": "Polearms",
-    "Image": "9917",
+    "Image": "9917.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1157,7 +1222,8 @@
   {
     "Name": "double bladed staff",
     "Group": "Polearms",
-    "Image": "9919",
+    "Image": "9919.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1172,7 +1238,8 @@
   {
     "Name": "halberd",
     "Group": "Polearms",
-    "Image": "5182",
+    "Image": "5182.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1187,7 +1254,8 @@
   {
     "Name": "lance",
     "Group": "Polearms",
-    "Image": "9920",
+    "Image": "9920.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1202,7 +1270,8 @@
   {
     "Name": "pike",
     "Group": "Polearms",
-    "Image": "9918",
+    "Image": "9918.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1217,7 +1286,8 @@
   {
     "Name": "short spear",
     "Group": "Polearms",
-    "Image": "5123",
+    "Image": "5123.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1232,7 +1302,8 @@
   {
     "Name": "scythe",
     "Group": "Polearms",
-    "Image": "9914",
+    "Image": "9914.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1247,7 +1318,8 @@
   {
     "Name": "spear",
     "Group": "Polearms",
-    "Image": "3938",
+    "Image": "3938.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1262,7 +1334,8 @@
   {
     "Name": "war fork",
     "Group": "Polearms",
-    "Image": "5125",
+    "Image": "5125.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1277,7 +1350,8 @@
   {
     "Name": "hammer pick",
     "Group": "Bashing",
-    "Image": "5181",
+    "Image": "5181.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1292,7 +1366,8 @@
   {
     "Name": "mace",
     "Group": "Bashing",
-    "Image": "3932",
+    "Image": "3932.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1307,7 +1382,8 @@
   {
     "Name": "maul",
     "Group": "Bashing",
-    "Image": "5179",
+    "Image": "5179.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1322,7 +1398,8 @@
   {
     "Name": "scepter",
     "Group": "Bashing",
-    "Image": "9916",
+    "Image": "9916.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1337,7 +1414,8 @@
   {
     "Name": "war mace",
     "Group": "Bashing",
-    "Image": "5127",
+    "Image": "5127.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1352,7 +1430,8 @@
   {
     "Name": "war hammer",
     "Group": "Bashing",
-    "Image": "5177",
+    "Image": "5177.png",
+    "Recipe": false,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1367,7 +1446,8 @@
   {
     "Name": "tessen",
     "Group": "Bashing",
-    "Image": "10147",
+    "Image": "10147.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1392,7 +1472,8 @@
   {
     "Name": "diamond mace",
     "Group": "Bashing",
-    "Image": "11556",
+    "Image": "11556.png",
+    "Recipe": true,
     "Resources": [
       {
         "Name": "Ingots",
@@ -1402,6 +1483,86 @@
     "PrimarySkillName": "blacksmithing",
     "Skill": 70.0,
     "PrimarySkillMax": 120.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "dragon gloves",
+    "Group": "Dragon Scale Armor",
+    "Image": "9795.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Dragon Scales",
+        "Amount": 16
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 68.9,
+    "PrimarySkillMax": 118.9,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "dragon helm",
+    "Group": "Dragon Scale Armor",
+    "Image": "9797.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Dragon Scales",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 72.6,
+    "PrimarySkillMax": 122.6,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "dragon leggings",
+    "Group": "Dragon Scale Armor",
+    "Image": "9799.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Dragon Scales",
+        "Amount": 28
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 78.8,
+    "PrimarySkillMax": 128.8,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "dragon sleeves",
+    "Group": "Dragon Scale Armor",
+    "Image": "9815.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Dragon Scales",
+        "Amount": 24
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 76.3,
+    "PrimarySkillMax": 126.3,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "dragon breastplate",
+    "Group": "Dragon Scale Armor",
+    "Image": "9793.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Dragon Scales",
+        "Amount": 36
+      }
+    ],
+    "PrimarySkillName": "blacksmithing",
+    "Skill": 85.0,
+    "PrimarySkillMax": 135.0,
     "SecondarySkills": []
   }
 ]
