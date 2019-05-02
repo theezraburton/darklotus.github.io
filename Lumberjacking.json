@@ -1,67 +1,67 @@
 [
   {
-    "Chance": 49,
+    "Chance": 1,
     "Resource": {
       "Name": "wood",
       "Image": "wood.png",
       "ReqSkill": 0.0,
       "MinSkill": 0.0,
-      "MaxSkill": 100.0,
+      "MaxSkill": 110.0,
       "Tier": 0
     }
   },
   {
-    "Chance": 30,
+    "Chance": 1,
     "Resource": {
       "Name": "oak logs",
       "Image": "oak logs.png",
-      "ReqSkill": 65.0,
-      "MinSkill": 25.0,
-      "MaxSkill": 105.0,
+      "ReqSkill": 0.0,
+      "MinSkill": 0.0,
+      "MaxSkill": 110.0,
       "Tier": 1
     }
   },
   {
-    "Chance": 10,
+    "Chance": 1,
     "Resource": {
       "Name": "ash logs",
       "Image": "ash logs.png",
-      "ReqSkill": 80.0,
-      "MinSkill": 40.0,
-      "MaxSkill": 120.0,
+      "ReqSkill": 0.0,
+      "MinSkill": 0.0,
+      "MaxSkill": 110.0,
       "Tier": 1
     }
   },
   {
-    "Chance": 5,
+    "Chance": 1,
     "Resource": {
       "Name": "yew logs",
       "Image": "yew logs.png",
-      "ReqSkill": 95.0,
-      "MinSkill": 55.0,
-      "MaxSkill": 135.0,
+      "ReqSkill": 0.0,
+      "MinSkill": 0.0,
+      "MaxSkill": 110.0,
       "Tier": 1
     }
   },
   {
-    "Chance": 3,
+    "Chance": 1,
     "Resource": {
       "Name": "heartwood logs",
       "Image": "heartwood logs.png",
-      "ReqSkill": 100.0,
-      "MinSkill": 60.0,
-      "MaxSkill": 140.0,
+      "ReqSkill": 0.0,
+      "MinSkill": 0.0,
+      "MaxSkill": 110.0,
       "Tier": 2
     }
   },
   {
-    "Chance": 2,
+    "Chance": 1,
     "Resource": {
       "Name": "bloodwood logs",
       "Image": "bloodwood logs.png",
-      "ReqSkill": 100.0,
-      "MinSkill": 60.0,
-      "MaxSkill": 140.0,
+      "ReqSkill": 0.0,
+      "MinSkill": 0.0,
+      "MaxSkill": 110.0,
       "Tier": 2
     }
   },
@@ -70,9 +70,9 @@
     "Resource": {
       "Name": "frostwood logs",
       "Image": "frostwood logs.png",
-      "ReqSkill": 100.0,
-      "MinSkill": 60.0,
-      "MaxSkill": 140.0,
+      "ReqSkill": 0.0,
+      "MinSkill": 0.0,
+      "MaxSkill": 110.0,
       "Tier": 2
     }
   }

@@ -200,6 +200,46 @@
     "SecondarySkills": []
   },
   {
+    "Name": "Intelligence potion",
+    "Group": "Intelligence",
+    "Image": "3854.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 2
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 25.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Greater Intelligence potion",
+    "Group": "Intelligence",
+    "Image": "3854.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 5
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 45.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
     "Name": "lesser poison",
     "Group": "Poison",
     "Image": "3850.png",
@@ -400,6 +440,406 @@
     "SecondarySkills": []
   },
   {
+    "Name": "conflagration",
+    "Group": "Necromancy",
+    "Image": "3846.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Grave Dust",
+        "Amount": 25
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 55.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "greater conflagration",
+    "Group": "Necromancy",
+    "Image": "3846.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Grave Dust",
+        "Amount": 50
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 65.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "confusion blast",
+    "Group": "Necromancy",
+    "Image": "3846.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Pig Iron",
+        "Amount": 25
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 55.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "greater confusion blast",
+    "Group": "Necromancy",
+    "Image": "3846.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Pig Iron",
+        "Amount": 50
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 65.0,
+    "PrimarySkillMax": 115.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Lesser Physical Resistance Potion",
+    "Group": "Resistance",
+    "Image": "3854.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 2
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 20.0,
+    "PrimarySkillMax": 40.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Lesser Fire Resistance Potion",
+    "Group": "Resistance",
+    "Image": "3854.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 2
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 25.0,
+    "PrimarySkillMax": 45.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Lesser Cold Resistance Potion",
+    "Group": "Resistance",
+    "Image": "3854.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Mandrake Root",
+        "Amount": 2
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 30.0,
+    "PrimarySkillMax": 50.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Lesser Poison Resistance Potion",
+    "Group": "Resistance",
+    "Image": "3854.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Nightshade",
+        "Amount": 2
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 35.0,
+    "PrimarySkillMax": 55.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Lesser Electric Resistance Potion",
+    "Group": "Resistance",
+    "Image": "3854.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 2
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 40.0,
+    "PrimarySkillMax": 60.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Physical Resistance Potion",
+    "Group": "Resistance",
+    "Image": "3854.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 5
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 45.0,
+    "PrimarySkillMax": 65.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Fire Resistance Potion",
+    "Group": "Resistance",
+    "Image": "3854.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 5
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 50.0,
+    "PrimarySkillMax": 70.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Cold Resistance Potion",
+    "Group": "Resistance",
+    "Image": "3854.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Mandrake Root",
+        "Amount": 5
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 55.0,
+    "PrimarySkillMax": 75.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Poison Resistance Potion",
+    "Group": "Resistance",
+    "Image": "3854.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Nightshade",
+        "Amount": 5
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 60.0,
+    "PrimarySkillMax": 80.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Electric Resistance Potion",
+    "Group": "Resistance",
+    "Image": "3854.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 5
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 65.0,
+    "PrimarySkillMax": 85.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Greater Physical Resistance Potion",
+    "Group": "Resistance",
+    "Image": "3854.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 10
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 3
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 70.0,
+    "PrimarySkillMax": 90.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Greater Fire Resistance Potion",
+    "Group": "Resistance",
+    "Image": "3854.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 10
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 3
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 75.0,
+    "PrimarySkillMax": 95.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Greater Cold Resistance Potion",
+    "Group": "Resistance",
+    "Image": "3854.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Mandrake Root",
+        "Amount": 10
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 3
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 80.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Greater Poison Resistance Potion",
+    "Group": "Resistance",
+    "Image": "3854.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Nightshade",
+        "Amount": 10
+      },
+      {
+        "Name": "Black Pearl",
+        "Amount": 3
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 85.0,
+    "PrimarySkillMax": 105.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "Greater Electric Resistance Potion",
+    "Group": "Resistance",
+    "Image": "3854.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Garlic",
+        "Amount": 10
+      },
+      {
+        "Name": "Blood Moss",
+        "Amount": 3
+      },
+      {
+        "Name": "Empty Bottles",
+        "Amount": 1
+      }
+    ],
+    "PrimarySkillName": "alchemy",
+    "Skill": 90.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": []
+  },
+  {
     "Name": "Mana Potion",
     "Group": "Mana Potions",
     "Image": "3854.png",
@@ -436,7 +876,7 @@
     ],
     "PrimarySkillName": "alchemy",
     "Skill": 95.1,
-    "PrimarySkillMax": 125.0,
+    "PrimarySkillMax": 115.0,
     "SecondarySkills": []
   },
   {
@@ -499,12 +939,12 @@
       },
       {
         "Name": "Mandrake Root",
-        "Amount": 2
+        "Amount": 3
       }
     ],
     "PrimarySkillName": "alchemy",
-    "Skill": 50.1,
-    "PrimarySkillMax": 75.1,
+    "Skill": 75.1,
+    "PrimarySkillMax": 99.1,
     "SecondarySkills": []
   },
   {

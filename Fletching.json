@@ -166,5 +166,201 @@
     "Skill": 90.0,
     "PrimarySkillMax": 130.0,
     "SecondarySkills": []
+  },
+  {
+    "Name": "elven composite longbow",
+    "Group": "Weapons",
+    "Image": "11550.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 20
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 95.0,
+    "PrimarySkillMax": 145.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "magical shortbow",
+    "Group": "Weapons",
+    "Image": "11563.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 15
+      },
+      {
+        "Name": "Amethysts",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 85.0,
+    "PrimarySkillMax": 135.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "barbed longbow",
+    "Group": "Weapons",
+    "Image": "11550.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 20
+      },
+      {
+        "Name": "Amber",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "slayer longbow",
+    "Group": "Weapons",
+    "Image": "11550.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 20
+      },
+      {
+        "Name": "Rubies",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "frozen longbow",
+    "Group": "Weapons",
+    "Image": "11550.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 20
+      },
+      {
+        "Name": "Star Sapphires",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "longbow of might",
+    "Group": "Weapons",
+    "Image": "11550.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 10
+      },
+      {
+        "Name": "Diamonds",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "ranger's shortbow",
+    "Group": "Weapons",
+    "Image": "11563.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 15
+      },
+      {
+        "Name": "Emeralds",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "lightweight shortbow",
+    "Group": "Weapons",
+    "Image": "11563.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 15
+      },
+      {
+        "Name": "Tourmalines",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "mystical shortbow",
+    "Group": "Weapons",
+    "Image": "11563.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 15
+      },
+      {
+        "Name": "Citrines",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
+  },
+  {
+    "Name": "assassin's shortbow",
+    "Group": "Weapons",
+    "Image": "11563.png",
+    "Recipe": true,
+    "Resources": [
+      {
+        "Name": "Boards or Logs",
+        "Amount": 15
+      },
+      {
+        "Name": "Sapphires",
+        "Amount": 25
+      }
+    ],
+    "PrimarySkillName": "fletching",
+    "Skill": 75.0,
+    "PrimarySkillMax": 125.0,
+    "SecondarySkills": []
   }
 ]

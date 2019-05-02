@@ -1764,6 +1764,22 @@
     "SecondarySkills": []
   },
   {
+    "Name": "Bulk Order Book",
+    "Group": "Other",
+    "Image": "8793.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 10
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 70.0,
+    "PrimarySkillMax": 100.0,
+    "SecondarySkills": []
+  },
+  {
     "Name": "Spellbook",
     "Group": "Other",
     "Image": "3834.png",
@@ -1778,6 +1794,32 @@
     "Skill": 50.0,
     "PrimarySkillMax": 126.0,
     "SecondarySkills": []
+  },
+  {
+    "Name": "Gate guardian scroll",
+    "Group": "Other",
+    "Image": "8032.png",
+    "Recipe": false,
+    "Resources": [
+      {
+        "Name": "Blank Scrolls",
+        "Amount": 5
+      },
+      {
+        "Name": "Gate Scrolls",
+        "Amount": 5
+      }
+    ],
+    "PrimarySkillName": "inscription",
+    "Skill": 90.0,
+    "PrimarySkillMax": 110.0,
+    "SecondarySkills": [
+      {
+        "MaxSkill": 100.0,
+        "SkillName": "magery",
+        "MinSkill": 90.0
+      }
+    ]
   },
   {
     "Name": "Reagent Storage Book",
