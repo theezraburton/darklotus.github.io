@@ -982,9 +982,9 @@
     "SecondarySkills": []
   },
   {
-    "Name": "club",
-    "Group": "Weapons",
-    "Image": "5044.png",
+    "Name": "wooden shield",
+    "Group": "Armor",
+    "Image": "7034.png",
     "Recipe": false,
     "Resources": [
       {
@@ -993,24 +993,8 @@
       }
     ],
     "PrimarySkillName": "carpentry",
-    "Skill": 65.0,
-    "PrimarySkillMax": 90.0,
-    "SecondarySkills": []
-  },
-  {
-    "Name": "black staff",
-    "Group": "Weapons",
-    "Image": "3568.png",
-    "Recipe": false,
-    "Resources": [
-      {
-        "Name": "Boards or Logs",
-        "Amount": 9
-      }
-    ],
-    "PrimarySkillName": "carpentry",
-    "Skill": 81.5,
-    "PrimarySkillMax": 106.5,
+    "Skill": 52.6,
+    "PrimarySkillMax": 77.6,
     "SecondarySkills": []
   },
   {
@@ -1043,194 +1027,6 @@
     "PrimarySkillName": "carpentry",
     "Skill": 80.0,
     "PrimarySkillMax": 140.3,
-    "SecondarySkills": []
-  },
-  {
-    "Name": "wooden shield",
-    "Group": "Armor",
-    "Image": "7034.png",
-    "Recipe": false,
-    "Resources": [
-      {
-        "Name": "Boards or Logs",
-        "Amount": 9
-      }
-    ],
-    "PrimarySkillName": "carpentry",
-    "Skill": 52.6,
-    "PrimarySkillMax": 77.6,
-    "SecondarySkills": []
-  },
-  {
-    "Name": "woodland chest",
-    "Group": "Armor",
-    "Image": "11111.png",
-    "Recipe": false,
-    "Resources": [
-      {
-        "Name": "Boards or Logs",
-        "Amount": 20
-      },
-      {
-        "Name": "Bark Fragment",
-        "Amount": 6
-      }
-    ],
-    "PrimarySkillName": "carpentry",
-    "Skill": 90.0,
-    "PrimarySkillMax": 115.0,
-    "SecondarySkills": []
-  },
-  {
-    "Name": "woodland arms",
-    "Group": "Armor",
-    "Image": "11116.png",
-    "Recipe": false,
-    "Resources": [
-      {
-        "Name": "Boards or Logs",
-        "Amount": 15
-      },
-      {
-        "Name": "Bark Fragment",
-        "Amount": 4
-      }
-    ],
-    "PrimarySkillName": "carpentry",
-    "Skill": 80.0,
-    "PrimarySkillMax": 105.0,
-    "SecondarySkills": []
-  },
-  {
-    "Name": "woodland gauntlets",
-    "Group": "Armor",
-    "Image": "11114.png",
-    "Recipe": false,
-    "Resources": [
-      {
-        "Name": "Boards or Logs",
-        "Amount": 15
-      },
-      {
-        "Name": "Bark Fragment",
-        "Amount": 4
-      }
-    ],
-    "PrimarySkillName": "carpentry",
-    "Skill": 85.0,
-    "PrimarySkillMax": 110.0,
-    "SecondarySkills": []
-  },
-  {
-    "Name": "woodland leggings",
-    "Group": "Armor",
-    "Image": "11115.png",
-    "Recipe": false,
-    "Resources": [
-      {
-        "Name": "Boards or Logs",
-        "Amount": 15
-      },
-      {
-        "Name": "Bark Fragment",
-        "Amount": 4
-      }
-    ],
-    "PrimarySkillName": "carpentry",
-    "Skill": 85.0,
-    "PrimarySkillMax": 110.0,
-    "SecondarySkills": []
-  },
-  {
-    "Name": "woodland gorget",
-    "Group": "Armor",
-    "Image": "11113.png",
-    "Recipe": false,
-    "Resources": [
-      {
-        "Name": "Boards or Logs",
-        "Amount": 15
-      },
-      {
-        "Name": "Bark Fragment",
-        "Amount": 4
-      }
-    ],
-    "PrimarySkillName": "carpentry",
-    "Skill": 85.0,
-    "PrimarySkillMax": 110.0,
-    "SecondarySkills": []
-  },
-  {
-    "Name": "raven helm",
-    "Group": "Armor",
-    "Image": "11121.png",
-    "Recipe": false,
-    "Resources": [
-      {
-        "Name": "Boards or Logs",
-        "Amount": 10
-      },
-      {
-        "Name": "Bark Fragment",
-        "Amount": 4
-      },
-      {
-        "Name": "feathers",
-        "Amount": 25
-      }
-    ],
-    "PrimarySkillName": "carpentry",
-    "Skill": 65.0,
-    "PrimarySkillMax": 115.0,
-    "SecondarySkills": []
-  },
-  {
-    "Name": "vulture helm",
-    "Group": "Armor",
-    "Image": "11122.png",
-    "Recipe": true,
-    "Resources": [
-      {
-        "Name": "Boards or Logs",
-        "Amount": 10
-      },
-      {
-        "Name": "Bark Fragment",
-        "Amount": 4
-      },
-      {
-        "Name": "feathers",
-        "Amount": 25
-      }
-    ],
-    "PrimarySkillName": "carpentry",
-    "Skill": 63.9,
-    "PrimarySkillMax": 113.9,
-    "SecondarySkills": []
-  },
-  {
-    "Name": "winged helm",
-    "Group": "Armor",
-    "Image": "11123.png",
-    "Recipe": true,
-    "Resources": [
-      {
-        "Name": "Boards or Logs",
-        "Amount": 10
-      },
-      {
-        "Name": "Bark Fragment",
-        "Amount": 4
-      },
-      {
-        "Name": "feathers",
-        "Amount": 60
-      }
-    ],
-    "PrimarySkillName": "carpentry",
-    "Skill": 58.4,
-    "PrimarySkillMax": 108.4,
     "SecondarySkills": []
   },
   {
@@ -1932,26 +1728,6 @@
         "MinSkill": 50.0
       }
     ]
-  },
-  {
-    "Name": "archery butte",
-    "Group": "Training",
-    "Image": "5360.png",
-    "Recipe": false,
-    "Resources": [
-      {
-        "Name": "Deed Parts",
-        "Amount": 3
-      },
-      {
-        "Name": "Cloth",
-        "Amount": 60
-      }
-    ],
-    "PrimarySkillName": "carpentry",
-    "Skill": 68.4,
-    "PrimarySkillMax": 93.4,
-    "SecondarySkills": []
   },
   {
     "Name": "dressform (front)",

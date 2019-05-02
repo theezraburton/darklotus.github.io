@@ -1097,7 +1097,7 @@
     "MinimumDuration": -1.0,
     "MaximumDuration": -1.0,
     "MinimumEffect": 1.0,
-    "MaximumEffect": 5.0,
+    "MaximumEffect": 3.0,
     "Reagents": [
       {
         "Name": "Sulfurous Ash",
