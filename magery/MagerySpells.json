@@ -1,0 +1,1618 @@
+[
+  {
+    "Order": 16,
+    "Circle": 3,
+    "Name": "Bless",
+    "Mantra": "Rel Sanct",
+    "Mana": 9,
+    "CastTime": 1.5,
+    "MinimumDuration": 120.0,
+    "MaximumDuration": 180.0,
+    "MinimumEffect": 1.0,
+    "MaximumEffect": 5.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 17,
+    "Circle": 3,
+    "Name": "Fireball",
+    "Mantra": "Vas Flam",
+    "Mana": 11,
+    "CastTime": 2.8,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": 5.0,
+    "MaximumEffect": 10.0,
+    "Reagents": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 18,
+    "Circle": 3,
+    "Name": "Magic Lock",
+    "Mantra": "An Por",
+    "Mana": 9,
+    "CastTime": 1.5,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 19,
+    "Circle": 3,
+    "Name": "Poison",
+    "Mantra": "In Nox",
+    "Mana": 9,
+    "CastTime": 1.5,
+    "MinimumDuration": 60.0,
+    "MaximumDuration": 900.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 20,
+    "Circle": 3,
+    "Name": "Telekinesis",
+    "Mantra": "Ort Por Ylem",
+    "Mana": 9,
+    "CastTime": 1.5,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 21,
+    "Circle": 3,
+    "Name": "Teleport",
+    "Mantra": "Rel Por",
+    "Mana": 11,
+    "CastTime": 1.5,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 22,
+    "Circle": 3,
+    "Name": "Unlock Spell",
+    "Mantra": "Ex Por",
+    "Mana": 9,
+    "CastTime": 1.5,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 23,
+    "Circle": 3,
+    "Name": "Wall of Stone",
+    "Mantra": "In Sanct Ylem",
+    "Mana": 35,
+    "CastTime": 2.0,
+    "MinimumDuration": 15.0,
+    "MaximumDuration": 30.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 40,
+    "Circle": 6,
+    "Name": "Dispel",
+    "Mantra": "An Ort",
+    "Mana": 20,
+    "CastTime": 3.0,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 41,
+    "Circle": 6,
+    "Name": "Energy Bolt",
+    "Mantra": "Corp Por",
+    "Mana": 20,
+    "CastTime": 3.0,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": 10.0,
+    "MaximumEffect": 45.0,
+    "Reagents": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 42,
+    "Circle": 6,
+    "Name": "Explosion",
+    "Mantra": "Vas Ort Flam",
+    "Mana": 20,
+    "CastTime": 3.0,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": 15.0,
+    "MaximumEffect": 35.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 43,
+    "Circle": 6,
+    "Name": "Invisibility",
+    "Mantra": "An Lor Xen",
+    "Mana": 20,
+    "CastTime": 3.0,
+    "MinimumDuration": 180.0,
+    "MaximumDuration": 300.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 44,
+    "Circle": 6,
+    "Name": "Mark",
+    "Mantra": "Kal Por Ylem",
+    "Mana": 20,
+    "CastTime": 3.0,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": 20.0,
+    "MaximumEffect": 20.0,
+    "Reagents": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 45,
+    "Circle": 6,
+    "Name": "Mana Tornado",
+    "Mantra": "Hur Rel Por",
+    "Mana": 20,
+    "CastTime": 2.5,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": 20.0,
+    "MaximumEffect": 40.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 46,
+    "Circle": 6,
+    "Name": "Paralyze Field",
+    "Mantra": "In Ex Grav",
+    "Mana": 50,
+    "CastTime": 3.0,
+    "MinimumDuration": 30.0,
+    "MaximumDuration": 60.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 47,
+    "Circle": 6,
+    "Name": "Reveal",
+    "Mantra": "Wis Quas",
+    "Mana": 20,
+    "CastTime": 3.0,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 48,
+    "Circle": 7,
+    "Name": "Chain Lightning",
+    "Mantra": "Vas Ort Grav",
+    "Mana": 40,
+    "CastTime": 3.5,
+    "MinimumDuration": 0.3,
+    "MaximumDuration": 30.0,
+    "MinimumEffect": 10.0,
+    "MaximumEffect": 20.0,
+    "Reagents": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 49,
+    "Circle": 7,
+    "Name": "Energy Field",
+    "Mantra": "In Sanct Grav",
+    "Mana": 40,
+    "CastTime": 3.5,
+    "MinimumDuration": 120.0,
+    "MaximumDuration": 180.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 50,
+    "Circle": 7,
+    "Name": "Flame Strike",
+    "Mantra": "Kal Vas Flam",
+    "Mana": 40,
+    "CastTime": 3.5,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": 30.0,
+    "MaximumEffect": 50.0,
+    "Reagents": [
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 51,
+    "Circle": 7,
+    "Name": "Gate Travel",
+    "Mantra": "Vas Rel Por",
+    "Mana": 40,
+    "CastTime": 3.5,
+    "MinimumDuration": 60.0,
+    "MaximumDuration": 60.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 52,
+    "Circle": 7,
+    "Name": "Spark",
+    "Mantra": "Por Grav Lor",
+    "Mana": 40,
+    "CastTime": 3.7,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": 30.0,
+    "MaximumEffect": 50.0,
+    "Reagents": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 53,
+    "Circle": 7,
+    "Name": "Mass Dispel",
+    "Mantra": "Vas An Ort",
+    "Mana": 40,
+    "CastTime": 3.5,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 54,
+    "Circle": 7,
+    "Name": "Meteor Swarm",
+    "Mantra": "Flam Kal Des Ylem",
+    "Mana": 40,
+    "CastTime": 3.5,
+    "MinimumDuration": 0.3,
+    "MaximumDuration": 30.0,
+    "MinimumEffect": 10.0,
+    "MaximumEffect": 25.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 55,
+    "Circle": 7,
+    "Name": "Polymorph",
+    "Mantra": "Vas Ylem Rel",
+    "Mana": 40,
+    "CastTime": 3.5,
+    "MinimumDuration": 300.0,
+    "MaximumDuration": 480.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 8,
+    "Circle": 2,
+    "Name": "Agility",
+    "Mantra": "Ex Uus",
+    "Mana": 6,
+    "CastTime": 1.0,
+    "MinimumDuration": 120.0,
+    "MaximumDuration": 180.0,
+    "MinimumEffect": 5.0,
+    "MaximumEffect": 10.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 9,
+    "Circle": 2,
+    "Name": "Cunning",
+    "Mantra": "Uus Wis",
+    "Mana": 6,
+    "CastTime": 3.0,
+    "MinimumDuration": 120.0,
+    "MaximumDuration": 180.0,
+    "MinimumEffect": 5.0,
+    "MaximumEffect": 10.0,
+    "Reagents": [
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 10,
+    "Circle": 2,
+    "Name": "Cure",
+    "Mantra": "An Nox",
+    "Mana": 6,
+    "CastTime": 1.3,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 11,
+    "Circle": 2,
+    "Name": "Harm",
+    "Mantra": "An Mani",
+    "Mana": 12,
+    "CastTime": 0.7,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": 1.0,
+    "MaximumEffect": 4.0,
+    "Reagents": [
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 12,
+    "Circle": 2,
+    "Name": "Magic Trap",
+    "Mantra": "In Jux",
+    "Mana": 6,
+    "CastTime": 1.0,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 14,
+    "Circle": 2,
+    "Name": "Protection",
+    "Mantra": "Uus Sanct",
+    "Mana": 6,
+    "CastTime": 1.0,
+    "MinimumDuration": 180.0,
+    "MaximumDuration": 300.0,
+    "MinimumEffect": 3.0,
+    "MaximumEffect": 7.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 13,
+    "Circle": 2,
+    "Name": "Remove Trap",
+    "Mantra": "An Jux",
+    "Mana": 6,
+    "CastTime": 0.0,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 15,
+    "Circle": 2,
+    "Name": "Strength",
+    "Mantra": "Uus Mani",
+    "Mana": 6,
+    "CastTime": 1.0,
+    "MinimumDuration": 120.0,
+    "MaximumDuration": 180.0,
+    "MinimumEffect": 5.0,
+    "MaximumEffect": 10.0,
+    "Reagents": [
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 26,
+    "Circle": 4,
+    "Name": "Curse",
+    "Mantra": "Des Sanct",
+    "Mana": 11,
+    "CastTime": 2.0,
+    "MinimumDuration": 10.0,
+    "MaximumDuration": 60.0,
+    "MinimumEffect": 5.0,
+    "MaximumEffect": 10.0,
+    "Reagents": [
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 27,
+    "Circle": 4,
+    "Name": "Fire Field",
+    "Mantra": "In Flam Grav",
+    "Mana": 45,
+    "CastTime": 3.0,
+    "MinimumDuration": 15.0,
+    "MaximumDuration": 30.0,
+    "MinimumEffect": 1.0,
+    "MaximumEffect": 8.0,
+    "Reagents": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 24,
+    "Circle": 4,
+    "Name": "Frost Nova",
+    "Mantra": "Vas Des Por",
+    "Mana": 11,
+    "CastTime": 2.8,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": 10.0,
+    "MaximumEffect": 20.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 28,
+    "Circle": 4,
+    "Name": "Greater Heal",
+    "Mantra": "In Vas Mani",
+    "Mana": 11,
+    "CastTime": 3.0,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": 20.0,
+    "MaximumEffect": 35.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 29,
+    "Circle": 4,
+    "Name": "Lightning",
+    "Mantra": "Por Ort Grav",
+    "Mana": 15,
+    "CastTime": 2.0,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": 10.0,
+    "MaximumEffect": 20.0,
+    "Reagents": [
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 30,
+    "Circle": 4,
+    "Name": "Ice Strike",
+    "Mantra": "An Flam Ylem",
+    "Mana": 15,
+    "CastTime": 2.2,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": 15.0,
+    "MaximumEffect": 25.0,
+    "Reagents": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 25,
+    "Circle": 4,
+    "Name": "Poison Nova",
+    "Mantra": "Vas Ort Nox",
+    "Mana": 11,
+    "CastTime": 2.8,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 31,
+    "Circle": 4,
+    "Name": "Recall",
+    "Mantra": "Kal Ort Por",
+    "Mana": 11,
+    "CastTime": 4.0,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 0,
+    "Circle": 1,
+    "Name": "Clumsy",
+    "Mantra": "Uus Jux",
+    "Mana": 6,
+    "CastTime": 0.7,
+    "MinimumDuration": 120.0,
+    "MaximumDuration": 180.0,
+    "MinimumEffect": 5.0,
+    "MaximumEffect": 15.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 1,
+    "Circle": 1,
+    "Name": "Create Food",
+    "Mantra": "In Mani Ylem",
+    "Mana": 4,
+    "CastTime": 0.5,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 2,
+    "Circle": 1,
+    "Name": "Feeblemind",
+    "Mantra": "Rel Wis",
+    "Mana": 12,
+    "CastTime": 0.7,
+    "MinimumDuration": 120.0,
+    "MaximumDuration": 180.0,
+    "MinimumEffect": 5.0,
+    "MaximumEffect": 15.0,
+    "Reagents": [
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 3,
+    "Circle": 1,
+    "Name": "Heal",
+    "Mantra": "In Mani",
+    "Mana": 8,
+    "CastTime": 1.5,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": 1.0,
+    "MaximumEffect": 5.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 4,
+    "Circle": 1,
+    "Name": "Magic Arrow",
+    "Mantra": "In Por Ylem",
+    "Mana": 12,
+    "CastTime": 0.7,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": 1.0,
+    "MaximumEffect": 5.0,
+    "Reagents": [
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 5,
+    "Circle": 1,
+    "Name": "Night Sight",
+    "Mantra": "In Lor",
+    "Mana": 4,
+    "CastTime": 0.5,
+    "MinimumDuration": 360.0,
+    "MaximumDuration": 900.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 6,
+    "Circle": 1,
+    "Name": "Reactive Armor",
+    "Mantra": "Flam Sanct",
+    "Mana": 8,
+    "CastTime": 1.0,
+    "MinimumDuration": 60.0,
+    "MaximumDuration": 60.0,
+    "MinimumEffect": 1.0,
+    "MaximumEffect": 5.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 7,
+    "Circle": 1,
+    "Name": "Weaken",
+    "Mantra": "Des Mani",
+    "Mana": 12,
+    "CastTime": 0.7,
+    "MinimumDuration": 120.0,
+    "MaximumDuration": 180.0,
+    "MinimumEffect": 5.0,
+    "MaximumEffect": 15.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 32,
+    "Circle": 5,
+    "Name": "Blade Spirits",
+    "Mantra": "In Jux Hur Ylem",
+    "Mana": 40,
+    "CastTime": 5.0,
+    "MinimumDuration": 120.0,
+    "MaximumDuration": 180.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 33,
+    "Circle": 5,
+    "Name": "Dispel Field",
+    "Mantra": "An Grav",
+    "Mana": 14,
+    "CastTime": 2.5,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      },
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 34,
+    "Circle": 5,
+    "Name": "Incognito",
+    "Mantra": "Kal In Ex",
+    "Mana": 14,
+    "CastTime": 2.5,
+    "MinimumDuration": 300.0,
+    "MaximumDuration": 480.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 35,
+    "Circle": 5,
+    "Name": "Magic Reflection",
+    "Mantra": "In Jux Sanct",
+    "Mana": 14,
+    "CastTime": 2.5,
+    "MinimumDuration": 240.0,
+    "MaximumDuration": 480.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 36,
+    "Circle": 5,
+    "Name": "Ice Quake",
+    "Mantra": "Vas An Flam Ylem",
+    "Mana": 28,
+    "CastTime": 2.5,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": 5.0,
+    "MaximumEffect": 20.0,
+    "Reagents": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 37,
+    "Circle": 5,
+    "Name": "Paralyze",
+    "Mantra": "An Ex Por",
+    "Mana": 25,
+    "CastTime": 2.5,
+    "MinimumDuration": 5.0,
+    "MaximumDuration": 10.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 38,
+    "Circle": 5,
+    "Name": "Poison Field",
+    "Mantra": "In Nox Grav",
+    "Mana": 14,
+    "CastTime": 2.5,
+    "MinimumDuration": 30.0,
+    "MaximumDuration": 60.0,
+    "MinimumEffect": 5.0,
+    "MaximumEffect": 50.0,
+    "Reagents": [
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 39,
+    "Circle": 5,
+    "Name": "Summon Creature",
+    "Mantra": "Kal Xen",
+    "Mana": 14,
+    "CastTime": 5.0,
+    "MinimumDuration": 300.0,
+    "MaximumDuration": 900.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 59,
+    "Circle": 8,
+    "Name": "Air Elemental",
+    "Mantra": "Kal Vas Xen Hur",
+    "Mana": 50,
+    "CastTime": 4.0,
+    "MinimumDuration": 120.0,
+    "MaximumDuration": 180.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 61,
+    "Circle": 8,
+    "Name": "Earth Elemental",
+    "Mantra": "Kal Vas Xen Ylem",
+    "Mana": 50,
+    "CastTime": 4.0,
+    "MinimumDuration": 120.0,
+    "MaximumDuration": 180.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 56,
+    "Circle": 8,
+    "Name": "Earthquake",
+    "Mantra": "In Vas Por",
+    "Mana": 50,
+    "CastTime": 4.0,
+    "MinimumDuration": 30.0,
+    "MaximumDuration": 30.0,
+    "MinimumEffect": 30.0,
+    "MaximumEffect": 45.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 57,
+    "Circle": 8,
+    "Name": "Energy Vortex",
+    "Mantra": "Vas Corp Por",
+    "Mana": 50,
+    "CastTime": 7.0,
+    "MinimumDuration": 120.0,
+    "MaximumDuration": 180.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Black Pearl",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Nightshade",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 62,
+    "Circle": 8,
+    "Name": "Fire Elemental",
+    "Mantra": "Kal Vas Xen Flam",
+    "Mana": 50,
+    "CastTime": 4.0,
+    "MinimumDuration": 120.0,
+    "MaximumDuration": 180.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 58,
+    "Circle": 8,
+    "Name": "Resurrection",
+    "Mantra": "An Corp",
+    "Mana": 50,
+    "CastTime": 4.0,
+    "MinimumDuration": -1.0,
+    "MaximumDuration": -1.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Garlic",
+        "Amount": 1
+      },
+      {
+        "Name": "Ginseng",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 60,
+    "Circle": 8,
+    "Name": "Summon Daemon",
+    "Mantra": "Kal Vas Xen Corp",
+    "Mana": 50,
+    "CastTime": 4.0,
+    "MinimumDuration": 120.0,
+    "MaximumDuration": 180.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      },
+      {
+        "Name": "Sulfurous Ash",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Order": 63,
+    "Circle": 8,
+    "Name": "Water Elemental",
+    "Mantra": "Kal Vas Xen An Flam",
+    "Mana": 50,
+    "CastTime": 4.0,
+    "MinimumDuration": 120.0,
+    "MaximumDuration": 180.0,
+    "MinimumEffect": -1.0,
+    "MaximumEffect": -1.0,
+    "Reagents": [
+      {
+        "Name": "Blood Moss",
+        "Amount": 1
+      },
+      {
+        "Name": "Mandrake Root",
+        "Amount": 1
+      },
+      {
+        "Name": "Spiders' Silk",
+        "Amount": 1
+      }
+    ]
+  }
+]
