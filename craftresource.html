@@ -85,7 +85,7 @@
              <demo-grid
             :data="gridData"
             :columns="gridColumns"
-            :ColNames="attribss"
+            :atribcols="gridatribcols"
             :filter-key="searchQuery">
           </demo-grid>
           
@@ -110,7 +110,7 @@
                   <td>{{entry['Name']}}</td>
                   <td>{{entry['MaterialType']}}</td>
                   
-                  <td v-for="keyy in ColNames">
+                  <td v-for="keyy in atribcols">
                       <p>{{entry['AttributeInfo'][keyy]}}</p>
                   </td>
                   <!--  <td v-for="key in columns">
@@ -202,7 +202,7 @@ var demo = new Vue({
       "Poison Resist",
       "Electric Resist",
       "Armor Luck"],
-      attribss: ["Fire Damage",
+      gridatribcols: ["Fire Damage",
       "Cold Damage",
       "Poison Damage",
       "Electric Damage",
