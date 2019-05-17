@@ -21,6 +21,7 @@
         .vuetable-wrapper.ui.basic.segment {
             padding: 0em;
         }
+
         .vuetable button.ui.button {
             padding: .5em .5em;
             font-weight: 400;
@@ -109,10 +110,18 @@
                   <td><img v-bind:src="entry['Image']"/></td>
                   <td>{{entry['Name']}}</td>
                   <td>{{entry['MaterialType']}}</td>
+                  <td>{{entry['MaterialType']["Fire Damage"]}}</td>
+                  <td>{{entry['MaterialType']["Cold Damage"]}}</td>
+                  <td>{{entry['MaterialType']["Poison Damage"]}}</td>
+                  <td>{{entry['MaterialType']["Electric Damage"]}}</td>
+                  <td>{{entry['MaterialType']["Bonus Damage"]}}</td>
+                  <td>{{entry['MaterialType']["Physical Resist"]}}</td>
+                  <td>{{entry['MaterialType']["Fire Resist"]}}</td>
+                  <td>{{entry['MaterialType']["Cold Resist"]}}</td>
+                  <td>{{entry['MaterialType']["Poison Resist"]}}</td>
+                  <td>{{entry['MaterialType']["Electric Resist"]}}</td>
+                  <td>{{entry['MaterialType']["Armor Luck"]}}</td>
                   
-                  <td v-for="keyy in atribcols">
-                      <p>{{entry['AttributeInfo'][keyy]}}</p>
-                  </td>
                   <!--  <td v-for="key in columns">
                     {{entry[key]}}
                   </td> -->
@@ -201,18 +210,8 @@ var demo = new Vue({
       "Cold Resist",
       "Poison Resist",
       "Electric Resist",
-      "Armor Luck"],
-      gridatribcols: ["Fire Damage",
-      "Cold Damage",
-      "Poison Damage",
-      "Electric Damage",
-      "Bonus Damage",
-      "Physical Resist",
-      "Fire Resist",
-      "Cold Resist",
-      "Poison Resist",
-      "Electric Resist",
-      "Armor Luck"],
+      "Luck"],
+      gridatribcols: [],
     gridData: []
   },
   methods: {
