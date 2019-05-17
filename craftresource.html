@@ -85,6 +85,7 @@
              <demo-grid
             :data="gridData"
             :columns="gridColumns"
+            :ColNames="attribss"
             :filter-key="searchQuery">
           </demo-grid>
           
@@ -109,7 +110,7 @@
                   <td>{{entry['Name']}}</td>
                   <td>{{entry['MaterialType']}}</td>
                   
-                  <td v-for="keyy in attribss">
+                  <td v-for="keyy in ColNames">
                       <p>{{entry['AttributeInfo'][keyy]}}</p>
                   </td>
                   <!--  <td v-for="key in columns">
