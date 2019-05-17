@@ -110,17 +110,19 @@
                   <td><img v-bind:src="entry['Image']"/></td>
                   <td>{{entry['Name']}}</td>
                   <td>{{entry['MaterialType']}}</td>
-                  <td>{{entry['MaterialType']["Fire Damage"]}}</td>
-                  <td>{{entry['MaterialType']["Cold Damage"]}}</td>
-                  <td>{{entry['MaterialType']["Poison Damage"]}}</td>
-                  <td>{{entry['MaterialType']["Electric Damage"]}}</td>
-                  <td>{{entry['MaterialType']["Bonus Damage"]}}</td>
-                  <td>{{entry['MaterialType']["Physical Resist"]}}</td>
-                  <td>{{entry['MaterialType']["Fire Resist"]}}</td>
-                  <td>{{entry['MaterialType']["Cold Resist"]}}</td>
-                  <td>{{entry['MaterialType']["Poison Resist"]}}</td>
-                  <td>{{entry['MaterialType']["Electric Resist"]}}</td>
-                  <td>{{entry['MaterialType']["Armor Luck"]}}</td>
+
+                  <td>{{entry['AttributeInfo']["Fire Damage"]}}</td>
+                  <td>{{entry['AttributeInfo']["Cold Damage"]}}</td>
+                  <td>{{entry['AttributeInfo']["Poison Damage"]}}</td>
+                  <td>{{entry['AttributeInfo']["Electric Damage"]}}</td>
+                  <td>{{entry['AttributeInfo']["Bonus Damage"]}}</td>
+                  <td>{{entry['AttributeInfo']["Physical Resist"]}}</td>
+                  <td>{{entry['AttributeInfo']["Fire Resist"]}}</td>
+                  <td>{{entry['AttributeInfo']["Cold Resist"]}}</td>
+                  <td>{{entry['AttributeInfo']["Poison Resist"]}}</td>
+                  <td>{{entry['AttributeInfo']["Electric Resist"]}}</td>
+                  <td>{{entry['AttributeInfo']["Armor Luck"]}}</td>
+                  
                   
                   <!--  <td v-for="key in columns">
                     {{entry[key]}}
@@ -211,7 +213,17 @@ var demo = new Vue({
       "Poison Resist",
       "Electric Resist",
       "Luck"],
-      gridatribcols: [],
+      gridatribcols: ["Fire Damage",
+      "Cold Damage",
+      "Poison Damage",
+      "Electric Damage",
+      "Bonus Damage",
+      "Physical Resist",
+      "Fire Resist",
+      "Cold Resist",
+      "Poison Resist",
+      "Electric Resist",
+      "Armor Luck"],
     gridData: []
   },
   methods: {
@@ -225,7 +237,7 @@ var demo = new Vue({
   },
   created: function () {
         var _this = this;
-        $.getJSON("Materials.json", function (json) {
+        $.getJSON("https://darklotus.github.io/Materials.json", function (json) {
             _this.gridData = json;
         });
     }
