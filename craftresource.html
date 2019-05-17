@@ -109,13 +109,9 @@
                   <td>{{entry['Name']}}</td>
                   <td>{{entry['MaterialType']}}</td>
                   
-                        
-                  <td v-for="e in entry['AttributeInfo']">
-                      <p>{{e}}</p>
-                  </td>
-                            
-                  
-                 
+                        <td v-for="key in attribss">
+                            <p>{{entry['AttributeInfo'][key]}}</p>
+                        </td>
                   <!--  <td v-for="key in columns">
                     {{entry[key]}}
                   </td> -->
@@ -198,14 +194,23 @@ var demo = new Vue({
       "Cold Damage",
       "Poison Damage",
       "Electric Damage",
-      "Chaos Damage",
       "Bonus Damage",
       "Physical Resist",
       "Fire Resist",
       "Cold Resist",
       "Poison Resist",
       "Electric Resist",
-      "Armor Durability",
+      "Armor Luck"],
+      attribss: ["Fire Damage",
+      "Cold Damage",
+      "Poison Damage",
+      "Electric Damage",
+      "Bonus Damage",
+      "Physical Resist",
+      "Fire Resist",
+      "Cold Resist",
+      "Poison Resist",
+      "Electric Resist",
       "Armor Luck"],
     gridData: []
   },
