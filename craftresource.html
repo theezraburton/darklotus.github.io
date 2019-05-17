@@ -95,7 +95,7 @@
               <thead>
                 <tr>
                   <th v-for="key in columns"
-                    @click="sortBy(key)"
+                    v-on:click="sortBy(key)"
                     :class="{ active: sortKey == key } sortable">
                     {{ key | capitalize }}
                     <span class="arrow" :class="sortOrders[key] > 0 ? 'asc' : 'dsc'">
@@ -105,13 +105,13 @@
               </thead>
               <tbody>
                 <tr v-for="entry in filteredData">
-                        <td><img v-bind:src="entry['Image']"/></td>
+                  <td><img v-bind:src="entry['Image']"/></td>
                   <td>{{entry['Name']}}</td>
                   <td>{{entry['MaterialType']}}</td>
                   
-                        <td v-for="key in attribss">
-                            <p>{{entry['AttributeInfo'][key]}}</p>
-                        </td>
+                  <td v-for="key in attribss">
+                      <p>{{entry['AttributeInfo'][key]}}</p>
+                  </td>
                   <!--  <td v-for="key in columns">
                     {{entry[key]}}
                   </td> -->
